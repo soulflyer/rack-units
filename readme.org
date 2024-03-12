@@ -1,0 +1,19 @@
+* VCV Rack Selections
+:PROPERTIES:
+:ATTACH_DIR: /Users/iain/Code/vcvrack/selections/readme-images
+:END:
+Applying some coding principles to Rack patches.
+
+By making use of the *little utils* *teleport* modules, and *Submarine* panel modules it is possible to create the analogue of a pure function containing a complete synthesizer unit. This makes it really easy to assemble a complete performance from prebuilt units, and also easy to see clearly the separate parts of a performance patch. This can be made even easier by including a *MindMeld* *PatchMaster* module in each unit to control the performance parameters of the unit. For example a unit for making wind and wave noises:
+
+[[file:readme-images/wind.png]]
+
+To make this work consistently means following a set of conventions.
+
+- All inputs come in via *teleport* on the left of the unit
+- All outputs are via teleport on the right hand side of the unit
+- Any performance controls are routed to a *PatchMaster* module
+- Inputs and outputs are labeled.
+- The unit is named.
+
+In this way it is possible to see the seperate parts of the patch at a glance. There are no cables crossing a unit that don't start and end within the unit.

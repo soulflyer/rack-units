@@ -1,0 +1,539 @@
+{
+  "modules": [
+    {
+      "id": 4518715234502951,
+      "plugin": "mscHack",
+      "model": "Mix_4_0_4",
+      "version": "2.0.0",
+      "params": [
+        {
+          "value": 0.5,
+          "id": 0
+        },
+        {
+          "value": 0.58799993991851807,
+          "id": 1
+        },
+        {
+          "value": 0.059999741613864899,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.62642687559127808,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.5,
+          "id": 17
+        },
+        {
+          "value": 0.5,
+          "id": 18
+        },
+        {
+          "value": 0.5,
+          "id": 19
+        },
+        {
+          "value": 0.5,
+          "id": 20
+        },
+        {
+          "value": 0.5,
+          "id": 21
+        },
+        {
+          "value": 0.5,
+          "id": 22
+        },
+        {
+          "value": 0.5,
+          "id": 23
+        },
+        {
+          "value": 0.5,
+          "id": 24
+        },
+        {
+          "value": 0.5,
+          "id": 25
+        },
+        {
+          "value": 0.5,
+          "id": 26
+        },
+        {
+          "value": 0.5,
+          "id": 27
+        },
+        {
+          "value": 0.5,
+          "id": 28
+        },
+        {
+          "value": 0.5,
+          "id": 29
+        },
+        {
+          "value": 0.5,
+          "id": 30
+        },
+        {
+          "value": 0.5,
+          "id": 31
+        },
+        {
+          "value": 0.5,
+          "id": 32
+        },
+        {
+          "value": 0.5,
+          "id": 33
+        },
+        {
+          "value": 0.5,
+          "id": 34
+        },
+        {
+          "value": 0.5,
+          "id": 35
+        },
+        {
+          "value": 0.5,
+          "id": 36
+        },
+        {
+          "value": 0.5,
+          "id": 37
+        },
+        {
+          "value": 0.5,
+          "id": 38
+        },
+        {
+          "value": 0.5,
+          "id": 39
+        },
+        {
+          "value": 0.5,
+          "id": 40
+        },
+        {
+          "value": 0.64607244729995728,
+          "id": 41
+        },
+        {
+          "value": 0.93855446577072144,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.0,
+          "id": 48
+        },
+        {
+          "value": 0.0,
+          "id": 49
+        },
+        {
+          "value": 0.0,
+          "id": 50
+        },
+        {
+          "value": 0.0,
+          "id": 51
+        },
+        {
+          "value": 0.0,
+          "id": 52
+        },
+        {
+          "value": 0.0,
+          "id": 53
+        },
+        {
+          "value": 0.0,
+          "id": 54
+        },
+        {
+          "value": 0.0,
+          "id": 55
+        },
+        {
+          "value": 0.0,
+          "id": 56
+        },
+        {
+          "value": 0.98674732446670532,
+          "id": 57
+        },
+        {
+          "value": 0.9650605320930481,
+          "id": 58
+        },
+        {
+          "value": 0.0,
+          "id": 59
+        },
+        {
+          "value": 0.0,
+          "id": 60
+        }
+      ],
+      "leftModuleId": 7475843713156727,
+      "rightModuleId": 3025859668572911,
+      "data": {
+        "m_bMuteStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bSoloStates": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bGroupPreMute": [
+          true
+        ],
+        "m_bGainLevelx2": [
+          false
+        ],
+        "m_bPreFader": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "m_bAuxIgnoreSolo": [
+          false
+        ]
+      },
+      "pos": [
+        54,
+        1
+      ]
+    },
+    {
+      "id": 2598176671531015,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 7337985739836633,
+      "rightModuleId": 8913973354419283,
+      "data": {
+        "label": "mix"
+      },
+      "pos": [
+        45,
+        1
+      ]
+    },
+    {
+      "id": 7475843713156727,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 8913973354419283,
+      "rightModuleId": 4518715234502951,
+      "data": {
+        "label": "mix2"
+      },
+      "pos": [
+        51,
+        1
+      ]
+    },
+    {
+      "id": 8913973354419283,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 2598176671531015,
+      "rightModuleId": 7475843713156727,
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        48,
+        1
+      ]
+    },
+    {
+      "id": 3025859668572911,
+      "plugin": "ML_modules",
+      "model": "FreeVerb",
+      "version": "2.0.2",
+      "params": [
+        {
+          "value": 0.90331023931503296,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 4518715234502951,
+      "rightModuleId": 6863038723143356,
+      "pos": [
+        74,
+        1
+      ]
+    },
+    {
+      "id": 6863038723143356,
+      "plugin": "Core",
+      "model": "AudioInterface2",
+      "version": "2.4.1",
+      "params": [
+        {
+          "value": 0.98220193386077881,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 3025859668572911,
+      "rightModuleId": 4151001179421768,
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "External Headphones",
+          "sampleRate": 48000.0,
+          "blockSize": 256,
+          "inputOffset": 0,
+          "outputOffset": 0
+        },
+        "dcFilter": true
+      },
+      "pos": [
+        80,
+        1
+      ]
+    },
+    {
+      "id": 4151001179421768,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6863038723143356,
+      "rightModuleId": 9002420300030283,
+      "pos": [
+        85,
+        1
+      ]
+    },
+    {
+      "id": 7337985739836633,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 2598176671531015,
+      "pos": [
+        44,
+        1
+      ]
+    },
+    {
+      "id": 2279891110807888,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 9002420300030283,
+      "pos": [
+        92,
+        1
+      ]
+    },
+    {
+      "id": 9002420300030283,
+      "plugin": "Alikins",
+      "model": "BigMuteButton",
+      "version": "2.0.1",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 4151001179421768,
+      "rightModuleId": 2279891110807888,
+      "pos": [
+        86,
+        1
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 426537267033572,
+      "outputModuleId": 4518715234502951,
+      "outputId": 0,
+      "inputModuleId": 9002420300030283,
+      "inputId": 0,
+      "color": "#8b4ade"
+    },
+    {
+      "id": 6588095710847074,
+      "outputModuleId": 4518715234502951,
+      "outputId": 1,
+      "inputModuleId": 9002420300030283,
+      "inputId": 1,
+      "color": "#f3374b"
+    },
+    {
+      "id": 1202534663144609,
+      "outputModuleId": 9002420300030283,
+      "outputId": 0,
+      "inputModuleId": 6863038723143356,
+      "inputId": 0,
+      "color": "#ffb437"
+    },
+    {
+      "id": 7555516567837832,
+      "outputModuleId": 9002420300030283,
+      "outputId": 1,
+      "inputModuleId": 6863038723143356,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 1734570009110405,
+      "outputModuleId": 7475843713156727,
+      "outputId": 0,
+      "inputModuleId": 4518715234502951,
+      "inputId": 2,
+      "color": "#00b56e"
+    },
+    {
+      "id": 8407812036612048,
+      "outputModuleId": 2598176671531015,
+      "outputId": 0,
+      "inputModuleId": 4518715234502951,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 8820105408264714,
+      "outputModuleId": 8913973354419283,
+      "outputId": 0,
+      "inputModuleId": 4518715234502951,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 1810815880459680,
+      "outputModuleId": 4518715234502951,
+      "outputId": 2,
+      "inputModuleId": 3025859668572911,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 6099017749069820,
+      "outputModuleId": 3025859668572911,
+      "outputId": 0,
+      "inputModuleId": 4518715234502951,
+      "inputId": 4,
+      "color": "#f3374b"
+    },
+    {
+      "id": 4026778334403618,
+      "outputModuleId": 3025859668572911,
+      "outputId": 1,
+      "inputModuleId": 4518715234502951,
+      "inputId": 12,
+      "color": "#f3374b"
+    }
+  ]
+}

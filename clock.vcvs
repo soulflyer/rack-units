@@ -1,0 +1,375 @@
+{
+  "modules": [
+    {
+      "id": 8926983044522387,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 3882055539393968,
+      "rightModuleId": 6139851367328364,
+      "data": {
+        "label": "clck"
+      },
+      "pos": [
+        126,
+        1
+      ]
+    },
+    {
+      "id": 2474220621301254,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6131427990533840,
+      "rightModuleId": 1921822424349717,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "clk",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 4.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "reset",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 4.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-1",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 4.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-2",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 4.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-3",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 4.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        141,
+        1
+      ]
+    },
+    {
+      "id": 3882055539393968,
+      "plugin": "ImpromptuModular",
+      "model": "Clocked",
+      "version": "2.4.2",
+      "params": [
+        {
+          "value": 139.0,
+          "id": 0
+        },
+        {
+          "value": 2.0,
+          "id": 1
+        },
+        {
+          "value": 5.0,
+          "id": 2
+        },
+        {
+          "value": -5.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.5,
+          "id": 8
+        },
+        {
+          "value": 0.5,
+          "id": 9
+        },
+        {
+          "value": 0.5,
+          "id": 10
+        },
+        {
+          "value": 0.5,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        }
+      ],
+      "leftModuleId": 7542823522848140,
+      "rightModuleId": 8926983044522387,
+      "data": {
+        "panelTheme": 2,
+        "panelContrast": 220.0,
+        "running": false,
+        "displayDelayNoteMode": true,
+        "bpmDetectionMode": false,
+        "resetOnStartStop": 0,
+        "ppqn": 4,
+        "resetClockOutputsHigh": true,
+        "momentaryRunInput": true,
+        "forceCvOnBpmOut": false,
+        "bpmInputScale": 1.0,
+        "bpmInputOffset": 0.0,
+        "clockMaster": false
+      },
+      "pos": [
+        106,
+        1
+      ]
+    },
+    {
+      "id": 5249304416224229,
+      "plugin": "rcm",
+      "model": "rcm-CVMmt",
+      "version": "2.0.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 4447490656212854,
+      "rightModuleId": 7542823522848140,
+      "data": {
+        "backgroundHue": 0.75400000810623169,
+        "backgroundSaturation": 1.0,
+        "backgroundLuminosity": 0.57999998331069946,
+        "textfield": {
+          "text": "eek"
+        }
+      },
+      "pos": [
+        100,
+        1
+      ]
+    },
+    {
+      "id": 1921822424349717,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 2474220621301254,
+      "data": {
+        "label": "clck"
+      },
+      "pos": [
+        146,
+        1
+      ]
+    },
+    {
+      "id": 6139851367328364,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8926983044522387,
+      "rightModuleId": 7216522274092780,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "clk",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "reset",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-1",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-2",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-3",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        129,
+        1
+      ]
+    },
+    {
+      "id": 7216522274092780,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6139851367328364,
+      "pos": [
+        134,
+        1
+      ]
+    },
+    {
+      "id": 7542823522848140,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 5249304416224229,
+      "rightModuleId": 3882055539393968,
+      "pos": [
+        105,
+        1
+      ]
+    },
+    {
+      "id": 4447490656212854,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 5249304416224229,
+      "pos": [
+        99,
+        1
+      ]
+    },
+    {
+      "id": 6131427990533840,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 2474220621301254,
+      "pos": [
+        140,
+        1
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 3500513754457974,
+      "outputModuleId": 3882055539393968,
+      "outputId": 4,
+      "inputModuleId": 8926983044522387,
+      "inputId": 7,
+      "color": "#3695ef"
+    },
+    {
+      "id": 4291877884891999,
+      "outputModuleId": 5249304416224229,
+      "outputId": 0,
+      "inputModuleId": 3882055539393968,
+      "inputId": 5,
+      "color": "#677336"
+    },
+    {
+      "id": 2885766580895250,
+      "outputModuleId": 3882055539393968,
+      "outputId": 0,
+      "inputModuleId": 8926983044522387,
+      "inputId": 6,
+      "color": "#3695ef"
+    },
+    {
+      "id": 866357276039860,
+      "outputModuleId": 3882055539393968,
+      "outputId": 1,
+      "inputModuleId": 8926983044522387,
+      "inputId": 0,
+      "color": "#808080"
+    },
+    {
+      "id": 7452628476134366,
+      "outputModuleId": 3882055539393968,
+      "outputId": 2,
+      "inputModuleId": 8926983044522387,
+      "inputId": 1,
+      "color": "#677336"
+    },
+    {
+      "id": 2373578535390710,
+      "outputModuleId": 3882055539393968,
+      "outputId": 3,
+      "inputModuleId": 8926983044522387,
+      "inputId": 2,
+      "color": "#f3374b"
+    }
+  ]
+}
