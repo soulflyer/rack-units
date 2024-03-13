@@ -1,18 +1,70 @@
 {
   "modules": [
     {
-      "id": 8926983044522387,
+      "id": 1921822424349717,
       "plugin": "LittleUtils",
-      "model": "TeleportIn",
+      "model": "TeleportOut",
       "version": "2.1.0",
       "params": [],
-      "leftModuleId": 3882055539393968,
-      "rightModuleId": 6139851367328364,
+      "leftModuleId": 2474220621301254,
       "data": {
         "label": "clck"
       },
       "pos": [
-        126,
+        190,
+        1
+      ]
+    },
+    {
+      "id": 6139851367328364,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8926983044522387,
+      "rightModuleId": 7216522274092780,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "clk",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "reset",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-1",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-2",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "clk-3",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        175,
         1
       ]
     },
@@ -65,7 +117,23 @@
         ]
       },
       "pos": [
-        141,
+        185,
+        1
+      ]
+    },
+    {
+      "id": 5764696869827727,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 786850003377809,
+      "rightModuleId": 3882055539393968,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        149,
         1
       ]
     },
@@ -156,11 +224,11 @@
           "id": 19
         }
       ],
-      "leftModuleId": 7542823522848140,
+      "leftModuleId": 5764696869827727,
       "rightModuleId": 8926983044522387,
       "data": {
-        "panelTheme": 2,
-        "panelContrast": 220.0,
+        "panelTheme": 3,
+        "panelContrast": 222.29978942871094,
         "running": false,
         "displayDelayNoteMode": true,
         "bpmDetectionMode": false,
@@ -174,138 +242,35 @@
         "clockMaster": false
       },
       "pos": [
-        106,
+        152,
         1
       ]
     },
     {
-      "id": 5249304416224229,
-      "plugin": "rcm",
-      "model": "rcm-CVMmt",
-      "version": "2.0.0",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 4447490656212854,
-      "rightModuleId": 7542823522848140,
-      "data": {
-        "backgroundHue": 0.75400000810623169,
-        "backgroundSaturation": 1.0,
-        "backgroundLuminosity": 0.57999998331069946,
-        "textfield": {
-          "text": "eek"
-        }
-      },
-      "pos": [
-        100,
-        1
-      ]
-    },
-    {
-      "id": 1921822424349717,
+      "id": 8926983044522387,
       "plugin": "LittleUtils",
-      "model": "TeleportOut",
+      "model": "TeleportIn",
       "version": "2.1.0",
       "params": [],
-      "leftModuleId": 2474220621301254,
+      "leftModuleId": 3882055539393968,
+      "rightModuleId": 6139851367328364,
       "data": {
         "label": "clck"
       },
       "pos": [
-        146,
+        172,
         1
       ]
     },
     {
-      "id": 6139851367328364,
-      "plugin": "SubmarineFree",
-      "model": "TD-410",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 8926983044522387,
-      "rightModuleId": 7216522274092780,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "clk",
-            "color": "#29b2ef",
-            "position": 270.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "reset",
-            "color": "#29b2ef",
-            "position": 306.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "clk-1",
-            "color": "#29b2ef",
-            "position": 49.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "clk-2",
-            "color": "#29b2ef",
-            "position": 86.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "clk-3",
-            "color": "#29b2ef",
-            "position": 123.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          }
-        ]
-      },
-      "pos": [
-        129,
-        1
-      ]
-    },
-    {
-      "id": 7216522274092780,
+      "id": 786850003377809,
       "plugin": "SubmarineFree",
       "model": "BP-101",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 6139851367328364,
+      "rightModuleId": 5764696869827727,
       "pos": [
-        134,
-        1
-      ]
-    },
-    {
-      "id": 7542823522848140,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 5249304416224229,
-      "rightModuleId": 3882055539393968,
-      "pos": [
-        105,
-        1
-      ]
-    },
-    {
-      "id": 4447490656212854,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 5249304416224229,
-      "pos": [
-        99,
+        148,
         1
       ]
     },
@@ -317,7 +282,19 @@
       "params": [],
       "rightModuleId": 2474220621301254,
       "pos": [
-        140,
+        184,
+        1
+      ]
+    },
+    {
+      "id": 7216522274092780,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6139851367328364,
+      "pos": [
+        180,
         1
       ]
     }
@@ -330,14 +307,6 @@
       "inputModuleId": 8926983044522387,
       "inputId": 7,
       "color": "#3695ef"
-    },
-    {
-      "id": 4291877884891999,
-      "outputModuleId": 5249304416224229,
-      "outputId": 0,
-      "inputModuleId": 3882055539393968,
-      "inputId": 5,
-      "color": "#677336"
     },
     {
       "id": 2885766580895250,
@@ -370,6 +339,14 @@
       "inputModuleId": 8926983044522387,
       "inputId": 2,
       "color": "#f3374b"
+    },
+    {
+      "id": 5932341514695757,
+      "outputModuleId": 5764696869827727,
+      "outputId": 0,
+      "inputModuleId": 3882055539393968,
+      "inputId": 5,
+      "color": "#677336"
     }
   ]
 }
