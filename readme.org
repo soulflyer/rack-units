@@ -17,3 +17,11 @@ To make this work consistently means following a set of conventions.
 - The unit is named.
 
 In this way it is possible to see the seperate parts of the patch at a glance. There are no cables crossing a unit that don't start and end within the unit.
+
+Here is another example. Note the extra *teleport* module included in the *unit* This is there to make wiring it up easier. This can just be dragged next to the mixer and connected to the next free channel.
+
+[[file:readme-images/sample-chooser.png]]
+
+And here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts* and *cable colouring
+*
+[[file:readme-images/start-here.png]]
