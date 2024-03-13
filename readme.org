@@ -22,6 +22,6 @@ Here is another example. Note the extra *teleport* module included in the *unit*
 
 [[file:readme-images/sample-chooser.png]]
 
-And here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts* and *cable colouring
-*
+And here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts* and *cable colouring*
+
 [[file:readme-images/start-here.png]]
