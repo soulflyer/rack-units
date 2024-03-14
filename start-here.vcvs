@@ -602,11 +602,11 @@
       "version": "2.2.3",
       "params": [
         {
-          "value": 0.46626999974250793,
+          "value": 0.0,
           "id": 0
         },
         {
-          "value": 0.0,
+          "value": 1.1011908054351807,
           "id": 1
         },
         {
@@ -762,7 +762,7 @@
           "id": 39
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 40
         },
         {
@@ -774,7 +774,7 @@
           "id": 42
         },
         {
-          "value": 0.68217074871063232,
+          "value": 0.82587975263595581,
           "id": 43
         },
         {
@@ -1079,6 +1079,249 @@
       ]
     },
     {
+      "id": 8077435393325279,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 4764876507861188,
+      "rightModuleId": 5472394941887430,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        180,
+        2
+      ]
+    },
+    {
+      "id": 8651087586445159,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 4820444388580904,
+      "rightModuleId": 3354876173439272,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Soulflyer - Start Here ",
+            "color": "#29b2ef",
+            "position": 4.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        117,
+        2
+      ]
+    },
+    {
+      "id": 8296338752347919,
+      "plugin": "SubmarineFree",
+      "model": "TD-316",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 8886437172601555,
+      "data": {
+        "width": 150.0,
+        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock",
+        "size": 12.0,
+        "fg": "#29b2ef",
+        "bg": "#000000"
+      },
+      "pos": [
+        133,
+        2
+      ]
+    },
+    {
+      "id": 3354876173439272,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 8651087586445159,
+      "rightModuleId": 400539994124753,
+      "data": {
+        "label": "wind"
+      },
+      "pos": [
+        122,
+        2
+      ]
+    },
+    {
+      "id": 400539994124753,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 3354876173439272,
+      "data": {
+        "label": "Samp"
+      },
+      "pos": [
+        125,
+        2
+      ]
+    },
+    {
+      "id": 8886437172601555,
+      "plugin": "CountModula",
+      "model": "Palette",
+      "version": "2.5.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 8296338752347919,
+      "rightModuleId": 4197049742391290,
+      "data": {
+        "moduleVersion": 1,
+        "color": 5,
+        "theme": 0
+      },
+      "pos": [
+        143,
+        2
+      ]
+    },
+    {
+      "id": 4479700819502420,
+      "plugin": "Fundamental",
+      "model": "Push",
+      "version": "2.6.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 6229287258865277,
+      "rightModuleId": 4764876507861188,
+      "data": {
+        "hold": true
+      },
+      "pos": [
+        171,
+        2
+      ]
+    },
+    {
+      "id": 4056943084609834,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2689195732381796,
+      "pos": [
+        183,
+        3
+      ]
+    },
+    {
+      "id": 5472394941887430,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8077435393325279,
+      "pos": [
+        183,
+        2
+      ]
+    },
+    {
+      "id": 1602111631245022,
+      "plugin": "ML_modules",
+      "model": "FreeVerb",
+      "version": "2.0.2",
+      "params": [
+        {
+          "value": 0.89025139808654785,
+          "id": 0
+        },
+        {
+          "value": 0.56785213947296143,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 4197049742391290,
+      "rightModuleId": 3498190966960356,
+      "pos": [
+        152,
+        2
+      ]
+    },
+    {
+      "id": 4197049742391290,
+      "plugin": "Core",
+      "model": "AudioInterface2",
+      "version": "2.4.1",
+      "params": [
+        {
+          "value": 0.97386348247528076,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 8886437172601555,
+      "rightModuleId": 1602111631245022,
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "External Headphones",
+          "sampleRate": 48000.0,
+          "blockSize": 256,
+          "inputOffset": 0,
+          "outputOffset": 0
+        },
+        "dcFilter": true
+      },
+      "pos": [
+        147,
+        2
+      ]
+    },
+    {
+      "id": 4820444388580904,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 8651087586445159,
+      "pos": [
+        116,
+        2
+      ]
+    },
+    {
+      "id": 494531067011903,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 3156270870291905,
+      "pos": [
+        116,
+        3
+      ]
+    },
+    {
       "id": 2689195732381796,
       "plugin": "MindMeldModular",
       "model": "AuxExpanderJr",
@@ -1101,7 +1344,7 @@
           "id": 3
         },
         {
-          "value": 0.0,
+          "value": 0.14925321936607361,
           "id": 4
         },
         {
@@ -1249,7 +1492,7 @@
           "id": 40
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 41
         },
         {
@@ -1349,7 +1592,7 @@
           "id": 65
         },
         {
-          "value": 0.5,
+          "value": 0.68320703506469727,
           "id": 66
         },
         {
@@ -1582,233 +1825,6 @@
         168,
         2
       ]
-    },
-    {
-      "id": 3354876173439272,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 8651087586445159,
-      "data": {
-        "label": "wind"
-      },
-      "pos": [
-        122,
-        2
-      ]
-    },
-    {
-      "id": 6269745124298865,
-      "plugin": "CountModula",
-      "model": "Palette",
-      "version": "2.5.0",
-      "params": [
-        {
-          "value": 1.0,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 8296338752347919,
-      "rightModuleId": 4197049742391290,
-      "data": {
-        "moduleVersion": 1,
-        "color": 6,
-        "theme": 0
-      },
-      "pos": [
-        143,
-        2
-      ]
-    },
-    {
-      "id": 8651087586445159,
-      "plugin": "SubmarineFree",
-      "model": "TD-510",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 4820444388580904,
-      "rightModuleId": 3354876173439272,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "Soulflyer - Start Here ",
-            "color": "#29b2ef",
-            "position": 4.0,
-            "alignment": 1.0,
-            "fontSize": 26.0,
-            "flip": 1.0
-          }
-        ]
-      },
-      "pos": [
-        117,
-        2
-      ]
-    },
-    {
-      "id": 8296338752347919,
-      "plugin": "SubmarineFree",
-      "model": "TD-316",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 6269745124298865,
-      "data": {
-        "width": 150.0,
-        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock",
-        "size": 12.0,
-        "fg": "#29b2ef",
-        "bg": "#000000"
-      },
-      "pos": [
-        133,
-        2
-      ]
-    },
-    {
-      "id": 8077435393325279,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 4764876507861188,
-      "rightModuleId": 5472394941887430,
-      "data": {
-        "label": "kybd"
-      },
-      "pos": [
-        180,
-        2
-      ]
-    },
-    {
-      "id": 4197049742391290,
-      "plugin": "Core",
-      "model": "AudioInterface2",
-      "version": "2.4.1",
-      "params": [
-        {
-          "value": 0.97386348247528076,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 6269745124298865,
-      "rightModuleId": 1602111631245022,
-      "data": {
-        "audio": {
-          "driver": 5,
-          "deviceName": "External Headphones",
-          "sampleRate": 48000.0,
-          "blockSize": 256,
-          "inputOffset": 0,
-          "outputOffset": 0
-        },
-        "dcFilter": true
-      },
-      "pos": [
-        147,
-        2
-      ]
-    },
-    {
-      "id": 4820444388580904,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 8651087586445159,
-      "pos": [
-        116,
-        2
-      ]
-    },
-    {
-      "id": 494531067011903,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 3156270870291905,
-      "pos": [
-        116,
-        3
-      ]
-    },
-    {
-      "id": 4479700819502420,
-      "plugin": "Fundamental",
-      "model": "Push",
-      "version": "2.6.0",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        },
-        {
-          "value": 0.0,
-          "id": 1
-        }
-      ],
-      "leftModuleId": 6229287258865277,
-      "rightModuleId": 4764876507861188,
-      "data": {
-        "hold": false
-      },
-      "pos": [
-        171,
-        2
-      ]
-    },
-    {
-      "id": 4056943084609834,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 2689195732381796,
-      "pos": [
-        183,
-        3
-      ]
-    },
-    {
-      "id": 5472394941887430,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 8077435393325279,
-      "pos": [
-        183,
-        2
-      ]
-    },
-    {
-      "id": 1602111631245022,
-      "plugin": "ML_modules",
-      "model": "FreeVerb",
-      "version": "2.0.2",
-      "params": [
-        {
-          "value": 0.89025139808654785,
-          "id": 0
-        },
-        {
-          "value": 0.56785213947296143,
-          "id": 1
-        },
-        {
-          "value": 0.0,
-          "id": 2
-        }
-      ],
-      "leftModuleId": 4197049742391290,
-      "rightModuleId": 3498190966960356,
-      "pos": [
-        152,
-        2
-      ]
     }
   ],
   "cables": [
@@ -1947,6 +1963,22 @@
       "inputModuleId": 4479700819502420,
       "inputId": 0,
       "color": "#677336"
+    },
+    {
+      "id": 2692221087976099,
+      "outputModuleId": 400539994124753,
+      "outputId": 0,
+      "inputModuleId": 3156270870291905,
+      "inputId": 2,
+      "color": "#ffb437"
+    },
+    {
+      "id": 1335435667098213,
+      "outputModuleId": 400539994124753,
+      "outputId": 1,
+      "inputModuleId": 3156270870291905,
+      "inputId": 3,
+      "color": "#ffb437"
     }
   ]
 }

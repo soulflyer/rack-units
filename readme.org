@@ -18,10 +18,19 @@ To make this work consistently means following a set of conventions.
 
 In this way it is possible to see the seperate parts of the patch at a glance. There are no cables crossing a unit that don't start and end within the unit.
 
-Here is another example. Note the extra *teleport* module included in the *unit* This is there to make wiring it up easier. This can just be dragged next to the mixer and connected to the next free channel.
+Here is another example. Note the extra *teleport* module included in the *unit* This is there to make wiring it up easier. This can just be dragged next to the mixer and connected to the next free channel. 
 
 [[file:readme-images/sample-chooser.png]]
 
-And here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts* and *cable colouring*
+This unit is designed to make selecting samples easy. The sequencer runs a simple pattern and once a directory full of samples is selected in the *wavbank* module different samnples can be previewed using keyboard shortcuts. If you are using the *start-here* unit it will be *z* and *x* to go forwards and back through the samples. The selected sample can also be triggered with the *a* key.
+
+** Getting started
+Here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts* and *cable colouring*
 
 [[file:readme-images/start-here.png]]
+
+and a template is provided in *new-unit* that looks like this:
+
+[[file:readme-images/template.png]]
+
+Drag the *teleport* unit from the right hand side to somewhere near the main mixer and connect it to an available channel. The left hand one may not be necessary dependant on what you plan to create. It is likely  you will want to select your clock unit as the source for the input side.

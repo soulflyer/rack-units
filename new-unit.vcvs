@@ -1,0 +1,166 @@
+{
+  "modules": [
+    {
+      "id": 1603720067306980,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "rightModuleId": 2498476777459067,
+      "data": {
+        "label": "out"
+      },
+      "pos": [
+        159,
+        5
+      ]
+    },
+    {
+      "id": 8945235703236665,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "data": {
+        "label": "in"
+      },
+      "pos": [
+        116,
+        5
+      ]
+    },
+    {
+      "id": 6667731685371269,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 1606102865644262,
+      "rightModuleId": 6746906507814756,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Unit name goes here ",
+            "color": "#29b2ef",
+            "position": 7.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        122,
+        5
+      ]
+    },
+    {
+      "id": 2498476777459067,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 1603720067306980,
+      "rightModuleId": 7796211641649658,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "left",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "right",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        162,
+        5
+      ]
+    },
+    {
+      "id": 6746906507814756,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6667731685371269,
+      "data": {
+        "label": "in"
+      },
+      "pos": [
+        127,
+        5
+      ]
+    },
+    {
+      "id": 6416759229751884,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "data": {
+        "label": "out"
+      },
+      "pos": [
+        170,
+        5
+      ]
+    },
+    {
+      "id": 7796211641649658,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2498476777459067,
+      "pos": [
+        167,
+        5
+      ]
+    },
+    {
+      "id": 1606102865644262,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 6667731685371269,
+      "pos": [
+        121,
+        5
+      ]
+    }
+  ],
+  "cables": []
+}

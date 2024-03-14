@@ -1,6 +1,22 @@
 {
   "modules": [
     {
+      "id": 3909538528395903,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6148966705184163,
+      "rightModuleId": 1629450665398337,
+      "data": {
+        "label": "Samp"
+      },
+      "pos": [
+        240,
+        4
+      ]
+    },
+    {
       "id": 1361120792532305,
       "plugin": "LittleUtils",
       "model": "TeleportOut",
@@ -65,10 +81,10 @@
       "version": "2.1.0",
       "params": [],
       "data": {
-        "label": "Drum"
+        "label": "Samp"
       },
       "pos": [
-        248,
+        253,
         4
       ]
     },
@@ -121,23 +137,7 @@
         ]
       },
       "pos": [
-        240,
-        4
-      ]
-    },
-    {
-      "id": 3909538528395903,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 6148966705184163,
-      "rightModuleId": 1629450665398337,
-      "data": {
-        "label": "Drum"
-      },
-      "pos": [
-        237,
+        243,
         4
       ]
     },
@@ -161,7 +161,20 @@
       "params": [],
       "leftModuleId": 1629450665398337,
       "pos": [
-        245,
+        248,
+        4
+      ]
+    },
+    {
+      "id": 8588294448682350,
+      "plugin": "SynthKit",
+      "model": "Or",
+      "version": "2.0.1",
+      "params": [],
+      "leftModuleId": 7339838035080927,
+      "rightModuleId": 6148966705184163,
+      "pos": [
+        217,
         4
       ]
     },
@@ -317,10 +330,10 @@
         }
       ],
       "leftModuleId": 2474264179739776,
-      "rightModuleId": 6148966705184163,
+      "rightModuleId": 8588294448682350,
       "data": {
         "moduleVersion": 2,
-        "currentStep": 5,
+        "currentStep": 7,
         "direction": 0,
         "runState": true,
         "theme": 0
@@ -337,7 +350,7 @@
       "version": "2.28.0",
       "params": [
         {
-          "value": 0.45754715800285339,
+          "value": 0.48113209009170532,
           "id": 0
         },
         {
@@ -361,7 +374,7 @@
           "id": 5
         }
       ],
-      "leftModuleId": 7339838035080927,
+      "leftModuleId": 8588294448682350,
       "rightModuleId": 3909538528395903,
       "data": {
         "path": "/Users/iain/Music/Sounds/Drums/Kick",
@@ -369,7 +382,7 @@
         "smoothing": 1
       },
       "pos": [
-        217,
+        220,
         4
       ]
     }
@@ -408,14 +421,6 @@
       "color": "#ffb437"
     },
     {
-      "id": 2580888435119269,
-      "outputModuleId": 7339838035080927,
-      "outputId": 0,
-      "inputModuleId": 6148966705184163,
-      "inputId": 0,
-      "color": "#ffb437"
-    },
-    {
       "id": 5349744982292194,
       "outputModuleId": 2474264179739776,
       "outputId": 6,
@@ -430,6 +435,30 @@
       "inputModuleId": 7339838035080927,
       "inputId": 1,
       "color": "#ffb437"
+    },
+    {
+      "id": 6656785963691272,
+      "outputModuleId": 8588294448682350,
+      "outputId": 0,
+      "inputModuleId": 6148966705184163,
+      "inputId": 0,
+      "color": "#ffb437"
+    },
+    {
+      "id": 1082173435013184,
+      "outputModuleId": 7339838035080927,
+      "outputId": 0,
+      "inputModuleId": 8588294448682350,
+      "inputId": 0,
+      "color": "#ffb437"
+    },
+    {
+      "id": 7846939694264908,
+      "outputModuleId": 2474264179739776,
+      "outputId": 5,
+      "inputModuleId": 8588294448682350,
+      "inputId": 1,
+      "color": "#dd6c00"
     }
   ]
 }
