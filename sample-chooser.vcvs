@@ -1,184 +1,6 @@
 {
   "modules": [
     {
-      "id": 3909538528395903,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 6148966705184163,
-      "rightModuleId": 1629450665398337,
-      "data": {
-        "label": "Samp"
-      },
-      "pos": [
-        240,
-        4
-      ]
-    },
-    {
-      "id": 1361120792532305,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 7755704685618118,
-      "rightModuleId": 2474264179739776,
-      "data": {
-        "label": "clck"
-      },
-      "pos": [
-        195,
-        4
-      ]
-    },
-    {
-      "id": 2474264179739776,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 1361120792532305,
-      "rightModuleId": 7339838035080927,
-      "data": {
-        "label": "kybd"
-      },
-      "pos": [
-        198,
-        4
-      ]
-    },
-    {
-      "id": 7755704685618118,
-      "plugin": "SubmarineFree",
-      "model": "TD-510",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 5238842663341999,
-      "rightModuleId": 1361120792532305,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "Sample Chooser ",
-            "color": "#29b2ef",
-            "position": 4.0,
-            "alignment": 1.0,
-            "fontSize": 26.0,
-            "flip": 1.0
-          }
-        ]
-      },
-      "pos": [
-        190,
-        4
-      ]
-    },
-    {
-      "id": 400539994124753,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "data": {
-        "label": "Samp"
-      },
-      "pos": [
-        253,
-        4
-      ]
-    },
-    {
-      "id": 1629450665398337,
-      "plugin": "SubmarineFree",
-      "model": "TD-410",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 3909538528395903,
-      "rightModuleId": 3425608913624917,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "",
-            "color": "#29b2ef",
-            "position": 270.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "",
-            "color": "#29b2ef",
-            "position": 306.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "left",
-            "color": "#29b2ef",
-            "position": 49.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "right",
-            "color": "#29b2ef",
-            "position": 86.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "",
-            "color": "#29b2ef",
-            "position": 123.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          }
-        ]
-      },
-      "pos": [
-        243,
-        4
-      ]
-    },
-    {
-      "id": 5238842663341999,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 7755704685618118,
-      "pos": [
-        189,
-        4
-      ]
-    },
-    {
-      "id": 3425608913624917,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 1629450665398337,
-      "pos": [
-        248,
-        4
-      ]
-    },
-    {
-      "id": 8588294448682350,
-      "plugin": "SynthKit",
-      "model": "Or",
-      "version": "2.0.1",
-      "params": [],
-      "leftModuleId": 7339838035080927,
-      "rightModuleId": 6148966705184163,
-      "pos": [
-        217,
-        4
-      ]
-    },
-    {
       "id": 7339838035080927,
       "plugin": "CountModula",
       "model": "BasicSequencer8",
@@ -225,7 +47,7 @@
           "id": 9
         },
         {
-          "value": 0.0,
+          "value": 0.85690796375274658,
           "id": 10
         },
         {
@@ -269,11 +91,11 @@
           "id": 20
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 21
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 22
         },
         {
@@ -333,13 +155,13 @@
       "rightModuleId": 8588294448682350,
       "data": {
         "moduleVersion": 2,
-        "currentStep": 7,
+        "currentStep": 0,
         "direction": 0,
         "runState": true,
         "theme": 0
       },
       "pos": [
-        201,
+        215,
         4
       ]
     },
@@ -350,7 +172,7 @@
       "version": "2.28.0",
       "params": [
         {
-          "value": 0.48113209009170532,
+          "value": 0.48148149251937866,
           "id": 0
         },
         {
@@ -377,12 +199,176 @@
       "leftModuleId": 8588294448682350,
       "rightModuleId": 3909538528395903,
       "data": {
-        "path": "/Users/iain/Music/Sounds/Drums/Kick",
+        "path": "/Users/iain/Music/Sounds/Drums/Hi-Hat",
         "sample_change_mode": 0,
         "smoothing": 1
       },
       "pos": [
-        220,
+        234,
+        4
+      ]
+    },
+    {
+      "id": 1361120792532305,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 7755704685618118,
+      "rightModuleId": 2474264179739776,
+      "data": {
+        "label": "clck"
+      },
+      "pos": [
+        209,
+        4
+      ]
+    },
+    {
+      "id": 2474264179739776,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 1361120792532305,
+      "rightModuleId": 7339838035080927,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        212,
+        4
+      ]
+    },
+    {
+      "id": 7755704685618118,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 5238842663341999,
+      "rightModuleId": 1361120792532305,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Sample Chooser ",
+            "color": "#29b2ef",
+            "position": 4.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        204,
+        4
+      ]
+    },
+    {
+      "id": 1629450665398337,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 3909538528395903,
+      "rightModuleId": 3425608913624917,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "left",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "right",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        257,
+        4
+      ]
+    },
+    {
+      "id": 3909538528395903,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6148966705184163,
+      "rightModuleId": 1629450665398337,
+      "data": {
+        "label": "Samp"
+      },
+      "pos": [
+        254,
+        4
+      ]
+    },
+    {
+      "id": 5238842663341999,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 7755704685618118,
+      "pos": [
+        203,
+        4
+      ]
+    },
+    {
+      "id": 3425608913624917,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 1629450665398337,
+      "pos": [
+        262,
+        4
+      ]
+    },
+    {
+      "id": 8588294448682350,
+      "plugin": "SynthKit",
+      "model": "Or",
+      "version": "2.0.1",
+      "params": [],
+      "leftModuleId": 7339838035080927,
+      "rightModuleId": 6148966705184163,
+      "pos": [
+        231,
         4
       ]
     }
@@ -411,14 +397,6 @@
       "inputModuleId": 6148966705184163,
       "inputId": 4,
       "color": "#dd6c00"
-    },
-    {
-      "id": 2042443858340417,
-      "outputModuleId": 1361120792532305,
-      "outputId": 7,
-      "inputModuleId": 7339838035080927,
-      "inputId": 2,
-      "color": "#ffb437"
     },
     {
       "id": 5349744982292194,
@@ -459,6 +437,14 @@
       "inputModuleId": 8588294448682350,
       "inputId": 1,
       "color": "#dd6c00"
+    },
+    {
+      "id": 7994291600934114,
+      "outputModuleId": 1361120792532305,
+      "outputId": 6,
+      "inputModuleId": 7339838035080927,
+      "inputId": 2,
+      "color": "#ffb437"
     }
   ]
 }

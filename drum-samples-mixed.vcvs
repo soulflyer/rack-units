@@ -1,6 +1,76 @@
 {
   "modules": [
     {
+      "id": 6667731685371269,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 1606102865644262,
+      "rightModuleId": 6746906507814756,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Sample Drums ",
+            "color": "#29b2ef",
+            "position": 7.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        117,
+        5
+      ]
+    },
+    {
+      "id": 6746906507814756,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6667731685371269,
+      "rightModuleId": 4293097013767140,
+      "data": {
+        "label": "clck"
+      },
+      "pos": [
+        122,
+        5
+      ]
+    },
+    {
+      "id": 1603720067306980,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 1045366697119491,
+      "rightModuleId": 7796211641649658,
+      "data": {
+        "label": "out"
+      },
+      "pos": [
+        209,
+        5
+      ]
+    },
+    {
+      "id": 1606102865644262,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 6667731685371269,
+      "pos": [
+        116,
+        5
+      ]
+    },
+    {
       "id": 1172815015414873,
       "plugin": "SickoCV",
       "model": "DrumPlayer",
@@ -35,7 +105,7 @@
           "id": 6
         },
         {
-          "value": 1.0,
+          "value": 0.53949737548828125,
           "id": 7
         },
         {
@@ -47,11 +117,11 @@
           "id": 9
         },
         {
-          "value": 1.0,
+          "value": 1.5079926252365112,
           "id": 10
         },
         {
-          "value": 1.0,
+          "value": 2.0,
           "id": 11
         },
         {
@@ -67,7 +137,7 @@
           "id": 14
         }
       ],
-      "leftModuleId": 6595920042818167,
+      "leftModuleId": 4293097013767140,
       "rightModuleId": 4540298047743926,
       "data": {
         "Interpolation": 3,
@@ -76,12 +146,12 @@
         "sampleInPatch": true,
         "Slot1": "/Users/iain/Music/Sounds/Drums/Kick/15INCH_KIC_L.WAV",
         "Slot2": "/Users/iain/Music/Sounds/Drums/Snare/AN_SNR.WAV",
-        "Slot3": "/Users/iain/Music/Sounds/Drums/Hi-Hat/18HHC.WAV",
-        "Slot4": "/Users/iain/Music/Sounds/Drums/Hi-Hat/18HHO.WAV",
+        "Slot3": "/Users/iain/Music/Sounds/Drums/Hi-Hat/K_ZIL_HH_1_L.WAV",
+        "Slot4": "/Users/iain/Music/Sounds/Drums/Hi-Hat/K_ZIL_HO10_L.WAV",
         "UserFolder": ""
       },
       "pos": [
-        162,
+        157,
         5
       ]
     },
@@ -159,82 +229,14 @@
         "AntiAlias": 1,
         "OutsMode": 0,
         "sampleInPatch": true,
-        "Slot1": "/Users/iain/Music/Sounds/Drums/Tom/DRY_TOM__4.WAV",
+        "Slot1": "/Users/iain/Music/Sounds/Drums/Tom/DRY_TOM__1.WAV",
         "Slot2": "/Users/iain/Music/Sounds/Drums/Tom/DRY_TOM__2.WAV",
-        "Slot3": "/Users/iain/Music/Sounds/Drums/Tom/DRY_TOM__1.WAV",
+        "Slot3": "/Users/iain/Music/Sounds/Drums/Tom/DRY_TOM__4.WAV",
         "Slot4": "/Users/iain/Music/Sounds/Drums/Cowbell/PL_COW.WAV",
         "UserFolder": ""
       },
       "pos": [
-        175,
-        5
-      ]
-    },
-    {
-      "id": 8939383667187559,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "data": {
-        "label": "out"
-      },
-      "pos": [
-        225,
-        5
-      ]
-    },
-    {
-      "id": 6667731685371269,
-      "plugin": "SubmarineFree",
-      "model": "TD-510",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 1606102865644262,
-      "rightModuleId": 6746906507814756,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "Sample Drums ",
-            "color": "#29b2ef",
-            "position": 7.0,
-            "alignment": 1.0,
-            "fontSize": 26.0,
-            "flip": 1.0
-          }
-        ]
-      },
-      "pos": [
-        122,
-        5
-      ]
-    },
-    {
-      "id": 6746906507814756,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 6667731685371269,
-      "rightModuleId": 6595920042818167,
-      "data": {
-        "label": "clck"
-      },
-      "pos": [
-        127,
-        5
-      ]
-    },
-    {
-      "id": 1606102865644262,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 6667731685371269,
-      "pos": [
-        121,
+        170,
         5
       ]
     },
@@ -246,46 +248,46 @@
       "params": [],
       "leftModuleId": 1603720067306980,
       "pos": [
-        217,
+        212,
         5
       ]
     },
     {
-      "id": 6595920042818167,
-      "plugin": "DrumKit",
-      "model": "Sequencer",
-      "version": "2.0.0",
+      "id": 1045366697119491,
+      "plugin": "AS",
+      "model": "Mixer8ch",
+      "version": "2.0.6",
       "params": [
         {
-          "value": 0.0,
+          "value": 0.80000001192092896,
           "id": 0
         },
         {
-          "value": 0.0,
+          "value": 0.80000001192092896,
           "id": 1
         },
         {
-          "value": 1.0,
+          "value": 0.80000001192092896,
           "id": 2
         },
         {
-          "value": 0.0,
+          "value": 0.5680004358291626,
           "id": 3
         },
         {
-          "value": 0.0,
+          "value": 0.59370195865631104,
           "id": 4
         },
         {
-          "value": 0.0,
+          "value": 0.57817262411117554,
           "id": 5
         },
         {
-          "value": 1.0,
+          "value": 0.80000001192092896,
           "id": 6
         },
         {
-          "value": 0.0,
+          "value": 0.80000001192092896,
           "id": 7
         },
         {
@@ -297,15 +299,15 @@
           "id": 9
         },
         {
-          "value": 1.0,
+          "value": -0.20963855087757111,
           "id": 10
         },
         {
-          "value": 0.0,
+          "value": 0.20722891390323639,
           "id": 11
         },
         {
-          "value": 0.0,
+          "value": 0.17831325531005859,
           "id": 12
         },
         {
@@ -313,11 +315,11 @@
           "id": 13
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 14
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 15
         },
         {
@@ -357,15 +359,146 @@
           "id": 24
         },
         {
+          "value": 0.0,
+          "id": 25
+        }
+      ],
+      "leftModuleId": 4540298047743926,
+      "rightModuleId": 1603720067306980,
+      "data": {
+        "as_MixerMutes": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ]
+      },
+      "pos": [
+        183,
+        5
+      ]
+    },
+    {
+      "id": 4293097013767140,
+      "plugin": "DrumKit",
+      "model": "Sequencer",
+      "version": "2.0.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
           "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 1.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
           "id": 25
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 26
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 27
         },
         {
@@ -393,7 +526,7 @@
           "id": 33
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 34
         },
         {
@@ -405,15 +538,15 @@
           "id": 36
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 37
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 38
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 39
         },
         {
@@ -461,11 +594,11 @@
           "id": 50
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 51
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 52
         },
         {
@@ -553,7 +686,7 @@
           "id": 73
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 74
         },
         {
@@ -561,7 +694,7 @@
           "id": 75
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 76
         },
         {
@@ -589,7 +722,7 @@
           "id": 82
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 83
         },
         {
@@ -597,15 +730,15 @@
           "id": 84
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 85
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 86
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 87
         },
         {
@@ -617,11 +750,11 @@
           "id": 89
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 90
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 91
         },
         {
@@ -629,11 +762,11 @@
           "id": 92
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 93
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 94
         },
         {
@@ -657,7 +790,7 @@
           "id": 99
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 100
         },
         {
@@ -665,7 +798,7 @@
           "id": 101
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 102
         },
         {
@@ -689,7 +822,7 @@
           "id": 107
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 108
         },
         {
@@ -717,11 +850,11 @@
           "id": 114
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 115
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 116
         },
         {
@@ -749,11 +882,11 @@
           "id": 122
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 123
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 124
         },
         {
@@ -1038,7 +1171,17 @@
               false,
               false,
               false,
-              true,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
               false
             ],
             [
@@ -1048,27 +1191,97 @@
               false,
               false,
               false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              true,
+              false,
+              true,
               true,
               true
             ],
             [
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
               true,
               true,
               true,
               false,
-              false,
-              false,
+              true,
+              true,
               false
             ],
             [
@@ -1077,28 +1290,8 @@
               false,
               false,
               false,
-              true,
-              true,
-              true
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
               false,
               true,
-              true,
-              true,
-              false,
-              false,
               false
             ],
             [
@@ -1112,57 +1305,7 @@
               false
             ],
             [
-              false,
               true,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              true,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              true,
-              false,
-              true,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              true,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              true,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
               false,
               false,
               false,
@@ -1175,18 +1318,8 @@
               true,
               false,
               false,
-              true,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              true,
-              false,
               false,
               true,
-              false,
               false,
               false,
               false
@@ -1195,19 +1328,9 @@
           [
             [
               false,
+              true,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -1225,19 +1348,9 @@
             ],
             [
               false,
+              true,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -1255,19 +1368,9 @@
             ],
             [
               false,
+              true,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -1285,19 +1388,9 @@
             ],
             [
               false,
+              true,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -1315,12 +1408,52 @@
             ],
             [
               false,
+              true,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              true,
+              false,
+              true,
+              true,
+              true
+            ],
+            [
+              false,
+              true,
+              true,
+              true,
+              false,
+              true,
+              true,
+              false
+            ],
+            [
               false,
               false,
               false,
               false,
               false,
               false,
+              true,
               false
             ],
             [
@@ -1334,21 +1467,21 @@
               false
             ],
             [
+              true,
               false,
               false,
               false,
-              false,
-              false,
+              true,
               false,
               false,
               false
             ],
             [
+              true,
               false,
               false,
               false,
-              false,
-              false,
+              true,
               false,
               false,
               false
@@ -1356,11 +1489,111 @@
           ],
           [
             [
+              true,
+              false,
+              true,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
               false,
               false,
               false,
               false,
               false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              false,
+              true,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              true,
+              false
+            ],
+            [
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false,
+              false
+            ],
+            [
+              true,
+              false,
+              true,
+              false,
+              true,
               false,
               false,
               false
@@ -1388,17 +1621,7 @@
             [
               false,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -1406,109 +1629,19 @@
               false
             ],
             [
+              true,
               false,
               false,
               false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false
             ],
             [
+              true,
               false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false,
-              false
-            ],
-            [
-              false,
-              false,
-              false,
+              true,
               false,
               false,
               false,
@@ -3625,8 +3758,8 @@
         ],
         "programs": [
           1,
-          0,
-          0,
+          2,
+          3,
           0,
           0,
           0,
@@ -3635,247 +3768,12 @@
         ]
       },
       "pos": [
-        130,
-        5
-      ]
-    },
-    {
-      "id": 1603720067306980,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 1045366697119491,
-      "rightModuleId": 7796211641649658,
-      "data": {
-        "label": "out"
-      },
-      "pos": [
-        214,
-        5
-      ]
-    },
-    {
-      "id": 1045366697119491,
-      "plugin": "AS",
-      "model": "Mixer8ch",
-      "version": "2.0.6",
-      "params": [
-        {
-          "value": 0.80000001192092896,
-          "id": 0
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 1
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 2
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 3
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 4
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 5
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 6
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 7
-        },
-        {
-          "value": 0.80000001192092896,
-          "id": 8
-        },
-        {
-          "value": 0.0,
-          "id": 9
-        },
-        {
-          "value": 0.0,
-          "id": 10
-        },
-        {
-          "value": 0.0,
-          "id": 11
-        },
-        {
-          "value": 0.0,
-          "id": 12
-        },
-        {
-          "value": 0.0,
-          "id": 13
-        },
-        {
-          "value": 0.0,
-          "id": 14
-        },
-        {
-          "value": 0.0,
-          "id": 15
-        },
-        {
-          "value": 0.0,
-          "id": 16
-        },
-        {
-          "value": 0.0,
-          "id": 17
-        },
-        {
-          "value": 0.0,
-          "id": 18
-        },
-        {
-          "value": 0.0,
-          "id": 19
-        },
-        {
-          "value": 0.0,
-          "id": 20
-        },
-        {
-          "value": 0.0,
-          "id": 21
-        },
-        {
-          "value": 0.0,
-          "id": 22
-        },
-        {
-          "value": 0.0,
-          "id": 23
-        },
-        {
-          "value": 0.0,
-          "id": 24
-        },
-        {
-          "value": 0.0,
-          "id": 25
-        }
-      ],
-      "leftModuleId": 4540298047743926,
-      "rightModuleId": 1603720067306980,
-      "data": {
-        "as_MixerMutes": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          1,
-          0,
-          0
-        ]
-      },
-      "pos": [
-        188,
+        125,
         5
       ]
     }
   ],
   "cables": [
-    {
-      "id": 4999184987913447,
-      "outputModuleId": 6595920042818167,
-      "outputId": 7,
-      "inputModuleId": 1172815015414873,
-      "inputId": 0,
-      "color": "#ffb437"
-    },
-    {
-      "id": 7120645658159264,
-      "outputModuleId": 6595920042818167,
-      "outputId": 6,
-      "inputModuleId": 1172815015414873,
-      "inputId": 1,
-      "color": "#f3374b"
-    },
-    {
-      "id": 4013769561021960,
-      "outputModuleId": 6595920042818167,
-      "outputId": 5,
-      "inputModuleId": 1172815015414873,
-      "inputId": 2,
-      "color": "#00b56e"
-    },
-    {
-      "id": 1362013490864805,
-      "outputModuleId": 6595920042818167,
-      "outputId": 4,
-      "inputModuleId": 1172815015414873,
-      "inputId": 3,
-      "color": "#3695ef"
-    },
-    {
-      "id": 1064127255912970,
-      "outputModuleId": 6595920042818167,
-      "outputId": 3,
-      "inputModuleId": 4540298047743926,
-      "inputId": 0,
-      "color": "#8b4ade"
-    },
-    {
-      "id": 7414771116051269,
-      "outputModuleId": 6595920042818167,
-      "outputId": 2,
-      "inputModuleId": 4540298047743926,
-      "inputId": 1,
-      "color": "#dd6c00"
-    },
-    {
-      "id": 6466625089445693,
-      "outputModuleId": 6595920042818167,
-      "outputId": 1,
-      "inputModuleId": 4540298047743926,
-      "inputId": 2,
-      "color": "#677336"
-    },
-    {
-      "id": 1591078203005212,
-      "outputModuleId": 6595920042818167,
-      "outputId": 0,
-      "inputModuleId": 4540298047743926,
-      "inputId": 3,
-      "color": "#a83289"
-    },
-    {
-      "id": 5705035381363961,
-      "outputModuleId": 6746906507814756,
-      "outputId": 0,
-      "inputModuleId": 6595920042818167,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 5950044643702950,
-      "outputModuleId": 6746906507814756,
-      "outputId": 7,
-      "inputModuleId": 6595920042818167,
-      "inputId": 3,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 4353492810396108,
-      "outputModuleId": 1172815015414873,
-      "outputId": 0,
-      "inputModuleId": 1045366697119491,
-      "inputId": 1,
-      "color": "#ffb437"
-    },
     {
       "id": 8110398185971445,
       "outputModuleId": 1172815015414873,
@@ -3947,6 +3845,94 @@
       "inputModuleId": 1603720067306980,
       "inputId": 1,
       "color": "#0c8e15"
+    },
+    {
+      "id": 4353492810396108,
+      "outputModuleId": 1172815015414873,
+      "outputId": 0,
+      "inputModuleId": 1045366697119491,
+      "inputId": 1,
+      "color": "#ffb437"
+    },
+    {
+      "id": 3584127519953404,
+      "outputModuleId": 4293097013767140,
+      "outputId": 7,
+      "inputModuleId": 1172815015414873,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 5332627874933363,
+      "outputModuleId": 4293097013767140,
+      "outputId": 6,
+      "inputModuleId": 1172815015414873,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 6141029812794129,
+      "outputModuleId": 4293097013767140,
+      "outputId": 5,
+      "inputModuleId": 1172815015414873,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 5707950476487819,
+      "outputModuleId": 4293097013767140,
+      "outputId": 4,
+      "inputModuleId": 1172815015414873,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5806531913880354,
+      "outputModuleId": 4293097013767140,
+      "outputId": 3,
+      "inputModuleId": 4540298047743926,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4991274993955886,
+      "outputModuleId": 4293097013767140,
+      "outputId": 2,
+      "inputModuleId": 4540298047743926,
+      "inputId": 1,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 3136256008822759,
+      "outputModuleId": 4293097013767140,
+      "outputId": 1,
+      "inputModuleId": 4540298047743926,
+      "inputId": 2,
+      "color": "#a83289"
+    },
+    {
+      "id": 5239508565990480,
+      "outputModuleId": 4293097013767140,
+      "outputId": 0,
+      "inputModuleId": 4540298047743926,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 1344678547237343,
+      "outputModuleId": 6746906507814756,
+      "outputId": 1,
+      "inputModuleId": 4293097013767140,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 2065000676911473,
+      "outputModuleId": 6746906507814756,
+      "outputId": 3,
+      "inputModuleId": 4293097013767140,
+      "inputId": 3,
+      "color": "#c9b70e"
     }
   ]
 }
