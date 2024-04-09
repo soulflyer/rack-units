@@ -1,13 +1,13 @@
 {
   "modules": [
     {
-      "id": 3498190966960356,
+      "id": 193199600106796,
       "plugin": "Stoermelder-P1",
       "model": "MidiCat",
       "version": "2.0.beta3",
       "params": [],
-      "leftModuleId": 1602111631245022,
-      "rightModuleId": 6229287258865277,
+      "leftModuleId": 705323465969298,
+      "rightModuleId": 8010561393366904,
       "data": {
         "panelTheme": 0,
         "textScrolling": false,
@@ -18,139 +18,139 @@
         "clearMapsOnLoad": false,
         "maps": [
           {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 0,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
             "cc": 5,
             "ccMode": 0,
             "cc14bit": false,
             "note": -1,
             "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 0,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 6,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 1,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 7,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 2,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 8,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 3,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 1,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 4,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 2,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 5,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 3,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 6,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 4,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3156270870291905,
-            "paramId": 7,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 5,
-            "ccMode": 0,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
             "moduleId": -1,
             "paramId": 0,
             "label": "",
@@ -178,125 +178,13 @@
             "clockSource": 0
           },
           {
-            "cc": 22,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 6992770196540372,
-            "paramId": 0,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 23,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 6992770196540372,
-            "paramId": 2,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 24,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 6992770196540372,
-            "paramId": 4,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 17,
+            "cc": -1,
             "ccMode": 2,
             "cc14bit": false,
             "note": -1,
             "noteMode": 0,
             "moduleId": -1,
             "paramId": 0,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 18,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3108038071018379,
-            "paramId": 0,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 19,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3108038071018379,
-            "paramId": 2,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 20,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3108038071018379,
-            "paramId": 4,
-            "label": "",
-            "midiOptions": 0,
-            "slew": 0.0,
-            "min": 0.0,
-            "max": 1.0,
-            "clockMode": 0,
-            "clockSource": 0
-          },
-          {
-            "cc": 17,
-            "ccMode": 2,
-            "cc14bit": false,
-            "note": -1,
-            "noteMode": 0,
-            "moduleId": 3108038071018379,
-            "paramId": 1,
             "label": "",
             "midiOptions": 0,
             "slew": 0.0,
@@ -343,7 +231,119 @@
             "cc14bit": false,
             "note": -1,
             "noteMode": 0,
-            "moduleId": 3210908894537805,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
+            "paramId": 0,
+            "label": "",
+            "midiOptions": 0,
+            "slew": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "clockMode": 0,
+            "clockSource": 0
+          },
+          {
+            "cc": -1,
+            "ccMode": 2,
+            "cc14bit": false,
+            "note": -1,
+            "noteMode": 0,
+            "moduleId": -1,
             "paramId": 0,
             "label": "",
             "midiOptions": 0,
@@ -591,12 +591,12 @@
         }
       },
       "pos": [
-        158,
-        2
+        93,
+        1
       ]
     },
     {
-      "id": 3156270870291905,
+      "id": 2662220226998736,
       "plugin": "MindMeldModular",
       "model": "MixMasterJr",
       "version": "2.2.3",
@@ -774,7 +774,7 @@
           "id": 42
         },
         {
-          "value": 0.82587975263595581,
+          "value": 0.5165676474571228,
           "id": 43
         },
         {
@@ -890,8 +890,8 @@
           "id": 71
         }
       ],
-      "leftModuleId": 494531067011903,
-      "rightModuleId": 2689195732381796,
+      "leftModuleId": 1568383742457877,
+      "rightModuleId": 1407496081584580,
       "data": {
         "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
         "panLawMono": 1,
@@ -1074,34 +1074,53 @@
         "masterLabel": "MASTER"
       },
       "pos": [
-        117,
-        3
-      ]
-    },
-    {
-      "id": 8077435393325279,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 4764876507861188,
-      "rightModuleId": 5472394941887430,
-      "data": {
-        "label": "kybd"
-      },
-      "pos": [
-        180,
+        52,
         2
       ]
     },
     {
-      "id": 8651087586445159,
+      "id": 609130905715313,
+      "plugin": "SubmarineFree",
+      "model": "TD-316",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 4523225660314046,
+      "data": {
+        "width": 135.0,
+        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock.\n\nIt will be necessary to map space to the fade button on the master level in the *uMap* module",
+        "size": 12.0,
+        "fg": "#29b2ef",
+        "bg": "#000000"
+      },
+      "pos": [
+        69,
+        1
+      ]
+    },
+    {
+      "id": 8073970574396973,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6110636906920012,
+      "rightModuleId": 4117126084367892,
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        57,
+        1
+      ]
+    },
+    {
+      "id": 6110636906920012,
       "plugin": "SubmarineFree",
       "model": "TD-510",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 4820444388580904,
-      "rightModuleId": 3354876173439272,
+      "leftModuleId": 4074283764594377,
+      "rightModuleId": 8073970574396973,
       "data": {
         "width": 75.0,
         "items": [
@@ -1116,62 +1135,27 @@
         ]
       },
       "pos": [
-        117,
-        2
+        52,
+        1
       ]
     },
     {
-      "id": 8296338752347919,
-      "plugin": "SubmarineFree",
-      "model": "TD-316",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 8886437172601555,
-      "data": {
-        "width": 150.0,
-        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock",
-        "size": 12.0,
-        "fg": "#29b2ef",
-        "bg": "#000000"
-      },
-      "pos": [
-        133,
-        2
-      ]
-    },
-    {
-      "id": 3354876173439272,
+      "id": 4117126084367892,
       "plugin": "LittleUtils",
       "model": "TeleportOut",
       "version": "2.1.0",
       "params": [],
-      "leftModuleId": 8651087586445159,
-      "rightModuleId": 400539994124753,
-      "data": {
-        "label": "wind"
-      },
-      "pos": [
-        122,
-        2
-      ]
-    },
-    {
-      "id": 400539994124753,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 3354876173439272,
+      "leftModuleId": 8073970574396973,
       "data": {
         "label": "Samp"
       },
       "pos": [
-        125,
-        2
+        60,
+        1
       ]
     },
     {
-      "id": 8886437172601555,
+      "id": 4523225660314046,
       "plugin": "CountModula",
       "model": "Palette",
       "version": "2.5.0",
@@ -1181,20 +1165,32 @@
           "id": 0
         }
       ],
-      "leftModuleId": 8296338752347919,
-      "rightModuleId": 4197049742391290,
+      "leftModuleId": 609130905715313,
+      "rightModuleId": 4030200291498897,
       "data": {
         "moduleVersion": 1,
         "color": 5,
         "theme": 0
       },
       "pos": [
-        143,
-        2
+        78,
+        1
       ]
     },
     {
-      "id": 4479700819502420,
+      "id": 8728725003946855,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2388205806678701,
+      "pos": [
+        118,
+        1
+      ]
+    },
+    {
+      "id": 4268092254606950,
       "plugin": "Fundamental",
       "model": "Push",
       "version": "2.6.0",
@@ -1208,42 +1204,83 @@
           "id": 1
         }
       ],
-      "leftModuleId": 6229287258865277,
-      "rightModuleId": 4764876507861188,
+      "leftModuleId": 8010561393366904,
+      "rightModuleId": 2999780140941551,
       "data": {
         "hold": true
       },
       "pos": [
-        171,
-        2
+        106,
+        1
       ]
     },
     {
-      "id": 4056943084609834,
+      "id": 4030200291498897,
+      "plugin": "Core",
+      "model": "AudioInterface2",
+      "version": "2.4.1",
+      "params": [
+        {
+          "value": 0.97386348247528076,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 4523225660314046,
+      "rightModuleId": 705323465969298,
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "External Headphones",
+          "sampleRate": 48000.0,
+          "blockSize": 256,
+          "inputOffset": 0,
+          "outputOffset": 0
+        },
+        "dcFilter": true
+      },
+      "pos": [
+        82,
+        1
+      ]
+    },
+    {
+      "id": 4770943153626043,
       "plugin": "SubmarineFree",
       "model": "BP-101",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 2689195732381796,
+      "leftModuleId": 1407496081584580,
       "pos": [
-        183,
-        3
-      ]
-    },
-    {
-      "id": 5472394941887430,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 8077435393325279,
-      "pos": [
-        183,
+        118,
         2
       ]
     },
     {
-      "id": 1602111631245022,
+      "id": 1568383742457877,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 2662220226998736,
+      "pos": [
+        51,
+        2
+      ]
+    },
+    {
+      "id": 4074283764594377,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 6110636906920012,
+      "pos": [
+        51,
+        1
+      ]
+    },
+    {
+      "id": 705323465969298,
       "plugin": "ML_modules",
       "model": "FreeVerb",
       "version": "2.0.2",
@@ -1261,68 +1298,15 @@
           "id": 2
         }
       ],
-      "leftModuleId": 4197049742391290,
-      "rightModuleId": 3498190966960356,
+      "leftModuleId": 4030200291498897,
+      "rightModuleId": 193199600106796,
       "pos": [
-        152,
-        2
+        87,
+        1
       ]
     },
     {
-      "id": 4197049742391290,
-      "plugin": "Core",
-      "model": "AudioInterface2",
-      "version": "2.4.1",
-      "params": [
-        {
-          "value": 0.97386348247528076,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 8886437172601555,
-      "rightModuleId": 1602111631245022,
-      "data": {
-        "audio": {
-          "driver": 5,
-          "deviceName": "External Headphones",
-          "sampleRate": 48000.0,
-          "blockSize": 256,
-          "inputOffset": 0,
-          "outputOffset": 0
-        },
-        "dcFilter": true
-      },
-      "pos": [
-        147,
-        2
-      ]
-    },
-    {
-      "id": 4820444388580904,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 8651087586445159,
-      "pos": [
-        116,
-        2
-      ]
-    },
-    {
-      "id": 494531067011903,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 3156270870291905,
-      "pos": [
-        116,
-        3
-      ]
-    },
-    {
-      "id": 2689195732381796,
+      "id": 1407496081584580,
       "plugin": "MindMeldModular",
       "model": "AuxExpanderJr",
       "version": "2.2.3",
@@ -1344,7 +1328,7 @@
           "id": 3
         },
         {
-          "value": 0.14925321936607361,
+          "value": 0.0,
           "id": 4
         },
         {
@@ -1492,7 +1476,7 @@
           "id": 40
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 41
         },
         {
@@ -1624,8 +1608,8 @@
           "id": 73
         }
       ],
-      "leftModuleId": 3156270870291905,
-      "rightModuleId": 4056943084609834,
+      "leftModuleId": 2662220226998736,
+      "rightModuleId": 4770943153626043,
       "data": {
         "directOutsModeLocal": 50529027,
         "panLawStereoLocal": 16843009,
@@ -1683,18 +1667,18 @@
         ]
       },
       "pos": [
-        153,
-        3
+        88,
+        2
       ]
     },
     {
-      "id": 4764876507861188,
+      "id": 2999780140941551,
       "plugin": "Stoermelder-P1",
       "model": "Stroke",
       "version": "2.0.beta3",
       "params": [],
-      "leftModuleId": 4479700819502420,
-      "rightModuleId": 8077435393325279,
+      "leftModuleId": 4268092254606950,
+      "rightModuleId": 2388205806678701,
       "data": {
         "panelTheme": 0,
         "keys": [
@@ -1781,12 +1765,12 @@
         ]
       },
       "pos": [
-        174,
-        2
+        109,
+        1
       ]
     },
     {
-      "id": 6229287258865277,
+      "id": 8010561393366904,
       "plugin": "Stoermelder-P1",
       "model": "CVMapMicro",
       "version": "2.0.beta3",
@@ -1804,14 +1788,14 @@
           "id": 2
         }
       ],
-      "leftModuleId": 3498190966960356,
-      "rightModuleId": 4479700819502420,
+      "leftModuleId": 193199600106796,
+      "rightModuleId": 4268092254606950,
       "data": {
         "textScrolling": true,
         "mappingIndicatorHidden": false,
         "maps": [
           {
-            "moduleId": 3156270870291905,
+            "moduleId": 2662220226998736,
             "paramId": 40
           }
         ],
@@ -1822,163 +1806,193 @@
         "audioRate": true
       },
       "pos": [
-        168,
-        2
+        103,
+        1
+      ]
+    },
+    {
+      "id": 8108188097944697,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        64,
+        1
+      ]
+    },
+    {
+      "id": 2388205806678701,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 2999780140941551,
+      "rightModuleId": 8728725003946855,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        115,
+        1
       ]
     }
   ],
   "cables": [
     {
-      "id": 512175222785409,
-      "outputModuleId": 2689195732381796,
+      "id": 4850405201942054,
+      "outputModuleId": 1407496081584580,
       "outputId": 0,
-      "inputModuleId": 1602111631245022,
+      "inputModuleId": 705323465969298,
       "inputId": 0,
       "color": "#ffb437"
     },
     {
-      "id": 4296866362006684,
-      "outputModuleId": 1602111631245022,
+      "id": 2129351987228055,
+      "outputModuleId": 705323465969298,
       "outputId": 0,
-      "inputModuleId": 2689195732381796,
+      "inputModuleId": 1407496081584580,
       "inputId": 0,
       "color": "#ffb437"
     },
     {
-      "id": 4860618187913630,
-      "outputModuleId": 1602111631245022,
+      "id": 7688975776268222,
+      "outputModuleId": 705323465969298,
       "outputId": 1,
-      "inputModuleId": 2689195732381796,
+      "inputModuleId": 1407496081584580,
       "inputId": 1,
       "color": "#ffb437"
     },
     {
-      "id": 2840742537968146,
-      "outputModuleId": 3354876173439272,
+      "id": 3449614750357332,
+      "outputModuleId": 8073970574396973,
       "outputId": 0,
-      "inputModuleId": 3156270870291905,
+      "inputModuleId": 2662220226998736,
       "inputId": 0,
       "color": "#f3374b"
     },
     {
-      "id": 5653177484279055,
-      "outputModuleId": 3354876173439272,
+      "id": 317863764769491,
+      "outputModuleId": 8073970574396973,
       "outputId": 1,
-      "inputModuleId": 3156270870291905,
+      "inputModuleId": 2662220226998736,
       "inputId": 1,
       "color": "#f3374b"
     },
     {
-      "id": 2236962231862618,
-      "outputModuleId": 3156270870291905,
+      "id": 1064503869769717,
+      "outputModuleId": 2662220226998736,
       "outputId": 3,
-      "inputModuleId": 4197049742391290,
+      "inputModuleId": 4030200291498897,
       "inputId": 1,
       "color": "#00b56e"
     },
     {
-      "id": 5049731752877903,
-      "outputModuleId": 3156270870291905,
+      "id": 6472696752822619,
+      "outputModuleId": 2662220226998736,
       "outputId": 2,
-      "inputModuleId": 4197049742391290,
+      "inputModuleId": 4030200291498897,
       "inputId": 0,
       "color": "#3695ef"
     },
     {
-      "id": 350306532386006,
-      "outputModuleId": 4764876507861188,
+      "id": 1415290488842502,
+      "outputModuleId": 2999780140941551,
       "outputId": 0,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 0,
       "color": "#677336"
     },
     {
-      "id": 958641905839501,
-      "outputModuleId": 4764876507861188,
+      "id": 2858192917748232,
+      "outputModuleId": 2999780140941551,
       "outputId": 1,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 1,
       "color": "#677336"
     },
     {
-      "id": 3672709841471384,
-      "outputModuleId": 4764876507861188,
+      "id": 3496101516130540,
+      "outputModuleId": 2999780140941551,
       "outputId": 2,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 2,
       "color": "#677336"
     },
     {
-      "id": 1581749103231507,
-      "outputModuleId": 4764876507861188,
+      "id": 3400767699979970,
+      "outputModuleId": 2999780140941551,
       "outputId": 3,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 3,
       "color": "#677336"
     },
     {
-      "id": 5078901234479980,
-      "outputModuleId": 4764876507861188,
+      "id": 829625847881797,
+      "outputModuleId": 2999780140941551,
       "outputId": 4,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 4,
       "color": "#677336"
     },
     {
-      "id": 8490016367477503,
-      "outputModuleId": 4764876507861188,
+      "id": 2660462397822921,
+      "outputModuleId": 2999780140941551,
       "outputId": 5,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 5,
       "color": "#677336"
     },
     {
-      "id": 4763497738605134,
-      "outputModuleId": 4764876507861188,
+      "id": 3255953560314536,
+      "outputModuleId": 2999780140941551,
       "outputId": 6,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 6,
       "color": "#677336"
     },
     {
-      "id": 5351495888185769,
-      "outputModuleId": 4764876507861188,
+      "id": 7032023896420215,
+      "outputModuleId": 2999780140941551,
       "outputId": 7,
-      "inputModuleId": 8077435393325279,
+      "inputModuleId": 2388205806678701,
       "inputId": 7,
       "color": "#677336"
     },
     {
-      "id": 2291092813573874,
-      "outputModuleId": 4479700819502420,
+      "id": 3101283455318331,
+      "outputModuleId": 4268092254606950,
       "outputId": 1,
-      "inputModuleId": 6229287258865277,
+      "inputModuleId": 8010561393366904,
       "inputId": 2,
       "color": "#677336"
     },
     {
-      "id": 8857033418999929,
-      "outputModuleId": 4764876507861188,
+      "id": 3323065670233300,
+      "outputModuleId": 2999780140941551,
       "outputId": 0,
-      "inputModuleId": 4479700819502420,
+      "inputModuleId": 4268092254606950,
       "inputId": 0,
       "color": "#677336"
     },
     {
-      "id": 2692221087976099,
-      "outputModuleId": 400539994124753,
+      "id": 1497008121629822,
+      "outputModuleId": 4117126084367892,
       "outputId": 0,
-      "inputModuleId": 3156270870291905,
+      "inputModuleId": 2662220226998736,
       "inputId": 2,
-      "color": "#ffb437"
+      "color": "#dd6c00"
     },
     {
-      "id": 1335435667098213,
-      "outputModuleId": 400539994124753,
+      "id": 1613712420622993,
+      "outputModuleId": 4117126084367892,
       "outputId": 1,
-      "inputModuleId": 3156270870291905,
+      "inputModuleId": 2662220226998736,
       "inputId": 3,
-      "color": "#ffb437"
+      "color": "#dd6c00"
     }
   ]
 }
