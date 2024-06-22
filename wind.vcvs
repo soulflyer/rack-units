@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "id": 3108038071018379,
+      "id": 4906723148393886,
       "plugin": "MindMeldModular",
       "model": "PatchMaster",
       "version": "2.2.3",
@@ -39,8 +39,8 @@
           "id": 7
         }
       ],
-      "leftModuleId": 6992770196540372,
-      "rightModuleId": 2387270856524523,
+      "leftModuleId": 3321290078504921,
+      "rightModuleId": 2309700395737007,
       "data": {
         "miscSettings": 65793,
         "miscSettings2": 1,
@@ -82,7 +82,43 @@
         ],
         "maps": [
           {
-            "moduleId": 3369177030696034,
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
             "paramId": 0,
             "rangeMax": 1.0,
             "rangeMin": 0.0
@@ -130,12 +166,6 @@
             "rangeMin": 0.0
           },
           {
-            "moduleId": 3369177030696034,
-            "paramId": 1,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
             "moduleId": -1,
             "paramId": 0,
             "rangeMax": 1.0,
@@ -150,36 +180,6 @@
           {
             "moduleId": -1,
             "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": 3369177030696034,
-            "paramId": 3,
             "rangeMax": 1.0,
             "rangeMin": 0.0
           },
@@ -322,12 +322,12 @@
         ]
       },
       "pos": [
-        54,
-        2
+        58,
+        6
       ]
     },
     {
-      "id": 6992770196540372,
+      "id": 3321290078504921,
       "plugin": "MindMeldModular",
       "model": "PatchMaster",
       "version": "2.2.3",
@@ -365,8 +365,8 @@
           "id": 7
         }
       ],
-      "leftModuleId": 4714325142760397,
-      "rightModuleId": 3108038071018379,
+      "leftModuleId": 3134932296442783,
+      "rightModuleId": 4906723148393886,
       "data": {
         "miscSettings": 65793,
         "miscSettings2": 1,
@@ -408,7 +408,43 @@
         ],
         "maps": [
           {
-            "moduleId": 5236179710219611,
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
+            "paramId": 0,
+            "rangeMax": 1.0,
+            "rangeMin": 0.0
+          },
+          {
+            "moduleId": -1,
             "paramId": 0,
             "rangeMax": 1.0,
             "rangeMin": 0.0
@@ -456,12 +492,6 @@
             "rangeMin": 0.0
           },
           {
-            "moduleId": 5236179710219611,
-            "paramId": 1,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
             "moduleId": -1,
             "paramId": 0,
             "rangeMax": 1.0,
@@ -476,36 +506,6 @@
           {
             "moduleId": -1,
             "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": -1,
-            "paramId": 0,
-            "rangeMax": 1.0,
-            "rangeMin": 0.0
-          },
-          {
-            "moduleId": 5236179710219611,
-            "paramId": 4,
             "rangeMax": 1.0,
             "rangeMin": 0.0
           },
@@ -648,28 +648,174 @@
         ]
       },
       "pos": [
-        50,
-        2
+        54,
+        6
       ]
     },
     {
-      "id": 6323528281777876,
+      "id": 485359067183121,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2123135675419109,
+      "pos": [
+        114,
+        6
+      ]
+    },
+    {
+      "id": 7507176148063426,
+      "plugin": "Fundamental",
+      "model": "Delay",
+      "version": "2.6.0",
+      "params": [
+        {
+          "value": 0.32283464074134827,
+          "id": 0
+        },
+        {
+          "value": 0.12598425149917603,
+          "id": 1
+        },
+        {
+          "value": 0.46628394722938538,
+          "id": 2
+        },
+        {
+          "value": 0.37795275449752808,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 1.0,
+          "id": 5
+        },
+        {
+          "value": 1.0,
+          "id": 6
+        },
+        {
+          "value": 1.0,
+          "id": 7
+        }
+      ],
+      "leftModuleId": 5479071044596808,
+      "rightModuleId": 4698091070668408,
+      "pos": [
+        78,
+        6
+      ]
+    },
+    {
+      "id": 5479071044596808,
+      "plugin": "VultModulesFree",
+      "model": "Tangents",
+      "version": "2.0.13",
+      "params": [
+        {
+          "value": 0.32283464074134827,
+          "id": 0
+        },
+        {
+          "value": 0.5039370059967041,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 1.5590550899505615,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        }
+      ],
+      "leftModuleId": 2309700395737007,
+      "rightModuleId": 7507176148063426,
+      "pos": [
+        68,
+        6
+      ]
+    },
+    {
+      "id": 8231442221758384,
+      "plugin": "Fundamental",
+      "model": "Scope",
+      "version": "2.6.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 3.3354554176330566,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": -1.8523286581039429,
+          "id": 3
+        },
+        {
+          "value": -2.8069145679473877,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 1.0,
+          "id": 7
+        }
+      ],
+      "leftModuleId": 4211160013486401,
+      "rightModuleId": 8450920475702497,
+      "pos": [
+        93,
+        6
+      ]
+    },
+    {
+      "id": 8450920475702497,
       "plugin": "LittleUtils",
       "model": "TeleportIn",
       "version": "2.1.0",
       "params": [],
-      "leftModuleId": 4022702909080906,
-      "rightModuleId": 2999148644622897,
+      "leftModuleId": 8231442221758384,
+      "rightModuleId": 2123135675419109,
       "data": {
         "label": "wind"
       },
       "pos": [
-        102,
-        2
+        106,
+        6
       ]
     },
     {
-      "id": 2387270856524523,
+      "id": 2309700395737007,
       "plugin": "squinkylabs-plug1",
       "model": "squinkylabs-coloredNoise",
       "version": "2.1.9",
@@ -683,89 +829,46 @@
           "id": 1
         }
       ],
-      "leftModuleId": 3108038071018379,
-      "rightModuleId": 5236179710219611,
+      "leftModuleId": 4906723148393886,
+      "rightModuleId": 5479071044596808,
       "pos": [
-        58,
-        2
+        62,
+        6
       ]
     },
     {
-      "id": 2803554505674055,
+      "id": 3134932296442783,
       "plugin": "SubmarineFree",
-      "model": "TD-410",
+      "model": "TD-510",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 1673744544887574,
-      "rightModuleId": 3354876173439272,
+      "rightModuleId": 3321290078504921,
       "data": {
         "width": 75.0,
         "items": [
           {
-            "text": "",
+            "text": "Wind ",
             "color": "#29b2ef",
-            "position": 270.0,
+            "position": 4.0,
             "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "",
-            "color": "#29b2ef",
-            "position": 306.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "left",
-            "color": "#29b2ef",
-            "position": 49.0,
-            "alignment": 4.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "right",
-            "color": "#29b2ef",
-            "position": 86.0,
-            "alignment": 4.0,
-            "fontSize": 20.0
-          },
-          {
-            "text": "",
-            "color": "#29b2ef",
-            "position": 129.0,
-            "alignment": 1.0,
-            "fontSize": 20.0
+            "fontSize": 26.0,
+            "flip": 1.0
           }
         ]
       },
       "pos": [
-        116,
-        2
+        49,
+        6
       ]
     },
     {
-      "id": 3354876173439272,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 2803554505674055,
-      "data": {
-        "label": "wind"
-      },
-      "pos": [
-        121,
-        2
-      ]
-    },
-    {
-      "id": 2999148644622897,
+      "id": 2123135675419109,
       "plugin": "SubmarineFree",
       "model": "TD-410",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 6323528281777876,
-      "rightModuleId": 8489593595720668,
+      "leftModuleId": 8450920475702497,
+      "rightModuleId": 485359067183121,
       "data": {
         "width": 75.0,
         "items": [
@@ -807,218 +910,26 @@
         ]
       },
       "pos": [
-        105,
-        2
+        109,
+        6
       ]
     },
     {
-      "id": 4714325142760397,
-      "plugin": "SubmarineFree",
-      "model": "TD-510",
-      "version": "2.0.4",
+      "id": 5104339145777193,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
       "params": [],
-      "rightModuleId": 6992770196540372,
       "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "Wind ",
-            "color": "#29b2ef",
-            "position": 4.0,
-            "alignment": 1.0,
-            "fontSize": 26.0,
-            "flip": 1.0
-          }
-        ]
+        "label": "wind"
       },
       "pos": [
-        45,
-        2
+        119,
+        6
       ]
     },
     {
-      "id": 8489593595720668,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 2999148644622897,
-      "pos": [
-        110,
-        2
-      ]
-    },
-    {
-      "id": 3369177030696034,
-      "plugin": "Fundamental",
-      "model": "Delay",
-      "version": "2.6.0",
-      "params": [
-        {
-          "value": 0.32283464074134827,
-          "id": 0
-        },
-        {
-          "value": 0.12598425149917603,
-          "id": 1
-        },
-        {
-          "value": 0.46628394722938538,
-          "id": 2
-        },
-        {
-          "value": 0.37795275449752808,
-          "id": 3
-        },
-        {
-          "value": 0.0,
-          "id": 4
-        },
-        {
-          "value": 1.0,
-          "id": 5
-        },
-        {
-          "value": 1.0,
-          "id": 6
-        },
-        {
-          "value": 1.0,
-          "id": 7
-        }
-      ],
-      "leftModuleId": 5236179710219611,
-      "rightModuleId": 3210908894537805,
-      "pos": [
-        74,
-        2
-      ]
-    },
-    {
-      "id": 5236179710219611,
-      "plugin": "VultModulesFree",
-      "model": "Tangents",
-      "version": "2.0.13",
-      "params": [
-        {
-          "value": 0.32283464074134827,
-          "id": 0
-        },
-        {
-          "value": 0.5039370059967041,
-          "id": 1
-        },
-        {
-          "value": 0.0,
-          "id": 2
-        },
-        {
-          "value": 0.0,
-          "id": 3
-        },
-        {
-          "value": 1.5590550899505615,
-          "id": 4
-        },
-        {
-          "value": 0.0,
-          "id": 5
-        },
-        {
-          "value": 0.0,
-          "id": 6
-        }
-      ],
-      "leftModuleId": 2387270856524523,
-      "rightModuleId": 3369177030696034,
-      "pos": [
-        64,
-        2
-      ]
-    },
-    {
-      "id": 1673744544887574,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 2803554505674055,
-      "pos": [
-        115,
-        2
-      ]
-    },
-    {
-      "id": 4022702909080906,
-      "plugin": "Fundamental",
-      "model": "Scope",
-      "version": "2.6.0",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        },
-        {
-          "value": 3.3354554176330566,
-          "id": 1
-        },
-        {
-          "value": 0.0,
-          "id": 2
-        },
-        {
-          "value": -1.8523286581039429,
-          "id": 3
-        },
-        {
-          "value": -2.8069145679473877,
-          "id": 4
-        },
-        {
-          "value": 0.0,
-          "id": 5
-        },
-        {
-          "value": 0.0,
-          "id": 6
-        },
-        {
-          "value": 1.0,
-          "id": 7
-        }
-      ],
-      "leftModuleId": 8187834372452449,
-      "rightModuleId": 6323528281777876,
-      "pos": [
-        89,
-        2
-      ]
-    },
-    {
-      "id": 8187834372452449,
-      "plugin": "Bogaudio",
-      "model": "Bogaudio-Pan",
-      "version": "2.4.45",
-      "params": [
-        {
-          "value": 0.82951211929321289,
-          "id": 0
-        },
-        {
-          "value": -0.0010268837213516235,
-          "id": 1
-        }
-      ],
-      "leftModuleId": 3210908894537805,
-      "rightModuleId": 4022702909080906,
-      "data": {},
-      "pos": [
-        86,
-        2
-      ]
-    },
-    {
-      "id": 3210908894537805,
+      "id": 4698091070668408,
       "plugin": "Bogaudio",
       "model": "Bogaudio-Walk",
       "version": "2.4.45",
@@ -1036,80 +947,103 @@
           "id": 2
         }
       ],
-      "leftModuleId": 3369177030696034,
-      "rightModuleId": 8187834372452449,
+      "leftModuleId": 7507176148063426,
+      "rightModuleId": 4211160013486401,
       "data": {
         "poly_input": 0,
         "jump_mode": "jump"
       },
       "pos": [
-        83,
-        2
+        87,
+        6
+      ]
+    },
+    {
+      "id": 4211160013486401,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Pan",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.82951211929321289,
+          "id": 0
+        },
+        {
+          "value": -0.0010268837213516235,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 4698091070668408,
+      "rightModuleId": 8231442221758384,
+      "data": {},
+      "pos": [
+        90,
+        6
       ]
     }
   ],
   "cables": [
     {
-      "id": 397896617824518,
-      "outputModuleId": 5236179710219611,
+      "id": 4228174404595391,
+      "outputModuleId": 5479071044596808,
       "outputId": 0,
-      "inputModuleId": 3369177030696034,
+      "inputModuleId": 7507176148063426,
       "inputId": 4,
       "color": "#00b56e"
     },
     {
-      "id": 7426902720428809,
-      "outputModuleId": 2387270856524523,
+      "id": 8088078723237479,
+      "outputModuleId": 2309700395737007,
       "outputId": 0,
-      "inputModuleId": 5236179710219611,
+      "inputModuleId": 5479071044596808,
       "inputId": 0,
       "color": "#00b56e"
     },
     {
-      "id": 2879257560337874,
-      "outputModuleId": 8187834372452449,
+      "id": 8170645097486532,
+      "outputModuleId": 4211160013486401,
       "outputId": 0,
-      "inputModuleId": 6323528281777876,
+      "inputModuleId": 8450920475702497,
       "inputId": 0,
       "color": "#3695ef"
     },
     {
-      "id": 4768331802364534,
-      "outputModuleId": 8187834372452449,
+      "id": 2440294302473645,
+      "outputModuleId": 4211160013486401,
       "outputId": 1,
-      "inputModuleId": 6323528281777876,
+      "inputModuleId": 8450920475702497,
       "inputId": 1,
       "color": "#00b56e"
     },
     {
-      "id": 1796440897632627,
-      "outputModuleId": 3210908894537805,
+      "id": 1589144949058248,
+      "outputModuleId": 4698091070668408,
       "outputId": 0,
-      "inputModuleId": 8187834372452449,
+      "inputModuleId": 4211160013486401,
       "inputId": 0,
       "color": "#ffb437"
     },
     {
-      "id": 764745435566631,
-      "outputModuleId": 3369177030696034,
+      "id": 7621933250641071,
+      "outputModuleId": 7507176148063426,
       "outputId": 0,
-      "inputModuleId": 8187834372452449,
+      "inputModuleId": 4211160013486401,
       "inputId": 1,
       "color": "#00b56e"
     },
     {
-      "id": 6595619542771701,
-      "outputModuleId": 8187834372452449,
+      "id": 4356641246107579,
+      "outputModuleId": 4211160013486401,
       "outputId": 1,
-      "inputModuleId": 4022702909080906,
+      "inputModuleId": 8231442221758384,
       "inputId": 1,
       "color": "#00b56e"
     },
     {
-      "id": 569627971352621,
-      "outputModuleId": 8187834372452449,
+      "id": 2162162360226995,
+      "outputModuleId": 4211160013486401,
       "outputId": 0,
-      "inputModuleId": 4022702909080906,
+      "inputModuleId": 8231442221758384,
       "inputId": 0,
       "color": "#3695ef"
     }

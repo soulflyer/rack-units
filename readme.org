@@ -29,8 +29,9 @@ Here is my *start-here* unit with *mixer*, *audio*, *midi*, *keyboard shortcuts*
 
 [[file:readme-images/start-here.png]]
 
-and a template is provided in *new-unit* that looks like this:
+and a template is provided in *empty-unit* that looks like this:
 
 [[file:readme-images/template.png]]
 
 Drag the *teleport* unit from the right hand side to somewhere near the main mixer and connect it to an available channel. The left hand one may not be necessary dependant on what you plan to create. It is likely  you will want to select your clock unit as the source for the input side.
+

@@ -1,0 +1,58 @@
+* Other units
+:PROPERTIES:
+:DIR:      ~/Code/vcvrack/selections/readme-images/
+:END:
+** Bass Drone
+
+[[file:readme-images/bass-drone.png]]
+
+This has no trigger but the pitch will follow the last input on the midi keyboard. Inspired by an [[https://www.youtube.com/watch?v=qPqC942-LmA][Omri Cohen Video]]
+
+** Pattern Generator
+
+This gives tighter control over notes played in a sequence, the patterns being used to trigger specific scale degrees. The scale can be changed.
+
+In most sequencer/quantizer combinations cv values will not always quantize to the same scale degree for different scales. EG a pattern that generates an ascending scale when quantized to the chromatic scale with only one of each note will produce several consecutive notes the same when quantized to a pentatonic scale. With this player you will still get an ascending scale with every note different.
+
+[[file:readme-images/pattern-generator.png]] 
+
+*** Pattern-Converter
+Is section that converts the cv values into scale degree pitches. This is just the right hand half of the unit above, but with added scopes for watching what it does:
+
+ [[file:readme-images/pattern-converter.png]]
+
+*** Pattern-player 
+is an earlier version that is limited in the range of notes it can produce is also available in pattern player. This has only one *muxlicer* but it does have lots of debugging aids to help see what is going on:
+
+[[file:readme-images/pattern-player.png]]
+
+** Sample-Chooser
+
+The easiest way to wade through collections of samples to find the right sound. Great for *MPC* drums.
+
+[[file:readme-images/sample-chooser-1.png]]
+
+** Wind
+
+White noise and filter, great for wave and wind sounds
+
+[[file:readme-images/wind.png]]
+
+** Drum-samples
+
+Sequencer and sample player. Available in 2 versions, with and without a mixer:
+
+[[file:readme-images/drum-samples-mixed.png]]
+
+** Tangerine-Drone
+
+Drone with lots of movement, based on one created by Omri Cohen:
+Need to remap the *Mind-Meld* controls. Its more there as a reminder as to which knobs to twiddle...
+
+[[file:readme-images/tangerine-drone.png]]
+
+** Tangerine-Arp
+
+Sequenced babblings, also based on Omri-Cohens work. Variation is provided by playing with the mix level, and the level of the feeds from the sequencer in the *VCA Mix* module. Sounds best if continuously tweaked.
+
+[[file:readme-images/tangerine-arp.png]]

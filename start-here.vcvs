@@ -1,10 +1,493 @@
 {
   "modules": [
     {
+      "id": 2662220226998736,
+      "plugin": "MindMeldModular",
+      "model": "MixMasterJr",
+      "version": "2.2.3",
+      "params": [
+        {
+          "value": 1.083532452583313,
+          "id": 0
+        },
+        {
+          "value": 0.91842061281204224,
+          "id": 1
+        },
+        {
+          "value": 0.0025199961382895708,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 1.0,
+          "id": 8
+        },
+        {
+          "value": 1.0,
+          "id": 9
+        },
+        {
+          "value": 0.50240916013717651,
+          "id": 10
+        },
+        {
+          "value": 0.5,
+          "id": 11
+        },
+        {
+          "value": 0.5,
+          "id": 12
+        },
+        {
+          "value": 0.5,
+          "id": 13
+        },
+        {
+          "value": 0.5,
+          "id": 14
+        },
+        {
+          "value": 0.5,
+          "id": 15
+        },
+        {
+          "value": 0.5,
+          "id": 16
+        },
+        {
+          "value": 0.5,
+          "id": 17
+        },
+        {
+          "value": 0.5,
+          "id": 18
+        },
+        {
+          "value": 0.5,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.0,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": 0.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.84162741899490356,
+          "id": 43
+        },
+        {
+          "value": 1.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.0,
+          "id": 48
+        },
+        {
+          "value": 0.0,
+          "id": 49
+        },
+        {
+          "value": 0.0,
+          "id": 50
+        },
+        {
+          "value": 0.0,
+          "id": 51
+        },
+        {
+          "value": 13.0,
+          "id": 52
+        },
+        {
+          "value": 13.0,
+          "id": 53
+        },
+        {
+          "value": 13.0,
+          "id": 54
+        },
+        {
+          "value": 13.0,
+          "id": 55
+        },
+        {
+          "value": 13.0,
+          "id": 56
+        },
+        {
+          "value": 13.0,
+          "id": 57
+        },
+        {
+          "value": 13.0,
+          "id": 58
+        },
+        {
+          "value": 13.0,
+          "id": 59
+        },
+        {
+          "value": 20010.0,
+          "id": 60
+        },
+        {
+          "value": 20010.0,
+          "id": 61
+        },
+        {
+          "value": 20010.0,
+          "id": 62
+        },
+        {
+          "value": 20010.0,
+          "id": 63
+        },
+        {
+          "value": 20010.0,
+          "id": 64
+        },
+        {
+          "value": 20010.0,
+          "id": 65
+        },
+        {
+          "value": 20010.0,
+          "id": 66
+        },
+        {
+          "value": 20010.0,
+          "id": 67
+        },
+        {
+          "value": 13.0,
+          "id": 68
+        },
+        {
+          "value": 13.0,
+          "id": 69
+        },
+        {
+          "value": 20010.0,
+          "id": 70
+        },
+        {
+          "value": 20010.0,
+          "id": 71
+        }
+      ],
+      "leftModuleId": 609130905715313,
+      "rightModuleId": 1407496081584580,
+      "data": {
+        "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
+        "panLawMono": 1,
+        "panLawStereo": 1,
+        "directOutsMode": 3,
+        "directOutsSkipGroupedTracks": 0,
+        "auxSendsMode": 3,
+        "groupsControlTrackSendLevels": 0,
+        "auxReturnsMutedWhenMainSolo": 0,
+        "auxReturnsSolosMuteDry": 0,
+        "chainMode": 0,
+        "colorAndCloak": 117440512,
+        "symmetricalFade": false,
+        "fadeCvOutsWithVolCv": false,
+        "linkBitMask": 0,
+        "filterPos": 1,
+        "groupedAuxReturnFeedbackProtection": 1,
+        "ecoMode": 65535,
+        "momentaryCvButtons": 1,
+        "masterFaderScalesSends": 0,
+        "polySpreadVandP": 0,
+        "linearVolCvInputs": 0,
+        "id_t0_gainAdjust": 1.0,
+        "id_t0_fadeRate": 0.0,
+        "id_t0_fadeProfile": 0.0,
+        "id_t0_directOutsMode": 3,
+        "id_t0_auxSendsMode": 3,
+        "id_t0_panLawStereo": 1,
+        "id_t0_vuColorThemeLocal": 0,
+        "id_t0_filterPos": 1,
+        "id_t0_dispColorLocal": 0,
+        "id_t0_momentCvMuteLocal": 1,
+        "id_t0_momentCvSoloLocal": 1,
+        "id_t0_polyStereo": 0,
+        "id_t0_panCvLevel": 1.0,
+        "id_t0_stereoWidth": 1.0,
+        "id_t0_invertInput": 0,
+        "id_t1_gainAdjust": 1.0,
+        "id_t1_fadeRate": 0.0,
+        "id_t1_fadeProfile": 0.0,
+        "id_t1_directOutsMode": 3,
+        "id_t1_auxSendsMode": 3,
+        "id_t1_panLawStereo": 1,
+        "id_t1_vuColorThemeLocal": 0,
+        "id_t1_filterPos": 1,
+        "id_t1_dispColorLocal": 0,
+        "id_t1_momentCvMuteLocal": 1,
+        "id_t1_momentCvSoloLocal": 1,
+        "id_t1_polyStereo": 0,
+        "id_t1_panCvLevel": 1.0,
+        "id_t1_stereoWidth": 1.0,
+        "id_t1_invertInput": 0,
+        "id_t2_gainAdjust": 1.0,
+        "id_t2_fadeRate": 0.0,
+        "id_t2_fadeProfile": 0.0,
+        "id_t2_directOutsMode": 3,
+        "id_t2_auxSendsMode": 3,
+        "id_t2_panLawStereo": 1,
+        "id_t2_vuColorThemeLocal": 0,
+        "id_t2_filterPos": 1,
+        "id_t2_dispColorLocal": 0,
+        "id_t2_momentCvMuteLocal": 1,
+        "id_t2_momentCvSoloLocal": 1,
+        "id_t2_polyStereo": 0,
+        "id_t2_panCvLevel": 1.0,
+        "id_t2_stereoWidth": 1.0,
+        "id_t2_invertInput": 0,
+        "id_t3_gainAdjust": 1.0,
+        "id_t3_fadeRate": 0.0,
+        "id_t3_fadeProfile": 0.0,
+        "id_t3_directOutsMode": 3,
+        "id_t3_auxSendsMode": 3,
+        "id_t3_panLawStereo": 1,
+        "id_t3_vuColorThemeLocal": 0,
+        "id_t3_filterPos": 1,
+        "id_t3_dispColorLocal": 0,
+        "id_t3_momentCvMuteLocal": 1,
+        "id_t3_momentCvSoloLocal": 1,
+        "id_t3_polyStereo": 0,
+        "id_t3_panCvLevel": 1.0,
+        "id_t3_stereoWidth": 1.0,
+        "id_t3_invertInput": 0,
+        "id_t4_gainAdjust": 1.0,
+        "id_t4_fadeRate": 0.0,
+        "id_t4_fadeProfile": 0.0,
+        "id_t4_directOutsMode": 3,
+        "id_t4_auxSendsMode": 3,
+        "id_t4_panLawStereo": 1,
+        "id_t4_vuColorThemeLocal": 0,
+        "id_t4_filterPos": 1,
+        "id_t4_dispColorLocal": 0,
+        "id_t4_momentCvMuteLocal": 1,
+        "id_t4_momentCvSoloLocal": 1,
+        "id_t4_polyStereo": 0,
+        "id_t4_panCvLevel": 1.0,
+        "id_t4_stereoWidth": 1.0,
+        "id_t4_invertInput": 0,
+        "id_t5_gainAdjust": 1.0,
+        "id_t5_fadeRate": 0.0,
+        "id_t5_fadeProfile": 0.0,
+        "id_t5_directOutsMode": 3,
+        "id_t5_auxSendsMode": 3,
+        "id_t5_panLawStereo": 1,
+        "id_t5_vuColorThemeLocal": 0,
+        "id_t5_filterPos": 1,
+        "id_t5_dispColorLocal": 0,
+        "id_t5_momentCvMuteLocal": 1,
+        "id_t5_momentCvSoloLocal": 1,
+        "id_t5_polyStereo": 0,
+        "id_t5_panCvLevel": 1.0,
+        "id_t5_stereoWidth": 1.0,
+        "id_t5_invertInput": 0,
+        "id_t6_gainAdjust": 1.0,
+        "id_t6_fadeRate": 0.0,
+        "id_t6_fadeProfile": 0.0,
+        "id_t6_directOutsMode": 3,
+        "id_t6_auxSendsMode": 3,
+        "id_t6_panLawStereo": 1,
+        "id_t6_vuColorThemeLocal": 0,
+        "id_t6_filterPos": 1,
+        "id_t6_dispColorLocal": 0,
+        "id_t6_momentCvMuteLocal": 1,
+        "id_t6_momentCvSoloLocal": 1,
+        "id_t6_polyStereo": 0,
+        "id_t6_panCvLevel": 1.0,
+        "id_t6_stereoWidth": 1.0,
+        "id_t6_invertInput": 0,
+        "id_t7_gainAdjust": 1.0,
+        "id_t7_fadeRate": 0.0,
+        "id_t7_fadeProfile": 0.0,
+        "id_t7_directOutsMode": 3,
+        "id_t7_auxSendsMode": 3,
+        "id_t7_panLawStereo": 1,
+        "id_t7_vuColorThemeLocal": 0,
+        "id_t7_filterPos": 1,
+        "id_t7_dispColorLocal": 0,
+        "id_t7_momentCvMuteLocal": 1,
+        "id_t7_momentCvSoloLocal": 1,
+        "id_t7_polyStereo": 0,
+        "id_t7_panCvLevel": 1.0,
+        "id_t7_stereoWidth": 1.0,
+        "id_t7_invertInput": 0,
+        "id_g0_gainAdjust": 1.0,
+        "id_g0_fadeRate": 0.0,
+        "id_g0_fadeProfile": 0.0,
+        "id_g0_directOutsMode": 3,
+        "id_g0_auxSendsMode": 3,
+        "id_g0_panLawStereo": 1,
+        "id_g0_vuColorThemeLocal": 0,
+        "id_g0_filterPos": 1,
+        "id_g0_dispColorLocal": 0,
+        "id_g0_momentCvMuteLocal": 1,
+        "id_g0_momentCvSoloLocal": 1,
+        "id_g0_panCvLevel": 1.0,
+        "id_g0_stereoWidth": 1.0,
+        "id_g1_gainAdjust": 1.0,
+        "id_g1_fadeRate": 0.0,
+        "id_g1_fadeProfile": 0.0,
+        "id_g1_directOutsMode": 3,
+        "id_g1_auxSendsMode": 3,
+        "id_g1_panLawStereo": 1,
+        "id_g1_vuColorThemeLocal": 0,
+        "id_g1_filterPos": 1,
+        "id_g1_dispColorLocal": 0,
+        "id_g1_momentCvMuteLocal": 1,
+        "id_g1_momentCvSoloLocal": 1,
+        "id_g1_panCvLevel": 1.0,
+        "id_g1_stereoWidth": 1.0,
+        "dcBlock": false,
+        "clipping": 0,
+        "fadeRate": 3.9899978637695312,
+        "fadeProfile": 0.0,
+        "vuColorThemeLocal": 0,
+        "dispColorLocal": 0,
+        "momentCvMuteLocal": 1,
+        "momentCvDimLocal": 1,
+        "momentCvMonoLocal": 1,
+        "chainOnly": 0,
+        "dimGain": 0.25119000673294067,
+        "masterLabel": "MASTER"
+      },
+      "pos": [
+        61,
+        2
+      ]
+    },
+    {
       "id": 193199600106796,
       "plugin": "Stoermelder-P1",
       "model": "MidiCat",
-      "version": "2.0.beta3",
+      "version": "2.0.beta4",
       "params": [],
       "leftModuleId": 705323465969298,
       "rightModuleId": 8010561393366904,
@@ -582,534 +1065,158 @@
         "midiIgnoreDevices": false,
         "midiInput": {
           "driver": 1,
-          "deviceName": "LPD8",
           "channel": -1
         },
         "midiOutput": {
-          "driver": -11,
+          "driver": 1,
           "channel": 0
         }
       },
       "pos": [
-        93,
+        95,
         1
       ]
     },
     {
-      "id": 2662220226998736,
-      "plugin": "MindMeldModular",
-      "model": "MixMasterJr",
-      "version": "2.2.3",
+      "id": 4074283764594377,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 6110636906920012,
+      "pos": [
+        51,
+        1
+      ]
+    },
+    {
+      "id": 1568383742457877,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 609130905715313,
+      "pos": [
+        51,
+        2
+      ]
+    },
+    {
+      "id": 4268092254606950,
+      "plugin": "Fundamental",
+      "model": "Push",
+      "version": "2.6.0",
       "params": [
         {
           "value": 0.0,
           "id": 0
         },
         {
-          "value": 1.1011908054351807,
+          "value": 0.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 8010561393366904,
+      "rightModuleId": 2999780140941551,
+      "data": {
+        "hold": false
+      },
+      "pos": [
+        108,
+        1
+      ]
+    },
+    {
+      "id": 4770943153626043,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 4523225660314046,
+      "pos": [
+        131,
+        2
+      ]
+    },
+    {
+      "id": 8728725003946855,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8792491870916054,
+      "pos": [
+        131,
+        1
+      ]
+    },
+    {
+      "id": 705323465969298,
+      "plugin": "ML_modules",
+      "model": "FreeVerb",
+      "version": "2.0.2",
+      "params": [
+        {
+          "value": 0.89025139808654785,
+          "id": 0
+        },
+        {
+          "value": 0.56785213947296143,
           "id": 1
         },
         {
           "value": 0.0,
           "id": 2
-        },
-        {
-          "value": 0.0,
-          "id": 3
-        },
-        {
-          "value": 0.0,
-          "id": 4
-        },
-        {
-          "value": 0.0,
-          "id": 5
-        },
-        {
-          "value": 0.0,
-          "id": 6
-        },
-        {
-          "value": 0.0,
-          "id": 7
-        },
-        {
-          "value": 1.0,
-          "id": 8
-        },
-        {
-          "value": 1.0,
-          "id": 9
-        },
-        {
-          "value": 0.5,
-          "id": 10
-        },
-        {
-          "value": 0.5,
-          "id": 11
-        },
-        {
-          "value": 0.5,
-          "id": 12
-        },
-        {
-          "value": 0.5,
-          "id": 13
-        },
-        {
-          "value": 0.5,
-          "id": 14
-        },
-        {
-          "value": 0.5,
-          "id": 15
-        },
-        {
-          "value": 0.5,
-          "id": 16
-        },
-        {
-          "value": 0.5,
-          "id": 17
-        },
-        {
-          "value": 0.5,
-          "id": 18
-        },
-        {
-          "value": 0.5,
-          "id": 19
-        },
-        {
-          "value": 0.0,
-          "id": 20
-        },
-        {
-          "value": 0.0,
-          "id": 21
-        },
-        {
-          "value": 0.0,
-          "id": 22
-        },
-        {
-          "value": 0.0,
-          "id": 23
-        },
-        {
-          "value": 0.0,
-          "id": 24
-        },
-        {
-          "value": 0.0,
-          "id": 25
-        },
-        {
-          "value": 0.0,
-          "id": 26
-        },
-        {
-          "value": 0.0,
-          "id": 27
-        },
-        {
-          "value": 0.0,
-          "id": 28
-        },
-        {
-          "value": 0.0,
-          "id": 29
-        },
-        {
-          "value": 0.0,
-          "id": 30
-        },
-        {
-          "value": 0.0,
-          "id": 31
-        },
-        {
-          "value": 0.0,
-          "id": 32
-        },
-        {
-          "value": 0.0,
-          "id": 33
-        },
-        {
-          "value": 0.0,
-          "id": 34
-        },
-        {
-          "value": 0.0,
-          "id": 35
-        },
-        {
-          "value": 0.0,
-          "id": 36
-        },
-        {
-          "value": 0.0,
-          "id": 37
-        },
-        {
-          "value": 0.0,
-          "id": 38
-        },
-        {
-          "value": 0.0,
-          "id": 39
-        },
-        {
-          "value": 1.0,
-          "id": 40
-        },
-        {
-          "value": 0.0,
-          "id": 41
-        },
-        {
-          "value": 0.0,
-          "id": 42
-        },
-        {
-          "value": 0.5165676474571228,
-          "id": 43
-        },
-        {
-          "value": 1.0,
-          "id": 44
-        },
-        {
-          "value": 0.0,
-          "id": 45
-        },
-        {
-          "value": 0.0,
-          "id": 46
-        },
-        {
-          "value": 0.0,
-          "id": 47
-        },
-        {
-          "value": 0.0,
-          "id": 48
-        },
-        {
-          "value": 0.0,
-          "id": 49
-        },
-        {
-          "value": 0.0,
-          "id": 50
-        },
-        {
-          "value": 0.0,
-          "id": 51
-        },
-        {
-          "value": 13.0,
-          "id": 52
-        },
-        {
-          "value": 13.0,
-          "id": 53
-        },
-        {
-          "value": 13.0,
-          "id": 54
-        },
-        {
-          "value": 13.0,
-          "id": 55
-        },
-        {
-          "value": 13.0,
-          "id": 56
-        },
-        {
-          "value": 13.0,
-          "id": 57
-        },
-        {
-          "value": 13.0,
-          "id": 58
-        },
-        {
-          "value": 13.0,
-          "id": 59
-        },
-        {
-          "value": 20010.0,
-          "id": 60
-        },
-        {
-          "value": 20010.0,
-          "id": 61
-        },
-        {
-          "value": 20010.0,
-          "id": 62
-        },
-        {
-          "value": 20010.0,
-          "id": 63
-        },
-        {
-          "value": 20010.0,
-          "id": 64
-        },
-        {
-          "value": 20010.0,
-          "id": 65
-        },
-        {
-          "value": 20010.0,
-          "id": 66
-        },
-        {
-          "value": 20010.0,
-          "id": 67
-        },
-        {
-          "value": 13.0,
-          "id": 68
-        },
-        {
-          "value": 13.0,
-          "id": 69
-        },
-        {
-          "value": 20010.0,
-          "id": 70
-        },
-        {
-          "value": 20010.0,
-          "id": 71
         }
       ],
-      "leftModuleId": 1568383742457877,
-      "rightModuleId": 1407496081584580,
-      "data": {
-        "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
-        "panLawMono": 1,
-        "panLawStereo": 1,
-        "directOutsMode": 3,
-        "directOutsSkipGroupedTracks": 0,
-        "auxSendsMode": 3,
-        "groupsControlTrackSendLevels": 0,
-        "auxReturnsMutedWhenMainSolo": 0,
-        "auxReturnsSolosMuteDry": 0,
-        "chainMode": 0,
-        "colorAndCloak": 117440512,
-        "symmetricalFade": false,
-        "fadeCvOutsWithVolCv": false,
-        "linkBitMask": 0,
-        "filterPos": 1,
-        "groupedAuxReturnFeedbackProtection": 1,
-        "ecoMode": 65535,
-        "momentaryCvButtons": 1,
-        "masterFaderScalesSends": 0,
-        "polySpreadVandP": 0,
-        "linearVolCvInputs": 0,
-        "id_t0_gainAdjust": 1.0,
-        "id_t0_fadeRate": 0.0,
-        "id_t0_fadeProfile": 0.0,
-        "id_t0_directOutsMode": 3,
-        "id_t0_auxSendsMode": 3,
-        "id_t0_panLawStereo": 1,
-        "id_t0_vuColorThemeLocal": 0,
-        "id_t0_filterPos": 1,
-        "id_t0_dispColorLocal": 0,
-        "id_t0_momentCvMuteLocal": 1,
-        "id_t0_momentCvSoloLocal": 1,
-        "id_t0_polyStereo": 0,
-        "id_t0_panCvLevel": 1.0,
-        "id_t0_stereoWidth": 1.0,
-        "id_t0_invertInput": 0,
-        "id_t1_gainAdjust": 1.0,
-        "id_t1_fadeRate": 0.0,
-        "id_t1_fadeProfile": 0.0,
-        "id_t1_directOutsMode": 3,
-        "id_t1_auxSendsMode": 3,
-        "id_t1_panLawStereo": 1,
-        "id_t1_vuColorThemeLocal": 0,
-        "id_t1_filterPos": 1,
-        "id_t1_dispColorLocal": 0,
-        "id_t1_momentCvMuteLocal": 1,
-        "id_t1_momentCvSoloLocal": 1,
-        "id_t1_polyStereo": 0,
-        "id_t1_panCvLevel": 1.0,
-        "id_t1_stereoWidth": 1.0,
-        "id_t1_invertInput": 0,
-        "id_t2_gainAdjust": 1.0,
-        "id_t2_fadeRate": 0.0,
-        "id_t2_fadeProfile": 0.0,
-        "id_t2_directOutsMode": 3,
-        "id_t2_auxSendsMode": 3,
-        "id_t2_panLawStereo": 1,
-        "id_t2_vuColorThemeLocal": 0,
-        "id_t2_filterPos": 1,
-        "id_t2_dispColorLocal": 0,
-        "id_t2_momentCvMuteLocal": 1,
-        "id_t2_momentCvSoloLocal": 1,
-        "id_t2_polyStereo": 0,
-        "id_t2_panCvLevel": 1.0,
-        "id_t2_stereoWidth": 1.0,
-        "id_t2_invertInput": 0,
-        "id_t3_gainAdjust": 1.0,
-        "id_t3_fadeRate": 0.0,
-        "id_t3_fadeProfile": 0.0,
-        "id_t3_directOutsMode": 3,
-        "id_t3_auxSendsMode": 3,
-        "id_t3_panLawStereo": 1,
-        "id_t3_vuColorThemeLocal": 0,
-        "id_t3_filterPos": 1,
-        "id_t3_dispColorLocal": 0,
-        "id_t3_momentCvMuteLocal": 1,
-        "id_t3_momentCvSoloLocal": 1,
-        "id_t3_polyStereo": 0,
-        "id_t3_panCvLevel": 1.0,
-        "id_t3_stereoWidth": 1.0,
-        "id_t3_invertInput": 0,
-        "id_t4_gainAdjust": 1.0,
-        "id_t4_fadeRate": 0.0,
-        "id_t4_fadeProfile": 0.0,
-        "id_t4_directOutsMode": 3,
-        "id_t4_auxSendsMode": 3,
-        "id_t4_panLawStereo": 1,
-        "id_t4_vuColorThemeLocal": 0,
-        "id_t4_filterPos": 1,
-        "id_t4_dispColorLocal": 0,
-        "id_t4_momentCvMuteLocal": 1,
-        "id_t4_momentCvSoloLocal": 1,
-        "id_t4_polyStereo": 0,
-        "id_t4_panCvLevel": 1.0,
-        "id_t4_stereoWidth": 1.0,
-        "id_t4_invertInput": 0,
-        "id_t5_gainAdjust": 1.0,
-        "id_t5_fadeRate": 0.0,
-        "id_t5_fadeProfile": 0.0,
-        "id_t5_directOutsMode": 3,
-        "id_t5_auxSendsMode": 3,
-        "id_t5_panLawStereo": 1,
-        "id_t5_vuColorThemeLocal": 0,
-        "id_t5_filterPos": 1,
-        "id_t5_dispColorLocal": 0,
-        "id_t5_momentCvMuteLocal": 1,
-        "id_t5_momentCvSoloLocal": 1,
-        "id_t5_polyStereo": 0,
-        "id_t5_panCvLevel": 1.0,
-        "id_t5_stereoWidth": 1.0,
-        "id_t5_invertInput": 0,
-        "id_t6_gainAdjust": 1.0,
-        "id_t6_fadeRate": 0.0,
-        "id_t6_fadeProfile": 0.0,
-        "id_t6_directOutsMode": 3,
-        "id_t6_auxSendsMode": 3,
-        "id_t6_panLawStereo": 1,
-        "id_t6_vuColorThemeLocal": 0,
-        "id_t6_filterPos": 1,
-        "id_t6_dispColorLocal": 0,
-        "id_t6_momentCvMuteLocal": 1,
-        "id_t6_momentCvSoloLocal": 1,
-        "id_t6_polyStereo": 0,
-        "id_t6_panCvLevel": 1.0,
-        "id_t6_stereoWidth": 1.0,
-        "id_t6_invertInput": 0,
-        "id_t7_gainAdjust": 1.0,
-        "id_t7_fadeRate": 0.0,
-        "id_t7_fadeProfile": 0.0,
-        "id_t7_directOutsMode": 3,
-        "id_t7_auxSendsMode": 3,
-        "id_t7_panLawStereo": 1,
-        "id_t7_vuColorThemeLocal": 0,
-        "id_t7_filterPos": 1,
-        "id_t7_dispColorLocal": 0,
-        "id_t7_momentCvMuteLocal": 1,
-        "id_t7_momentCvSoloLocal": 1,
-        "id_t7_polyStereo": 0,
-        "id_t7_panCvLevel": 1.0,
-        "id_t7_stereoWidth": 1.0,
-        "id_t7_invertInput": 0,
-        "id_g0_gainAdjust": 1.0,
-        "id_g0_fadeRate": 0.0,
-        "id_g0_fadeProfile": 0.0,
-        "id_g0_directOutsMode": 3,
-        "id_g0_auxSendsMode": 3,
-        "id_g0_panLawStereo": 1,
-        "id_g0_vuColorThemeLocal": 0,
-        "id_g0_filterPos": 1,
-        "id_g0_dispColorLocal": 0,
-        "id_g0_momentCvMuteLocal": 1,
-        "id_g0_momentCvSoloLocal": 1,
-        "id_g0_panCvLevel": 1.0,
-        "id_g0_stereoWidth": 1.0,
-        "id_g1_gainAdjust": 1.0,
-        "id_g1_fadeRate": 0.0,
-        "id_g1_fadeProfile": 0.0,
-        "id_g1_directOutsMode": 3,
-        "id_g1_auxSendsMode": 3,
-        "id_g1_panLawStereo": 1,
-        "id_g1_vuColorThemeLocal": 0,
-        "id_g1_filterPos": 1,
-        "id_g1_dispColorLocal": 0,
-        "id_g1_momentCvMuteLocal": 1,
-        "id_g1_momentCvSoloLocal": 1,
-        "id_g1_panCvLevel": 1.0,
-        "id_g1_stereoWidth": 1.0,
-        "dcBlock": false,
-        "clipping": 0,
-        "fadeRate": 3.9899978637695312,
-        "fadeProfile": 0.0,
-        "vuColorThemeLocal": 0,
-        "dispColorLocal": 0,
-        "momentCvMuteLocal": 1,
-        "momentCvDimLocal": 1,
-        "momentCvMonoLocal": 1,
-        "chainOnly": 0,
-        "dimGain": 0.25119000673294067,
-        "masterLabel": "MASTER"
-      },
+      "leftModuleId": 4030200291498897,
+      "rightModuleId": 193199600106796,
       "pos": [
-        52,
-        2
-      ]
-    },
-    {
-      "id": 609130905715313,
-      "plugin": "SubmarineFree",
-      "model": "TD-316",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 4523225660314046,
-      "data": {
-        "width": 135.0,
-        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock.\n\nIt will be necessary to map space to the fade button on the master level in the *uMap* module",
-        "size": 12.0,
-        "fg": "#29b2ef",
-        "bg": "#000000"
-      },
-      "pos": [
-        69,
+        89,
         1
       ]
     },
     {
-      "id": 8073970574396973,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 6110636906920012,
-      "rightModuleId": 4117126084367892,
+      "id": 4030200291498897,
+      "plugin": "Core",
+      "model": "AudioInterface2",
+      "version": "2.5.2",
+      "params": [
+        {
+          "value": 0.97386348247528076,
+          "id": 0
+        }
+      ],
+      "rightModuleId": 705323465969298,
       "data": {
-        "label": "ch1"
+        "audio": {
+          "driver": 5,
+          "deviceName": "External Headphones",
+          "sampleRate": 48000.0,
+          "blockSize": 256,
+          "inputOffset": 0,
+          "outputOffset": 0
+        },
+        "dcFilter": true
       },
       "pos": [
-        57,
+        84,
+        1
+      ]
+    },
+    {
+      "id": 2388205806678701,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 2999780140941551,
+      "rightModuleId": 4017856538271363,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        117,
         1
       ]
     },
@@ -1140,6 +1247,42 @@
       ]
     },
     {
+      "id": 609130905715313,
+      "plugin": "SubmarineFree",
+      "model": "TD-316",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 1568383742457877,
+      "rightModuleId": 2662220226998736,
+      "data": {
+        "width": 135.0,
+        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock.\n\nIt will be necessary to map space to the fade button on the master level in the *uMap* module",
+        "size": 12.0,
+        "fg": "#29b2ef",
+        "bg": "#000000"
+      },
+      "pos": [
+        52,
+        2
+      ]
+    },
+    {
+      "id": 8073970574396973,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6110636906920012,
+      "rightModuleId": 4117126084367892,
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        57,
+        1
+      ]
+    },
+    {
       "id": 4117126084367892,
       "plugin": "LittleUtils",
       "model": "TeleportOut",
@@ -1147,7 +1290,7 @@
       "params": [],
       "leftModuleId": 8073970574396973,
       "data": {
-        "label": "Samp"
+        "label": "ch2"
       },
       "pos": [
         60,
@@ -1165,35 +1308,23 @@
           "id": 0
         }
       ],
-      "leftModuleId": 609130905715313,
-      "rightModuleId": 4030200291498897,
+      "leftModuleId": 1407496081584580,
+      "rightModuleId": 4770943153626043,
       "data": {
         "moduleVersion": 1,
         "color": 5,
         "theme": 0
       },
       "pos": [
-        78,
-        1
+        127,
+        2
       ]
     },
     {
-      "id": 8728725003946855,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 2388205806678701,
-      "pos": [
-        118,
-        1
-      ]
-    },
-    {
-      "id": 4268092254606950,
-      "plugin": "Fundamental",
-      "model": "Push",
-      "version": "2.6.0",
+      "id": 8010561393366904,
+      "plugin": "Stoermelder-P1",
+      "model": "CVMapMicro",
+      "version": "2.0.beta4",
       "params": [
         {
           "value": 0.0,
@@ -1202,106 +1333,129 @@
         {
           "value": 0.0,
           "id": 1
-        }
-      ],
-      "leftModuleId": 8010561393366904,
-      "rightModuleId": 2999780140941551,
-      "data": {
-        "hold": true
-      },
-      "pos": [
-        106,
-        1
-      ]
-    },
-    {
-      "id": 4030200291498897,
-      "plugin": "Core",
-      "model": "AudioInterface2",
-      "version": "2.4.1",
-      "params": [
-        {
-          "value": 0.97386348247528076,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 4523225660314046,
-      "rightModuleId": 705323465969298,
-      "data": {
-        "audio": {
-          "driver": 5,
-          "deviceName": "External Headphones",
-          "sampleRate": 48000.0,
-          "blockSize": 256,
-          "inputOffset": 0,
-          "outputOffset": 0
-        },
-        "dcFilter": true
-      },
-      "pos": [
-        82,
-        1
-      ]
-    },
-    {
-      "id": 4770943153626043,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 1407496081584580,
-      "pos": [
-        118,
-        2
-      ]
-    },
-    {
-      "id": 1568383742457877,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 2662220226998736,
-      "pos": [
-        51,
-        2
-      ]
-    },
-    {
-      "id": 4074283764594377,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 6110636906920012,
-      "pos": [
-        51,
-        1
-      ]
-    },
-    {
-      "id": 705323465969298,
-      "plugin": "ML_modules",
-      "model": "FreeVerb",
-      "version": "2.0.2",
-      "params": [
-        {
-          "value": 0.89025139808654785,
-          "id": 0
         },
         {
-          "value": 0.56785213947296143,
-          "id": 1
-        },
-        {
-          "value": 0.0,
+          "value": 1.0,
           "id": 2
         }
       ],
-      "leftModuleId": 4030200291498897,
-      "rightModuleId": 193199600106796,
+      "leftModuleId": 193199600106796,
+      "rightModuleId": 4268092254606950,
+      "data": {
+        "textScrolling": true,
+        "mappingIndicatorHidden": false,
+        "maps": [
+          {
+            "moduleId": 2662220226998736,
+            "paramId": 40
+          }
+        ],
+        "lockParameterChanges": true,
+        "bipolarInput": false,
+        "panelTheme": 0,
+        "invertedOutput": false,
+        "audioRate": true
+      },
       "pos": [
-        87,
+        105,
+        1
+      ]
+    },
+    {
+      "id": 2999780140941551,
+      "plugin": "Stoermelder-P1",
+      "model": "Stroke",
+      "version": "2.0.beta4",
+      "params": [],
+      "leftModuleId": 4268092254606950,
+      "rightModuleId": 2388205806678701,
+      "data": {
+        "panelTheme": 0,
+        "keys": [
+          {
+            "button": -1,
+            "key": 32,
+            "mods": 0,
+            "mode": 2,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 67,
+            "mods": 0,
+            "mode": 34,
+            "high": false,
+            "data": "{\n  \"name\": \"Impromptu Clocked\",\n  \"module\": {\n    \"id\": 3882055539393968,\n    \"plugin\": \"ImpromptuModular\",\n    \"model\": \"Clocked\",\n    \"version\": \"2.4.2\",\n    \"params\": [\n      {\n        \"value\": 139.0,\n        \"id\": 0\n      },\n      {\n        \"value\": 2.0,\n        \"id\": 1\n      },\n      {\n        \"value\": 5.0,\n        \"id\": 2\n      },\n      {\n        \"value\": -5.0,\n        \"id\": 3\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 4\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 5\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 6\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 7\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 8\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 9\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 10\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 11\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 12\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 13\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 14\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 15\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 16\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 17\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 18\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 19\n      }\n    ],\n    \"leftModuleId\": 7542823522848140,\n    \"rightModuleId\": 8926983044522387,\n    \"data\": {\n      \"panelTheme\": 3,\n      \"panelContrast\": 222.299789,\n      \"running\": false,\n      \"displayDelayNoteMode\": true,\n      \"bpmDetectionMode\": false,\n      \"resetOnStartStop\": 0,\n      \"ppqn\": 4,\n      \"resetClockOutputsHigh\": true,\n      \"momentaryRunInput\": true,\n      \"forceCvOnBpmOut\": false,\n      \"bpmInputScale\": 1.0,\n      \"bpmInputOffset\": 0.0,\n      \"clockMaster\": false\n    }\n  }\n}"
+          },
+          {
+            "button": -1,
+            "key": 258,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 81,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 96,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 65,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 90,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 88,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": -1,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": -1,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          }
+        ]
+      },
+      "pos": [
+        111,
         1
       ]
     },
@@ -1312,7 +1466,7 @@
       "version": "2.2.3",
       "params": [
         {
-          "value": 0.65366756916046143,
+          "value": 0.003614458255469799,
           "id": 0
         },
         {
@@ -1352,7 +1506,7 @@
           "id": 9
         },
         {
-          "value": 0.0,
+          "value": 0.11592087149620056,
           "id": 10
         },
         {
@@ -1584,7 +1738,7 @@
           "id": 67
         },
         {
-          "value": 0.5,
+          "value": 0.86400008201599121,
           "id": 68
         },
         {
@@ -1609,7 +1763,7 @@
         }
       ],
       "leftModuleId": 2662220226998736,
-      "rightModuleId": 4770943153626043,
+      "rightModuleId": 4523225660314046,
       "data": {
         "directOutsModeLocal": 50529027,
         "panLawStereoLocal": 16843009,
@@ -1667,188 +1821,78 @@
         ]
       },
       "pos": [
-        88,
+        97,
         2
       ]
     },
     {
-      "id": 2999780140941551,
-      "plugin": "Stoermelder-P1",
-      "model": "Stroke",
-      "version": "2.0.beta3",
+      "id": 4017856538271363,
+      "plugin": "Core",
+      "model": "MIDIToCVInterface",
+      "version": "2.5.2",
       "params": [],
-      "leftModuleId": 4268092254606950,
-      "rightModuleId": 2388205806678701,
+      "leftModuleId": 2388205806678701,
+      "rightModuleId": 8792491870916054,
       "data": {
-        "panelTheme": 0,
-        "keys": [
-          {
-            "button": -1,
-            "key": 32,
-            "mods": 0,
-            "mode": 2,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 67,
-            "mods": 0,
-            "mode": 34,
-            "high": false,
-            "data": "{\n  \"name\": \"Impromptu Clocked\",\n  \"module\": {\n    \"id\": 3882055539393968,\n    \"plugin\": \"ImpromptuModular\",\n    \"model\": \"Clocked\",\n    \"version\": \"2.4.2\",\n    \"params\": [\n      {\n        \"value\": 139.0,\n        \"id\": 0\n      },\n      {\n        \"value\": 2.0,\n        \"id\": 1\n      },\n      {\n        \"value\": 5.0,\n        \"id\": 2\n      },\n      {\n        \"value\": -5.0,\n        \"id\": 3\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 4\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 5\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 6\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 7\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 8\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 9\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 10\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 11\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 12\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 13\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 14\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 15\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 16\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 17\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 18\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 19\n      }\n    ],\n    \"leftModuleId\": 7542823522848140,\n    \"rightModuleId\": 8926983044522387,\n    \"data\": {\n      \"panelTheme\": 3,\n      \"panelContrast\": 222.299789,\n      \"running\": false,\n      \"displayDelayNoteMode\": true,\n      \"bpmDetectionMode\": false,\n      \"resetOnStartStop\": 0,\n      \"ppqn\": 4,\n      \"resetClockOutputsHigh\": true,\n      \"momentaryRunInput\": true,\n      \"forceCvOnBpmOut\": false,\n      \"bpmInputScale\": 1.0,\n      \"bpmInputOffset\": 0.0,\n      \"clockMaster\": false\n    }\n  }\n}"
-          },
-          {
-            "button": -1,
-            "key": 258,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 81,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 96,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 65,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 90,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 88,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          }
-        ]
-      },
-      "pos": [
-        109,
-        1
-      ]
-    },
-    {
-      "id": 8010561393366904,
-      "plugin": "Stoermelder-P1",
-      "model": "CVMapMicro",
-      "version": "2.0.beta3",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        },
-        {
-          "value": 0.0,
-          "id": 1
-        },
-        {
-          "value": 1.0,
-          "id": 2
+        "pwRange": 2.0,
+        "smooth": true,
+        "channels": 1,
+        "polyMode": 0,
+        "clockDivision": 24,
+        "lastPitch": 8192,
+        "lastMod": 0,
+        "midi": {
+          "driver": 1,
+          "deviceName": "nanoKEY KEYBOARD",
+          "channel": -1
         }
-      ],
-      "leftModuleId": 193199600106796,
-      "rightModuleId": 4268092254606950,
-      "data": {
-        "textScrolling": true,
-        "mappingIndicatorHidden": false,
-        "maps": [
-          {
-            "moduleId": 2662220226998736,
-            "paramId": 40
-          }
-        ],
-        "lockParameterChanges": true,
-        "bipolarInput": false,
-        "panelTheme": 0,
-        "invertedOutput": false,
-        "audioRate": true
       },
       "pos": [
-        103,
+        120,
         1
       ]
     },
     {
-      "id": 8108188097944697,
+      "id": 8792491870916054,
       "plugin": "LittleUtils",
       "model": "TeleportIn",
       "version": "2.1.0",
       "params": [],
-      "data": {
-        "label": "ch1"
-      },
-      "pos": [
-        64,
-        1
-      ]
-    },
-    {
-      "id": 2388205806678701,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 2999780140941551,
+      "leftModuleId": 4017856538271363,
       "rightModuleId": 8728725003946855,
       "data": {
-        "label": "kybd"
+        "label": "midi"
       },
       "pos": [
-        115,
+        128,
         1
       ]
     }
   ],
   "cables": [
     {
-      "id": 4850405201942054,
-      "outputModuleId": 1407496081584580,
-      "outputId": 0,
-      "inputModuleId": 705323465969298,
+      "id": 6472696752822619,
+      "outputModuleId": 2662220226998736,
+      "outputId": 2,
+      "inputModuleId": 4030200291498897,
       "inputId": 0,
-      "color": "#ffb437"
+      "color": "#3695ef"
+    },
+    {
+      "id": 1064503869769717,
+      "outputModuleId": 2662220226998736,
+      "outputId": 3,
+      "inputModuleId": 4030200291498897,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 3101283455318331,
+      "outputModuleId": 4268092254606950,
+      "outputId": 1,
+      "inputModuleId": 8010561393366904,
+      "inputId": 2,
+      "color": "#677336"
     },
     {
       "id": 2129351987228055,
@@ -1865,38 +1909,6 @@
       "inputModuleId": 1407496081584580,
       "inputId": 1,
       "color": "#ffb437"
-    },
-    {
-      "id": 3449614750357332,
-      "outputModuleId": 8073970574396973,
-      "outputId": 0,
-      "inputModuleId": 2662220226998736,
-      "inputId": 0,
-      "color": "#f3374b"
-    },
-    {
-      "id": 317863764769491,
-      "outputModuleId": 8073970574396973,
-      "outputId": 1,
-      "inputModuleId": 2662220226998736,
-      "inputId": 1,
-      "color": "#f3374b"
-    },
-    {
-      "id": 1064503869769717,
-      "outputModuleId": 2662220226998736,
-      "outputId": 3,
-      "inputModuleId": 4030200291498897,
-      "inputId": 1,
-      "color": "#00b56e"
-    },
-    {
-      "id": 6472696752822619,
-      "outputModuleId": 2662220226998736,
-      "outputId": 2,
-      "inputModuleId": 4030200291498897,
-      "inputId": 0,
-      "color": "#3695ef"
     },
     {
       "id": 1415290488842502,
@@ -1963,14 +1975,6 @@
       "color": "#677336"
     },
     {
-      "id": 3101283455318331,
-      "outputModuleId": 4268092254606950,
-      "outputId": 1,
-      "inputModuleId": 8010561393366904,
-      "inputId": 2,
-      "color": "#677336"
-    },
-    {
       "id": 3323065670233300,
       "outputModuleId": 2999780140941551,
       "outputId": 0,
@@ -1979,7 +1983,31 @@
       "color": "#677336"
     },
     {
-      "id": 1497008121629822,
+      "id": 4850405201942054,
+      "outputModuleId": 1407496081584580,
+      "outputId": 0,
+      "inputModuleId": 705323465969298,
+      "inputId": 0,
+      "color": "#ffb437"
+    },
+    {
+      "id": 3449614750357332,
+      "outputModuleId": 8073970574396973,
+      "outputId": 0,
+      "inputModuleId": 2662220226998736,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 5420543684167556,
+      "outputModuleId": 8073970574396973,
+      "outputId": 1,
+      "inputModuleId": 2662220226998736,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 7444092413437540,
       "outputModuleId": 4117126084367892,
       "outputId": 0,
       "inputModuleId": 2662220226998736,
@@ -1987,12 +2015,60 @@
       "color": "#dd6c00"
     },
     {
-      "id": 1613712420622993,
+      "id": 88723255772010,
       "outputModuleId": 4117126084367892,
       "outputId": 1,
       "inputModuleId": 2662220226998736,
       "inputId": 3,
       "color": "#dd6c00"
+    },
+    {
+      "id": 3240996171761376,
+      "outputModuleId": 4017856538271363,
+      "outputId": 1,
+      "inputModuleId": 8792491870916054,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 816056669090946,
+      "outputModuleId": 4017856538271363,
+      "outputId": 0,
+      "inputModuleId": 8792491870916054,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 6837036740081903,
+      "outputModuleId": 4017856538271363,
+      "outputId": 2,
+      "inputModuleId": 8792491870916054,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 7797929082153634,
+      "outputModuleId": 4017856538271363,
+      "outputId": 3,
+      "inputModuleId": 8792491870916054,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 8303446091652402,
+      "outputModuleId": 4017856538271363,
+      "outputId": 4,
+      "inputModuleId": 8792491870916054,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3763988567350012,
+      "outputModuleId": 4017856538271363,
+      "outputId": 5,
+      "inputModuleId": 8792491870916054,
+      "inputId": 5,
+      "color": "#8a2be2"
     }
   ]
 }

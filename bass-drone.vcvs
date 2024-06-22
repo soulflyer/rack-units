@@ -1,0 +1,1181 @@
+{
+  "modules": [
+    {
+      "id": 5322799617396900,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTOSCClassic",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.5,
+          "id": 1
+        },
+        {
+          "value": 0.28285720944404602,
+          "id": 2
+        },
+        {
+          "value": 0.45628580451011658,
+          "id": 3
+        },
+        {
+          "value": 0.44457146525382996,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.084571272134780884,
+          "id": 6
+        },
+        {
+          "value": 0.13699999451637268,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": -0.58400064706802368,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.14600007236003876,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.20200003683567047,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.032000001519918442,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": -1.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 1.0,
+          "id": 48
+        },
+        {
+          "value": 0.0,
+          "id": 49
+        },
+        {
+          "value": 1.0,
+          "id": 50
+        }
+      ],
+      "leftModuleId": 3465819810314624,
+      "rightModuleId": 7756052237050904,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900005,
+          "localControlValueColor": 900001,
+          "localPowerButtonColor": 900003
+        },
+        "modulespecific": {
+          "paramNatural": [
+            {
+              "index": 0,
+              "valtype": 2,
+              "val_f": 0.0
+            },
+            {
+              "index": 1,
+              "valtype": 2,
+              "val_f": 0.21232138574123383
+            },
+            {
+              "index": 2,
+              "valtype": 2,
+              "val_f": 0.49987572431564331
+            },
+            {
+              "index": 3,
+              "valtype": 2,
+              "val_f": 0.5417361855506897
+            },
+            {
+              "index": 4,
+              "valtype": 2,
+              "val_f": 0.0
+            },
+            {
+              "index": 5,
+              "valtype": 2,
+              "val_f": 0.094125218689441681
+            },
+            {
+              "index": 6,
+              "valtype": 0,
+              "val_i": 3
+            }
+          ],
+          "halfbandM": 6,
+          "halfbandSteep": true,
+          "doDCBlock": true,
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        101,
+        5
+      ]
+    },
+    {
+      "id": 3465819810314624,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTQuadLFO",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": 0.38590183854103088,
+          "id": 0
+        },
+        {
+          "value": 0.31004425883293152,
+          "id": 1
+        },
+        {
+          "value": 0.26118728518486023,
+          "id": 2
+        },
+        {
+          "value": 0.1731044203042984,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 1.0,
+          "id": 12
+        },
+        {
+          "value": 1.0,
+          "id": 13
+        },
+        {
+          "value": 1.0,
+          "id": 14
+        },
+        {
+          "value": 1.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.0,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": 0.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.0,
+          "id": 48
+        }
+      ],
+      "leftModuleId": 3893279194286530,
+      "rightModuleId": 5322799617396900,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900005,
+          "localControlValueColor": 900001,
+          "localPowerButtonColor": 900003
+        },
+        "modulespecific": {
+          "clockStyle": 0,
+          "forcePolyphony": -1
+        }
+      },
+      "pos": [
+        89,
+        5
+      ]
+    },
+    {
+      "id": 8428618403646941,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTDelay",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": -0.051252610981464386,
+          "id": 0
+        },
+        {
+          "value": -2.8870999813079834e-8,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.5,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": -12.197134017944336,
+          "id": 5
+        },
+        {
+          "value": 70.0,
+          "id": 6
+        },
+        {
+          "value": 0.9971429705619812,
+          "id": 7
+        },
+        {
+          "value": 0.31242862343788147,
+          "id": 8
+        },
+        {
+          "value": 0.46128556132316589,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.0,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": 0.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.0,
+          "id": 48
+        },
+        {
+          "value": 0.0,
+          "id": 49
+        },
+        {
+          "value": 3.0,
+          "id": 50
+        }
+      ],
+      "leftModuleId": 1319979365750543,
+      "rightModuleId": 8108188097944697,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900005,
+          "localControlValueColor": 900001,
+          "localPowerButtonColor": 900003
+        },
+        "modulespecific": {
+          "clockStyle": 0
+        }
+      },
+      "pos": [
+        129,
+        5
+      ]
+    },
+    {
+      "id": 7756052237050904,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": 1.4399994611740112,
+          "id": 0
+        },
+        {
+          "value": 0.17096395790576935,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 1.0,
+          "id": 4
+        },
+        {
+          "value": -0.093999922275543213,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 12.0,
+          "id": 25
+        },
+        {
+          "value": 3.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 5322799617396900,
+      "rightModuleId": 3932461164323919,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900005,
+          "localControlValueColor": 900001,
+          "localPowerButtonColor": 900003
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        113,
+        5
+      ]
+    },
+    {
+      "id": 3893279194286530,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 3833700879202744,
+      "rightModuleId": 3465819810314624,
+      "data": {
+        "label": "midi"
+      },
+      "pos": [
+        86,
+        5
+      ]
+    },
+    {
+      "id": 8108188097944697,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 8428618403646941,
+      "rightModuleId": 2569401097911088,
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        141,
+        5
+      ]
+    },
+    {
+      "id": 3833700879202744,
+      "plugin": "SubmarineFree",
+      "model": "TD-316",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2411483805056766,
+      "rightModuleId": 3893279194286530,
+      "data": {
+        "width": 135.0,
+        "text": "Inspired by Omri Cohen\nhttps://www.youtube.com/watch?v=qPqC942-LmA\n\nNo trigger but set pitch using midi keyboard.",
+        "size": 12.0,
+        "fg": "#29b2ef",
+        "bg": "#000000"
+      },
+      "pos": [
+        77,
+        5
+      ]
+    },
+    {
+      "id": 1319979365750543,
+      "plugin": "NYSTHI",
+      "model": "M1",
+      "version": "2.4.23",
+      "params": [
+        {
+          "value": 2.0,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 1.0,
+          "id": 5
+        },
+        {
+          "value": 0.5,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.94698816537857056,
+          "id": 12
+        }
+      ],
+      "leftModuleId": 3932461164323919,
+      "rightModuleId": 8428618403646941,
+      "data": {
+        "m_mute0": false,
+        "m_mute1": false,
+        "m_mute2": true,
+        "m_4_quadrants_VCA": true,
+        "m_exponential_levels": false
+      },
+      "pos": [
+        128,
+        5
+      ]
+    },
+    {
+      "id": 2569401097911088,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8108188097944697,
+      "pos": [
+        144,
+        5
+      ]
+    },
+    {
+      "id": 2411483805056766,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 3833700879202744,
+      "pos": [
+        76,
+        5
+      ]
+    },
+    {
+      "id": 3932461164323919,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Sine",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": -2.0385541915893555,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": -0.040963716804981232,
+          "id": 3
+        }
+      ],
+      "leftModuleId": 7756052237050904,
+      "rightModuleId": 1319979365750543,
+      "data": {
+        "poly_input": 0,
+        "dc_correction": true,
+        "wave": 0,
+        "fm_mode": false,
+        "linear_mode": false
+      },
+      "pos": [
+        125,
+        5
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 3334238983398507,
+      "outputModuleId": 8428618403646941,
+      "outputId": 0,
+      "inputModuleId": 8108188097944697,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 4545405123149408,
+      "outputModuleId": 8428618403646941,
+      "outputId": 1,
+      "inputModuleId": 8108188097944697,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 4765198161322662,
+      "outputModuleId": 3465819810314624,
+      "outputId": 3,
+      "inputModuleId": 7756052237050904,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2638537474290508,
+      "outputModuleId": 5322799617396900,
+      "outputId": 1,
+      "inputModuleId": 7756052237050904,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 1977680418258432,
+      "outputModuleId": 5322799617396900,
+      "outputId": 0,
+      "inputModuleId": 7756052237050904,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 8008271044189096,
+      "outputModuleId": 3465819810314624,
+      "outputId": 2,
+      "inputModuleId": 5322799617396900,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 6918242196663035,
+      "outputModuleId": 3465819810314624,
+      "outputId": 1,
+      "inputModuleId": 5322799617396900,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 258425312067320,
+      "outputModuleId": 3465819810314624,
+      "outputId": 0,
+      "inputModuleId": 5322799617396900,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1209934334205162,
+      "outputModuleId": 3893279194286530,
+      "outputId": 0,
+      "inputModuleId": 5322799617396900,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 8793677229561725,
+      "outputModuleId": 1319979365750543,
+      "outputId": 5,
+      "inputModuleId": 8428618403646941,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 7985639122339701,
+      "outputModuleId": 1319979365750543,
+      "outputId": 4,
+      "inputModuleId": 8428618403646941,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 4085114289255895,
+      "outputModuleId": 7756052237050904,
+      "outputId": 0,
+      "inputModuleId": 1319979365750543,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 3807693009675964,
+      "outputModuleId": 7756052237050904,
+      "outputId": 1,
+      "inputModuleId": 1319979365750543,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 4213444753515517,
+      "outputModuleId": 3932461164323919,
+      "outputId": 0,
+      "inputModuleId": 1319979365750543,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 78708082410793,
+      "outputModuleId": 3893279194286530,
+      "outputId": 0,
+      "inputModuleId": 3932461164323919,
+      "inputId": 0,
+      "color": "#0986ad"
+    }
+  ]
+}
