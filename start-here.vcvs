@@ -1,21 +1,21 @@
 {
   "modules": [
     {
-      "id": 2662220226998736,
+      "id": 3230808130128974,
       "plugin": "MindMeldModular",
       "model": "MixMasterJr",
       "version": "2.2.3",
       "params": [
         {
-          "value": 1.083532452583313,
+          "value": 0.68539714813232422,
           "id": 0
         },
         {
-          "value": 0.91842061281204224,
+          "value": 0.0,
           "id": 1
         },
         {
-          "value": 0.0025199961382895708,
+          "value": 0.0,
           "id": 2
         },
         {
@@ -35,19 +35,19 @@
           "id": 6
         },
         {
-          "value": 0.0,
+          "value": 1.0180163383483887,
           "id": 7
         },
         {
-          "value": 1.0,
+          "value": 0.0025198422372341156,
           "id": 8
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 9
         },
         {
-          "value": 0.50240916013717651,
+          "value": 0.5,
           "id": 10
         },
         {
@@ -87,7 +87,7 @@
           "id": 19
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 20
         },
         {
@@ -179,7 +179,7 @@
           "id": 42
         },
         {
-          "value": 0.84162741899490356,
+          "value": 1.002896785736084,
           "id": 43
         },
         {
@@ -295,8 +295,8 @@
           "id": 71
         }
       ],
-      "leftModuleId": 609130905715313,
-      "rightModuleId": 1407496081584580,
+      "leftModuleId": 8222007883870326,
+      "rightModuleId": 3021789504713178,
       "data": {
         "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
         "panLawMono": 1,
@@ -480,17 +480,17 @@
       },
       "pos": [
         61,
-        2
+        4
       ]
     },
     {
-      "id": 193199600106796,
+      "id": 5396395119858291,
       "plugin": "Stoermelder-P1",
       "model": "MidiCat",
       "version": "2.0.beta4",
       "params": [],
-      "leftModuleId": 705323465969298,
-      "rightModuleId": 8010561393366904,
+      "leftModuleId": 3008793627163409,
+      "rightModuleId": 88294014839146,
       "data": {
         "panelTheme": 0,
         "textScrolling": false,
@@ -1073,400 +1073,18 @@
         }
       },
       "pos": [
-        95,
-        1
-      ]
-    },
-    {
-      "id": 4074283764594377,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 6110636906920012,
-      "pos": [
-        51,
-        1
-      ]
-    },
-    {
-      "id": 1568383742457877,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 609130905715313,
-      "pos": [
-        51,
-        2
-      ]
-    },
-    {
-      "id": 4268092254606950,
-      "plugin": "Fundamental",
-      "model": "Push",
-      "version": "2.6.0",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        },
-        {
-          "value": 0.0,
-          "id": 1
-        }
-      ],
-      "leftModuleId": 8010561393366904,
-      "rightModuleId": 2999780140941551,
-      "data": {
-        "hold": false
-      },
-      "pos": [
         108,
-        1
+        3
       ]
     },
     {
-      "id": 4770943153626043,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 4523225660314046,
-      "pos": [
-        131,
-        2
-      ]
-    },
-    {
-      "id": 8728725003946855,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 8792491870916054,
-      "pos": [
-        131,
-        1
-      ]
-    },
-    {
-      "id": 705323465969298,
-      "plugin": "ML_modules",
-      "model": "FreeVerb",
-      "version": "2.0.2",
-      "params": [
-        {
-          "value": 0.89025139808654785,
-          "id": 0
-        },
-        {
-          "value": 0.56785213947296143,
-          "id": 1
-        },
-        {
-          "value": 0.0,
-          "id": 2
-        }
-      ],
-      "leftModuleId": 4030200291498897,
-      "rightModuleId": 193199600106796,
-      "pos": [
-        89,
-        1
-      ]
-    },
-    {
-      "id": 4030200291498897,
-      "plugin": "Core",
-      "model": "AudioInterface2",
-      "version": "2.5.2",
-      "params": [
-        {
-          "value": 0.97386348247528076,
-          "id": 0
-        }
-      ],
-      "rightModuleId": 705323465969298,
-      "data": {
-        "audio": {
-          "driver": 5,
-          "deviceName": "External Headphones",
-          "sampleRate": 48000.0,
-          "blockSize": 256,
-          "inputOffset": 0,
-          "outputOffset": 0
-        },
-        "dcFilter": true
-      },
-      "pos": [
-        84,
-        1
-      ]
-    },
-    {
-      "id": 2388205806678701,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 2999780140941551,
-      "rightModuleId": 4017856538271363,
-      "data": {
-        "label": "kybd"
-      },
-      "pos": [
-        117,
-        1
-      ]
-    },
-    {
-      "id": 6110636906920012,
-      "plugin": "SubmarineFree",
-      "model": "TD-510",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 4074283764594377,
-      "rightModuleId": 8073970574396973,
-      "data": {
-        "width": 75.0,
-        "items": [
-          {
-            "text": "Soulflyer - Start Here ",
-            "color": "#29b2ef",
-            "position": 4.0,
-            "alignment": 1.0,
-            "fontSize": 26.0,
-            "flip": 1.0
-          }
-        ]
-      },
-      "pos": [
-        52,
-        1
-      ]
-    },
-    {
-      "id": 609130905715313,
-      "plugin": "SubmarineFree",
-      "model": "TD-316",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 1568383742457877,
-      "rightModuleId": 2662220226998736,
-      "data": {
-        "width": 135.0,
-        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock.\n\nIt will be necessary to map space to the fade button on the master level in the *uMap* module",
-        "size": 12.0,
-        "fg": "#29b2ef",
-        "bg": "#000000"
-      },
-      "pos": [
-        52,
-        2
-      ]
-    },
-    {
-      "id": 8073970574396973,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 6110636906920012,
-      "rightModuleId": 4117126084367892,
-      "data": {
-        "label": "ch1"
-      },
-      "pos": [
-        57,
-        1
-      ]
-    },
-    {
-      "id": 4117126084367892,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 8073970574396973,
-      "data": {
-        "label": "ch2"
-      },
-      "pos": [
-        60,
-        1
-      ]
-    },
-    {
-      "id": 4523225660314046,
-      "plugin": "CountModula",
-      "model": "Palette",
-      "version": "2.5.0",
-      "params": [
-        {
-          "value": 1.0,
-          "id": 0
-        }
-      ],
-      "leftModuleId": 1407496081584580,
-      "rightModuleId": 4770943153626043,
-      "data": {
-        "moduleVersion": 1,
-        "color": 5,
-        "theme": 0
-      },
-      "pos": [
-        127,
-        2
-      ]
-    },
-    {
-      "id": 8010561393366904,
-      "plugin": "Stoermelder-P1",
-      "model": "CVMapMicro",
-      "version": "2.0.beta4",
-      "params": [
-        {
-          "value": 0.0,
-          "id": 0
-        },
-        {
-          "value": 0.0,
-          "id": 1
-        },
-        {
-          "value": 1.0,
-          "id": 2
-        }
-      ],
-      "leftModuleId": 193199600106796,
-      "rightModuleId": 4268092254606950,
-      "data": {
-        "textScrolling": true,
-        "mappingIndicatorHidden": false,
-        "maps": [
-          {
-            "moduleId": 2662220226998736,
-            "paramId": 40
-          }
-        ],
-        "lockParameterChanges": true,
-        "bipolarInput": false,
-        "panelTheme": 0,
-        "invertedOutput": false,
-        "audioRate": true
-      },
-      "pos": [
-        105,
-        1
-      ]
-    },
-    {
-      "id": 2999780140941551,
-      "plugin": "Stoermelder-P1",
-      "model": "Stroke",
-      "version": "2.0.beta4",
-      "params": [],
-      "leftModuleId": 4268092254606950,
-      "rightModuleId": 2388205806678701,
-      "data": {
-        "panelTheme": 0,
-        "keys": [
-          {
-            "button": -1,
-            "key": 32,
-            "mods": 0,
-            "mode": 2,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 67,
-            "mods": 0,
-            "mode": 34,
-            "high": false,
-            "data": "{\n  \"name\": \"Impromptu Clocked\",\n  \"module\": {\n    \"id\": 3882055539393968,\n    \"plugin\": \"ImpromptuModular\",\n    \"model\": \"Clocked\",\n    \"version\": \"2.4.2\",\n    \"params\": [\n      {\n        \"value\": 139.0,\n        \"id\": 0\n      },\n      {\n        \"value\": 2.0,\n        \"id\": 1\n      },\n      {\n        \"value\": 5.0,\n        \"id\": 2\n      },\n      {\n        \"value\": -5.0,\n        \"id\": 3\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 4\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 5\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 6\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 7\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 8\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 9\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 10\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 11\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 12\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 13\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 14\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 15\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 16\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 17\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 18\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 19\n      }\n    ],\n    \"leftModuleId\": 7542823522848140,\n    \"rightModuleId\": 8926983044522387,\n    \"data\": {\n      \"panelTheme\": 3,\n      \"panelContrast\": 222.299789,\n      \"running\": false,\n      \"displayDelayNoteMode\": true,\n      \"bpmDetectionMode\": false,\n      \"resetOnStartStop\": 0,\n      \"ppqn\": 4,\n      \"resetClockOutputsHigh\": true,\n      \"momentaryRunInput\": true,\n      \"forceCvOnBpmOut\": false,\n      \"bpmInputScale\": 1.0,\n      \"bpmInputOffset\": 0.0,\n      \"clockMaster\": false\n    }\n  }\n}"
-          },
-          {
-            "button": -1,
-            "key": 258,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 81,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 96,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 65,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 90,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": 88,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          },
-          {
-            "button": -1,
-            "key": -1,
-            "mods": 0,
-            "mode": 1,
-            "high": false,
-            "data": ""
-          }
-        ]
-      },
-      "pos": [
-        111,
-        1
-      ]
-    },
-    {
-      "id": 1407496081584580,
+      "id": 3021789504713178,
       "plugin": "MindMeldModular",
       "model": "AuxExpanderJr",
       "version": "2.2.3",
       "params": [
         {
-          "value": 0.003614458255469799,
+          "value": 0.72891616821289062,
           "id": 0
         },
         {
@@ -1498,7 +1116,7 @@
           "id": 7
         },
         {
-          "value": 0.0,
+          "value": 0.001204819418489933,
           "id": 8
         },
         {
@@ -1506,7 +1124,7 @@
           "id": 9
         },
         {
-          "value": 0.11592087149620056,
+          "value": 0.0,
           "id": 10
         },
         {
@@ -1522,7 +1140,7 @@
           "id": 13
         },
         {
-          "value": 0.0,
+          "value": 0.0095964055508375168,
           "id": 14
         },
         {
@@ -1730,7 +1348,7 @@
           "id": 65
         },
         {
-          "value": 0.68320703506469727,
+          "value": 0.50609791278839111,
           "id": 66
         },
         {
@@ -1738,7 +1356,7 @@
           "id": 67
         },
         {
-          "value": 0.86400008201599121,
+          "value": 0.5,
           "id": 68
         },
         {
@@ -1750,20 +1368,20 @@
           "id": 70
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 71
         },
         {
-          "value": 1.0003899335861206,
+          "value": 0.0,
           "id": 72
         },
         {
-          "value": 1.0,
+          "value": 0.0,
           "id": 73
         }
       ],
-      "leftModuleId": 2662220226998736,
-      "rightModuleId": 4523225660314046,
+      "leftModuleId": 3230808130128974,
+      "rightModuleId": 3142644345315319,
       "data": {
         "directOutsModeLocal": 50529027,
         "panLawStereoLocal": 16843009,
@@ -1822,17 +1440,530 @@
       },
       "pos": [
         97,
-        2
+        4
       ]
     },
     {
-      "id": 4017856538271363,
+      "id": 1721219978876439,
+      "plugin": "Stoermelder-P1",
+      "model": "Stroke",
+      "version": "2.0.beta4",
+      "params": [],
+      "leftModuleId": 88294014839146,
+      "rightModuleId": 2346034445203938,
+      "data": {
+        "panelTheme": 0,
+        "keys": [
+          {
+            "button": -1,
+            "key": 32,
+            "mods": 0,
+            "mode": 3,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 67,
+            "mods": 0,
+            "mode": 34,
+            "high": false,
+            "data": "{\n  \"name\": \"Impromptu Clocked\",\n  \"module\": {\n    \"id\": 3882055539393968,\n    \"plugin\": \"ImpromptuModular\",\n    \"model\": \"Clocked\",\n    \"version\": \"2.4.2\",\n    \"params\": [\n      {\n        \"value\": 139.0,\n        \"id\": 0\n      },\n      {\n        \"value\": 2.0,\n        \"id\": 1\n      },\n      {\n        \"value\": 5.0,\n        \"id\": 2\n      },\n      {\n        \"value\": -5.0,\n        \"id\": 3\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 4\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 5\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 6\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 7\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 8\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 9\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 10\n      },\n      {\n        \"value\": 0.5,\n        \"id\": 11\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 12\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 13\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 14\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 15\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 16\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 17\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 18\n      },\n      {\n        \"value\": 0.0,\n        \"id\": 19\n      }\n    ],\n    \"leftModuleId\": 7542823522848140,\n    \"rightModuleId\": 8926983044522387,\n    \"data\": {\n      \"panelTheme\": 3,\n      \"panelContrast\": 222.299789,\n      \"running\": false,\n      \"displayDelayNoteMode\": true,\n      \"bpmDetectionMode\": false,\n      \"resetOnStartStop\": 0,\n      \"ppqn\": 4,\n      \"resetClockOutputsHigh\": true,\n      \"momentaryRunInput\": true,\n      \"forceCvOnBpmOut\": false,\n      \"bpmInputScale\": 1.0,\n      \"bpmInputOffset\": 0.0,\n      \"clockMaster\": false\n    }\n  }\n}"
+          },
+          {
+            "button": -1,
+            "key": 258,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 81,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 96,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 65,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 90,
+            "mods": 0,
+            "mode": 2,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": 88,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": -1,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          },
+          {
+            "button": -1,
+            "key": -1,
+            "mods": 0,
+            "mode": 1,
+            "high": false,
+            "data": ""
+          }
+        ]
+      },
+      "pos": [
+        121,
+        3
+      ]
+    },
+    {
+      "id": 88294014839146,
+      "plugin": "Stoermelder-P1",
+      "model": "CVMapMicro",
+      "version": "2.0.beta4",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 5396395119858291,
+      "rightModuleId": 1721219978876439,
+      "data": {
+        "textScrolling": true,
+        "mappingIndicatorHidden": false,
+        "maps": [
+          {
+            "moduleId": 3230808130128974,
+            "paramId": 40
+          }
+        ],
+        "lockParameterChanges": true,
+        "bipolarInput": false,
+        "panelTheme": 0,
+        "invertedOutput": false,
+        "audioRate": true
+      },
+      "pos": [
+        118,
+        3
+      ]
+    },
+    {
+      "id": 3142644345315319,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Analyzer",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.5,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 1.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        }
+      ],
+      "leftModuleId": 3021789504713178,
+      "rightModuleId": 6356868281143502,
+      "data": {
+        "frequency_plot": "log",
+        "amplitude_plot": "decibels_80"
+      },
+      "pos": [
+        127,
+        4
+      ]
+    },
+    {
+      "id": 6498131033736264,
+      "plugin": "Stoermelder-P1",
+      "model": "Mb",
+      "version": "2.0.beta4",
+      "params": [],
+      "leftModuleId": 6709153710175829,
+      "rightModuleId": 6333958637915683,
+      "data": {
+        "mode": 1
+      },
+      "pos": [
+        145,
+        3
+      ]
+    },
+    {
+      "id": 2346034445203938,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 1721219978876439,
+      "rightModuleId": 8174320125390346,
+      "data": {
+        "label": "kybd"
+      },
+      "pos": [
+        127,
+        3
+      ]
+    },
+    {
+      "id": 7851221923605803,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 8174320125390346,
+      "rightModuleId": 6709153710175829,
+      "data": {
+        "label": "midi"
+      },
+      "pos": [
+        138,
+        3
+      ]
+    },
+    {
+      "id": 6900619001419054,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 5996265222718657,
+      "rightModuleId": 4334128016216748,
+      "data": {
+        "label": ""
+      },
+      "pos": [
+        82,
+        3
+      ]
+    },
+    {
+      "id": 7654546510340935,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6842331744580454,
+      "rightModuleId": 2891809999515070,
+      "data": {
+        "label": "ch3"
+      },
+      "pos": [
+        73,
+        3
+      ]
+    },
+    {
+      "id": 6709153710175829,
+      "plugin": "CountModula",
+      "model": "Palette",
+      "version": "2.5.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 7851221923605803,
+      "rightModuleId": 6498131033736264,
+      "data": {
+        "moduleVersion": 1,
+        "color": 3,
+        "theme": 0
+      },
+      "pos": [
+        141,
+        3
+      ]
+    },
+    {
+      "id": 8222007883870326,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 693218507241980,
+      "rightModuleId": 3230808130128974,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Soulflyer - Start Here ",
+            "color": "#29b2ef",
+            "position": 4.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        56,
+        4
+      ]
+    },
+    {
+      "id": 4207442403763752,
+      "plugin": "SubmarineFree",
+      "model": "TD-316",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 5295011826161238,
+      "rightModuleId": 543852155822500,
+      "data": {
+        "width": 165.0,
+        "text": "Hit space to fade in the master out and send a signal via the teleport module that can be used to start the clock.\n\nIt may be necessary to map space to the fade button on the master level in the *uMap* module, I'm not sure what circumstances it forgets this, possibly only in the import as a selection.",
+        "size": 12.0,
+        "fg": "#29b2ef",
+        "bg": "#000000"
+      },
+      "pos": [
+        56,
+        3
+      ]
+    },
+    {
+      "id": 543852155822500,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 4207442403763752,
+      "rightModuleId": 6842331744580454,
+      "data": {
+        "label": "ch1"
+      },
+      "pos": [
+        67,
+        3
+      ]
+    },
+    {
+      "id": 6842331744580454,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 543852155822500,
+      "rightModuleId": 7654546510340935,
+      "data": {
+        "label": "ch2"
+      },
+      "pos": [
+        70,
+        3
+      ]
+    },
+    {
+      "id": 2891809999515070,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 7654546510340935,
+      "rightModuleId": 5996265222718657,
+      "data": {
+        "label": ""
+      },
+      "pos": [
+        76,
+        3
+      ]
+    },
+    {
+      "id": 5996265222718657,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 2891809999515070,
+      "rightModuleId": 6900619001419054,
+      "data": {
+        "label": ""
+      },
+      "pos": [
+        79,
+        3
+      ]
+    },
+    {
+      "id": 4334128016216748,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6900619001419054,
+      "rightModuleId": 1524608271517461,
+      "data": {
+        "label": ""
+      },
+      "pos": [
+        85,
+        3
+      ]
+    },
+    {
+      "id": 5295011826161238,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 4207442403763752,
+      "pos": [
+        55,
+        3
+      ]
+    },
+    {
+      "id": 693218507241980,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 8222007883870326,
+      "pos": [
+        55,
+        4
+      ]
+    },
+    {
+      "id": 6356868281143502,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 3142644345315319,
+      "pos": [
+        147,
+        4
+      ]
+    },
+    {
+      "id": 6333958637915683,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6498131033736264,
+      "pos": [
+        147,
+        3
+      ]
+    },
+    {
+      "id": 3008793627163409,
+      "plugin": "ML_modules",
+      "model": "FreeVerb",
+      "version": "2.0.2",
+      "params": [
+        {
+          "value": 0.89025139808654785,
+          "id": 0
+        },
+        {
+          "value": 0.56785213947296143,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 7156570592125403,
+      "rightModuleId": 5396395119858291,
+      "pos": [
+        102,
+        3
+      ]
+    },
+    {
+      "id": 7156570592125403,
+      "plugin": "Core",
+      "model": "AudioInterface2",
+      "version": "2.5.2",
+      "params": [
+        {
+          "value": 0.97386348247528076,
+          "id": 0
+        }
+      ],
+      "leftModuleId": 1524608271517461,
+      "rightModuleId": 3008793627163409,
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "External Headphones",
+          "sampleRate": 44100.0,
+          "blockSize": 256,
+          "inputOffset": 0,
+          "outputOffset": 0
+        },
+        "dcFilter": true
+      },
+      "pos": [
+        97,
+        3
+      ]
+    },
+    {
+      "id": 8174320125390346,
       "plugin": "Core",
       "model": "MIDIToCVInterface",
       "version": "2.5.2",
       "params": [],
-      "leftModuleId": 2388205806678701,
-      "rightModuleId": 8792491870916054,
+      "leftModuleId": 2346034445203938,
+      "rightModuleId": 7851221923605803,
       "data": {
         "pwRange": 2.0,
         "smooth": true,
@@ -1843,232 +1974,373 @@
         "lastMod": 0,
         "midi": {
           "driver": 1,
-          "deviceName": "nanoKEY KEYBOARD",
           "channel": -1
         }
       },
       "pos": [
-        120,
-        1
+        130,
+        3
       ]
     },
     {
-      "id": 8792491870916054,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 4017856538271363,
-      "rightModuleId": 8728725003946855,
+      "id": 1524608271517461,
+      "plugin": "cf",
+      "model": "PLAYER",
+      "version": "2.0.2",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        }
+      ],
+      "leftModuleId": 4334128016216748,
+      "rightModuleId": 7156570592125403,
       "data": {
-        "label": "midi"
+        "lastPath": "/Users/iain/Music/Sounds/Samples/Spirit.wav",
+        "oscstate": 0
       },
       "pos": [
-        128,
-        1
+        88,
+        3
       ]
     }
   ],
   "cables": [
     {
-      "id": 6472696752822619,
-      "outputModuleId": 2662220226998736,
+      "id": 7899980153953455,
+      "outputModuleId": 3230808130128974,
       "outputId": 2,
-      "inputModuleId": 4030200291498897,
+      "inputModuleId": 7156570592125403,
       "inputId": 0,
       "color": "#3695ef"
     },
     {
-      "id": 1064503869769717,
-      "outputModuleId": 2662220226998736,
+      "id": 3068848604455260,
+      "outputModuleId": 3230808130128974,
       "outputId": 3,
-      "inputModuleId": 4030200291498897,
+      "inputModuleId": 7156570592125403,
       "inputId": 1,
       "color": "#00b56e"
     },
     {
-      "id": 3101283455318331,
-      "outputModuleId": 4268092254606950,
-      "outputId": 1,
-      "inputModuleId": 8010561393366904,
-      "inputId": 2,
-      "color": "#677336"
-    },
-    {
-      "id": 2129351987228055,
-      "outputModuleId": 705323465969298,
+      "id": 3945736681196939,
+      "outputModuleId": 3021789504713178,
       "outputId": 0,
-      "inputModuleId": 1407496081584580,
+      "inputModuleId": 3008793627163409,
       "inputId": 0,
       "color": "#ffb437"
     },
     {
-      "id": 7688975776268222,
-      "outputModuleId": 705323465969298,
-      "outputId": 1,
-      "inputModuleId": 1407496081584580,
-      "inputId": 1,
-      "color": "#ffb437"
-    },
-    {
-      "id": 1415290488842502,
-      "outputModuleId": 2999780140941551,
+      "id": 2560832373193864,
+      "outputModuleId": 543852155822500,
       "outputId": 0,
-      "inputModuleId": 2388205806678701,
-      "inputId": 0,
-      "color": "#677336"
-    },
-    {
-      "id": 2858192917748232,
-      "outputModuleId": 2999780140941551,
-      "outputId": 1,
-      "inputModuleId": 2388205806678701,
-      "inputId": 1,
-      "color": "#677336"
-    },
-    {
-      "id": 3496101516130540,
-      "outputModuleId": 2999780140941551,
-      "outputId": 2,
-      "inputModuleId": 2388205806678701,
-      "inputId": 2,
-      "color": "#677336"
-    },
-    {
-      "id": 3400767699979970,
-      "outputModuleId": 2999780140941551,
-      "outputId": 3,
-      "inputModuleId": 2388205806678701,
-      "inputId": 3,
-      "color": "#677336"
-    },
-    {
-      "id": 829625847881797,
-      "outputModuleId": 2999780140941551,
-      "outputId": 4,
-      "inputModuleId": 2388205806678701,
-      "inputId": 4,
-      "color": "#677336"
-    },
-    {
-      "id": 2660462397822921,
-      "outputModuleId": 2999780140941551,
-      "outputId": 5,
-      "inputModuleId": 2388205806678701,
-      "inputId": 5,
-      "color": "#677336"
-    },
-    {
-      "id": 3255953560314536,
-      "outputModuleId": 2999780140941551,
-      "outputId": 6,
-      "inputModuleId": 2388205806678701,
-      "inputId": 6,
-      "color": "#677336"
-    },
-    {
-      "id": 7032023896420215,
-      "outputModuleId": 2999780140941551,
-      "outputId": 7,
-      "inputModuleId": 2388205806678701,
-      "inputId": 7,
-      "color": "#677336"
-    },
-    {
-      "id": 3323065670233300,
-      "outputModuleId": 2999780140941551,
-      "outputId": 0,
-      "inputModuleId": 4268092254606950,
-      "inputId": 0,
-      "color": "#677336"
-    },
-    {
-      "id": 4850405201942054,
-      "outputModuleId": 1407496081584580,
-      "outputId": 0,
-      "inputModuleId": 705323465969298,
-      "inputId": 0,
-      "color": "#ffb437"
-    },
-    {
-      "id": 3449614750357332,
-      "outputModuleId": 8073970574396973,
-      "outputId": 0,
-      "inputModuleId": 2662220226998736,
+      "inputModuleId": 3230808130128974,
       "inputId": 0,
       "color": "#f3374b"
     },
     {
-      "id": 5420543684167556,
-      "outputModuleId": 8073970574396973,
+      "id": 6064508094933950,
+      "outputModuleId": 543852155822500,
       "outputId": 1,
-      "inputModuleId": 2662220226998736,
+      "inputModuleId": 3230808130128974,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 7444092413437540,
-      "outputModuleId": 4117126084367892,
+      "id": 4013507499626374,
+      "outputModuleId": 7654546510340935,
       "outputId": 0,
-      "inputModuleId": 2662220226998736,
-      "inputId": 2,
-      "color": "#dd6c00"
+      "inputModuleId": 3230808130128974,
+      "inputId": 4,
+      "color": "#c9b70e"
     },
     {
-      "id": 88723255772010,
-      "outputModuleId": 4117126084367892,
+      "id": 7596493123413368,
+      "outputModuleId": 7654546510340935,
       "outputId": 1,
-      "inputModuleId": 2662220226998736,
-      "inputId": 3,
-      "color": "#dd6c00"
+      "inputModuleId": 3230808130128974,
+      "inputId": 5,
+      "color": "#c9b70e"
     },
     {
-      "id": 3240996171761376,
-      "outputModuleId": 4017856538271363,
+      "id": 5741110121173871,
+      "outputModuleId": 3008793627163409,
+      "outputId": 0,
+      "inputModuleId": 3021789504713178,
+      "inputId": 0,
+      "color": "#ffb437"
+    },
+    {
+      "id": 1444976045746297,
+      "outputModuleId": 3008793627163409,
       "outputId": 1,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 3021789504713178,
       "inputId": 1,
-      "color": "#dd6c00"
+      "color": "#ffb437"
     },
     {
-      "id": 816056669090946,
-      "outputModuleId": 4017856538271363,
+      "id": 1444411290909083,
+      "outputModuleId": 1721219978876439,
       "outputId": 0,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 2346034445203938,
+      "inputId": 0,
+      "color": "#677336"
+    },
+    {
+      "id": 4324734147986839,
+      "outputModuleId": 1721219978876439,
+      "outputId": 1,
+      "inputModuleId": 2346034445203938,
+      "inputId": 1,
+      "color": "#677336"
+    },
+    {
+      "id": 1988651099209829,
+      "outputModuleId": 1721219978876439,
+      "outputId": 2,
+      "inputModuleId": 2346034445203938,
+      "inputId": 2,
+      "color": "#677336"
+    },
+    {
+      "id": 6767819569901687,
+      "outputModuleId": 1721219978876439,
+      "outputId": 3,
+      "inputModuleId": 2346034445203938,
+      "inputId": 3,
+      "color": "#677336"
+    },
+    {
+      "id": 39196278700665,
+      "outputModuleId": 1721219978876439,
+      "outputId": 4,
+      "inputModuleId": 2346034445203938,
+      "inputId": 4,
+      "color": "#677336"
+    },
+    {
+      "id": 1957179084224143,
+      "outputModuleId": 1721219978876439,
+      "outputId": 5,
+      "inputModuleId": 2346034445203938,
+      "inputId": 5,
+      "color": "#677336"
+    },
+    {
+      "id": 5893700941652882,
+      "outputModuleId": 1721219978876439,
+      "outputId": 6,
+      "inputModuleId": 2346034445203938,
+      "inputId": 6,
+      "color": "#677336"
+    },
+    {
+      "id": 5028074131230872,
+      "outputModuleId": 1721219978876439,
+      "outputId": 7,
+      "inputModuleId": 2346034445203938,
+      "inputId": 7,
+      "color": "#677336"
+    },
+    {
+      "id": 1332219733012208,
+      "outputModuleId": 8174320125390346,
+      "outputId": 0,
+      "inputModuleId": 7851221923605803,
       "inputId": 0,
       "color": "#c91847"
     },
     {
-      "id": 6837036740081903,
-      "outputModuleId": 4017856538271363,
+      "id": 7309075332364195,
+      "outputModuleId": 8174320125390346,
+      "outputId": 1,
+      "inputModuleId": 7851221923605803,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 8335101141034286,
+      "outputModuleId": 8174320125390346,
       "outputId": 2,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 7851221923605803,
       "inputId": 2,
       "color": "#c9b70e"
     },
     {
-      "id": 7797929082153634,
-      "outputModuleId": 4017856538271363,
+      "id": 8614884530437840,
+      "outputModuleId": 8174320125390346,
       "outputId": 3,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 7851221923605803,
       "inputId": 3,
       "color": "#0c8e15"
     },
     {
-      "id": 8303446091652402,
-      "outputModuleId": 4017856538271363,
+      "id": 8206494624828440,
+      "outputModuleId": 8174320125390346,
       "outputId": 4,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 7851221923605803,
       "inputId": 4,
       "color": "#0986ad"
     },
     {
-      "id": 3763988567350012,
-      "outputModuleId": 4017856538271363,
+      "id": 3991961920929482,
+      "outputModuleId": 8174320125390346,
       "outputId": 5,
-      "inputModuleId": 8792491870916054,
+      "inputModuleId": 7851221923605803,
       "inputId": 5,
       "color": "#8a2be2"
+    },
+    {
+      "id": 8429881866083753,
+      "outputModuleId": 1721219978876439,
+      "outputId": 6,
+      "inputModuleId": 1524608271517461,
+      "inputId": 0,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 230832535275369,
+      "outputModuleId": 6842331744580454,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 2,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 5403859073450182,
+      "outputModuleId": 6842331744580454,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 3,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 4922749094897547,
+      "outputModuleId": 1524608271517461,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 14,
+      "color": "#c91847"
+    },
+    {
+      "id": 4879228124430802,
+      "outputModuleId": 1524608271517461,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 15,
+      "color": "#c91847"
+    },
+    {
+      "id": 2281218787488686,
+      "outputModuleId": 1721219978876439,
+      "outputId": 0,
+      "inputModuleId": 88294014839146,
+      "inputId": 2,
+      "color": "#677336"
+    },
+    {
+      "id": 6826408171051915,
+      "outputModuleId": 2891809999515070,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 6,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1538295130248950,
+      "outputModuleId": 2891809999515070,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 7,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2579095175453518,
+      "outputModuleId": 5996265222718657,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 52751356634737,
+      "outputModuleId": 5996265222718657,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1035361256259268,
+      "outputModuleId": 6900619001419054,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 10,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 292497309469151,
+      "outputModuleId": 6900619001419054,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 11,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 1033516372265497,
+      "outputModuleId": 4334128016216748,
+      "outputId": 0,
+      "inputModuleId": 3230808130128974,
+      "inputId": 12,
+      "color": "#a83289"
+    },
+    {
+      "id": 1651485048349338,
+      "outputModuleId": 4334128016216748,
+      "outputId": 1,
+      "inputModuleId": 3230808130128974,
+      "inputId": 13,
+      "color": "#a83289"
+    },
+    {
+      "id": 6345694126398400,
+      "outputModuleId": 3230808130128974,
+      "outputId": 3,
+      "inputModuleId": 3142644345315319,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 5627254181626129,
+      "outputModuleId": 3230808130128974,
+      "outputId": 2,
+      "inputModuleId": 3142644345315319,
+      "inputId": 3,
+      "color": "#0986ad"
     }
   ]
 }
