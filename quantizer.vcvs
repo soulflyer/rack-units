@@ -1,0 +1,301 @@
+{
+  "modules": [
+    {
+      "id": 7476546393214166,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "rightModuleId": 2671894453191416,
+      "data": {
+        "label": "scl"
+      },
+      "pos": [
+        183,
+        3
+      ]
+    },
+    {
+      "id": 2671894453191416,
+      "plugin": "GrandeModular",
+      "model": "Quant",
+      "version": "2.8.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 1.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 1.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 1.0,
+          "id": 11
+        },
+        {
+          "value": 1.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        }
+      ],
+      "leftModuleId": 7476546393214166,
+      "pos": [
+        186,
+        3
+      ]
+    },
+    {
+      "id": 6356868281143502,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 3257489662419127,
+      "pos": [
+        179,
+        3
+      ]
+    },
+    {
+      "id": 6333958637915683,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 6709153710175829,
+      "rightModuleId": 7960193975403143,
+      "pos": [
+        148,
+        3
+      ]
+    },
+    {
+      "id": 8109142618549145,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 6773503806990998,
+      "rightModuleId": 3257489662419127,
+      "data": {
+        "label": "scl"
+      },
+      "pos": [
+        171,
+        3
+      ]
+    },
+    {
+      "id": 3257489662419127,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8109142618549145,
+      "rightModuleId": 6356868281143502,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Root",
+            "color": "#29b2ef",
+            "position": 307.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "Scale",
+            "color": "#29b2ef",
+            "position": 50.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        174,
+        3
+      ]
+    },
+    {
+      "id": 7960193975403143,
+      "plugin": "ImpromptuModular",
+      "model": "Twelve-Key",
+      "version": "2.4.3",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        }
+      ],
+      "leftModuleId": 6333958637915683,
+      "rightModuleId": 6773503806990998,
+      "data": {
+        "panelTheme": 2,
+        "panelContrast": 220.0,
+        "octave": 4,
+        "cv": 0.0,
+        "vel": 0.68147313594818115,
+        "maxVel": 10.0,
+        "stateInternal": true,
+        "invertVel": false,
+        "linkVelSettings": false,
+        "tracer": 0,
+        "keyView": 0,
+        "pkinfokey": 0
+      },
+      "pos": [
+        149,
+        3
+      ]
+    },
+    {
+      "id": 6773503806990998,
+      "plugin": "GrandeModular",
+      "model": "Scale",
+      "version": "2.8.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 1.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 1.0,
+          "id": 9
+        },
+        {
+          "value": 1.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        }
+      ],
+      "leftModuleId": 7960193975403143,
+      "rightModuleId": 8109142618549145,
+      "pos": [
+        169,
+        3
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 7202923666754607,
+      "outputModuleId": 7960193975403143,
+      "outputId": 1,
+      "inputModuleId": 8109142618549145,
+      "inputId": 7,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 8730923175949405,
+      "outputModuleId": 6773503806990998,
+      "outputId": 0,
+      "inputModuleId": 8109142618549145,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 4644054409728619,
+      "outputModuleId": 7476546393214166,
+      "outputId": 0,
+      "inputModuleId": 2671894453191416,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 3203191115517312,
+      "outputModuleId": 7476546393214166,
+      "outputId": 7,
+      "inputModuleId": 2671894453191416,
+      "inputId": 0,
+      "color": "#dd6c00"
+    }
+  ]
+}
