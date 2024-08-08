@@ -1,0 +1,811 @@
+{
+  "modules": [
+    {
+      "id": 5195137243234522,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": -2.7128574848175049,
+          "id": 0
+        },
+        {
+          "value": 0.42296403646469116,
+          "id": 1
+        },
+        {
+          "value": 0.85342848300933838,
+          "id": 2
+        },
+        {
+          "value": 0.94500035047531128,
+          "id": 3
+        },
+        {
+          "value": 1.0,
+          "id": 4
+        },
+        {
+          "value": 0.73199987411499023,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.95999950170516968,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.6440010666847229,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.02199999988079071,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 1.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 3487288295755564,
+      "rightModuleId": 8986203672369414,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        72,
+        4
+      ]
+    },
+    {
+      "id": 8986203672369414,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTDelay",
+      "version": "2.2.3.0",
+      "params": [
+        {
+          "value": -0.6919093132019043,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.092428535223007202,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": -60.0,
+          "id": 5
+        },
+        {
+          "value": 70.0,
+          "id": 6
+        },
+        {
+          "value": 2.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.29028570652008057,
+          "id": 9
+        },
+        {
+          "value": 0.35999998450279236,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 1.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.0,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": 0.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.84999996423721313,
+          "id": 48
+        },
+        {
+          "value": 0.0,
+          "id": 49
+        },
+        {
+          "value": 3.0,
+          "id": 50
+        }
+      ],
+      "leftModuleId": 5195137243234522,
+      "rightModuleId": 4353987286500260,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "clockStyle": 0
+        }
+      },
+      "pos": [
+        84,
+        4
+      ]
+    },
+    {
+      "id": 4231500704015222,
+      "plugin": "LittleUtils",
+      "model": "TeleportIn",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 7627260266336511,
+      "rightModuleId": 8866340556001901,
+      "data": {
+        "label": "wind"
+      },
+      "pos": [
+        118,
+        4
+      ]
+    },
+    {
+      "id": 3487288295755564,
+      "plugin": "squinkylabs-plug1",
+      "model": "squinkylabs-coloredNoise",
+      "version": "2.1.9",
+      "params": [
+        {
+          "value": -0.97233641147613525,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 4349591746884575,
+      "rightModuleId": 5195137243234522,
+      "pos": [
+        66,
+        4
+      ]
+    },
+    {
+      "id": 3066514429255147,
+      "plugin": "SubmarineFree",
+      "model": "TD-510",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 4486983270231220,
+      "rightModuleId": 3824214238095116,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "Wind ",
+            "color": "#29b2ef",
+            "position": 4.0,
+            "alignment": 1.0,
+            "fontSize": 26.0,
+            "flip": 1.0
+          }
+        ]
+      },
+      "pos": [
+        56,
+        4
+      ]
+    },
+    {
+      "id": 8866340556001901,
+      "plugin": "SubmarineFree",
+      "model": "TD-410",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 4231500704015222,
+      "rightModuleId": 5168639203175186,
+      "data": {
+        "width": 75.0,
+        "items": [
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 270.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 306.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "left",
+            "color": "#29b2ef",
+            "position": 49.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "right",
+            "color": "#29b2ef",
+            "position": 86.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          },
+          {
+            "text": "",
+            "color": "#29b2ef",
+            "position": 123.0,
+            "alignment": 1.0,
+            "fontSize": 20.0
+          }
+        ]
+      },
+      "pos": [
+        121,
+        4
+      ]
+    },
+    {
+      "id": 3824214238095116,
+      "plugin": "LittleUtils",
+      "model": "TeleportOut",
+      "version": "2.1.0",
+      "params": [],
+      "leftModuleId": 3066514429255147,
+      "rightModuleId": 4349591746884575,
+      "data": {
+        "label": "lpd8"
+      },
+      "pos": [
+        61,
+        4
+      ]
+    },
+    {
+      "id": 220411123601486,
+      "plugin": "Fundamental",
+      "model": "VCA-1",
+      "version": "2.6.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 4353987286500260,
+      "rightModuleId": 5794371873822658,
+      "pos": [
+        99,
+        4
+      ]
+    },
+    {
+      "id": 4486983270231220,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 3066514429255147,
+      "pos": [
+        55,
+        4
+      ]
+    },
+    {
+      "id": 7627260266336511,
+      "plugin": "Fundamental",
+      "model": "Scope",
+      "version": "2.6.0",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 3.3354554176330566,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": -1.8523286581039429,
+          "id": 3
+        },
+        {
+          "value": -2.8069145679473877,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 1.0,
+          "id": 7
+        }
+      ],
+      "leftModuleId": 5794371873822658,
+      "rightModuleId": 4231500704015222,
+      "pos": [
+        105,
+        4
+      ]
+    },
+    {
+      "id": 5168639203175186,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 8866340556001901,
+      "pos": [
+        126,
+        4
+      ]
+    },
+    {
+      "id": 4349591746884575,
+      "plugin": "dbRackSequencer",
+      "model": "S16",
+      "version": "2.4.0",
+      "params": [],
+      "leftModuleId": 3824214238095116,
+      "rightModuleId": 3487288295755564,
+      "pos": [
+        64,
+        4
+      ]
+    },
+    {
+      "id": 4353987286500260,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Walk",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.37795275449752808,
+          "id": 0
+        },
+        {
+          "value": -0.043099366128444672,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 8986203672369414,
+      "rightModuleId": 220411123601486,
+      "data": {
+        "poly_input": 0,
+        "jump_mode": "jump"
+      },
+      "pos": [
+        96,
+        4
+      ]
+    },
+    {
+      "id": 5794371873822658,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Pan",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.82409650087356567,
+          "id": 0
+        },
+        {
+          "value": -0.0010268837213516235,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 220411123601486,
+      "rightModuleId": 7627260266336511,
+      "data": {},
+      "pos": [
+        102,
+        4
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 8897560349174382,
+      "outputModuleId": 3824214238095116,
+      "outputId": 0,
+      "inputModuleId": 4349591746884575,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 1672234437159325,
+      "outputModuleId": 5794371873822658,
+      "outputId": 0,
+      "inputModuleId": 4231500704015222,
+      "inputId": 0,
+      "color": "#3695ef"
+    },
+    {
+      "id": 1562244252840348,
+      "outputModuleId": 5794371873822658,
+      "outputId": 1,
+      "inputModuleId": 4231500704015222,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 1922709761013739,
+      "outputModuleId": 5794371873822658,
+      "outputId": 0,
+      "inputModuleId": 7627260266336511,
+      "inputId": 0,
+      "color": "#3695ef"
+    },
+    {
+      "id": 5297868364259081,
+      "outputModuleId": 5794371873822658,
+      "outputId": 1,
+      "inputModuleId": 7627260266336511,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 5448933016331254,
+      "outputModuleId": 4353987286500260,
+      "outputId": 0,
+      "inputModuleId": 5794371873822658,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 8158834891146494,
+      "outputModuleId": 4349591746884575,
+      "outputId": 3,
+      "inputModuleId": 4353987286500260,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 7936554935420737,
+      "outputModuleId": 3487288295755564,
+      "outputId": 0,
+      "inputModuleId": 5195137243234522,
+      "inputId": 0,
+      "color": "#00b56e"
+    },
+    {
+      "id": 3274182602102135,
+      "outputModuleId": 4349591746884575,
+      "outputId": 5,
+      "inputModuleId": 5195137243234522,
+      "inputId": 2,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 8764879642029124,
+      "outputModuleId": 4349591746884575,
+      "outputId": 6,
+      "inputModuleId": 5195137243234522,
+      "inputId": 3,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 4393110011312770,
+      "outputModuleId": 4349591746884575,
+      "outputId": 7,
+      "inputModuleId": 5195137243234522,
+      "inputId": 4,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 1575728213637117,
+      "outputModuleId": 5195137243234522,
+      "outputId": 0,
+      "inputModuleId": 8986203672369414,
+      "inputId": 0,
+      "color": "#00b56e"
+    },
+    {
+      "id": 5786650603026796,
+      "outputModuleId": 4349591746884575,
+      "outputId": 0,
+      "inputModuleId": 8986203672369414,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 7071905982871353,
+      "outputModuleId": 4349591746884575,
+      "outputId": 1,
+      "inputModuleId": 8986203672369414,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 2912763538171295,
+      "outputModuleId": 4349591746884575,
+      "outputId": 2,
+      "inputModuleId": 8986203672369414,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3442158494338099,
+      "outputModuleId": 4349591746884575,
+      "outputId": 4,
+      "inputModuleId": 220411123601486,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 5382214399894405,
+      "outputModuleId": 8986203672369414,
+      "outputId": 0,
+      "inputModuleId": 220411123601486,
+      "inputId": 1,
+      "color": "#00b56e"
+    },
+    {
+      "id": 7350529034269573,
+      "outputModuleId": 220411123601486,
+      "outputId": 0,
+      "inputModuleId": 5794371873822658,
+      "inputId": 1,
+      "color": "#0c8e15"
+    }
+  ]
+}

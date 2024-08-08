@@ -1,0 +1,126 @@
+{
+  "modules": [
+    {
+      "id": 7773245980564388,
+      "plugin": "dbRackSequencer",
+      "model": "S16",
+      "version": "2.4.0",
+      "params": [],
+      "rightModuleId": 8892888480146573,
+      "pos": [
+        120,
+        0
+      ]
+    },
+    {
+      "id": 8892888480146573,
+      "plugin": "Chinenual-VCV",
+      "model": "NoteMeter",
+      "version": "2.7.0",
+      "params": [],
+      "leftModuleId": 7773245980564388,
+      "pos": [
+        122,
+        0
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 3891117333167466,
+      "outputModuleId": 7773245980564388,
+      "outputId": 0,
+      "inputModuleId": 8892888480146573,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 2956542639354113,
+      "outputModuleId": 7773245980564388,
+      "outputId": 1,
+      "inputModuleId": 8892888480146573,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 7283854259645091,
+      "outputModuleId": 7773245980564388,
+      "outputId": 2,
+      "inputModuleId": 8892888480146573,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 7299201253413156,
+      "outputModuleId": 7773245980564388,
+      "outputId": 3,
+      "inputModuleId": 8892888480146573,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2985160976586414,
+      "outputModuleId": 7773245980564388,
+      "outputId": 4,
+      "inputModuleId": 8892888480146573,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 6418391527143518,
+      "outputModuleId": 7773245980564388,
+      "outputId": 5,
+      "inputModuleId": 8892888480146573,
+      "inputId": 5,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 8169783821556069,
+      "outputModuleId": 7773245980564388,
+      "outputId": 6,
+      "inputModuleId": 8892888480146573,
+      "inputId": 6,
+      "color": "#a83289"
+    },
+    {
+      "id": 6546949550479672,
+      "outputModuleId": 7773245980564388,
+      "outputId": 7,
+      "inputModuleId": 8892888480146573,
+      "inputId": 7,
+      "color": "#f3374b"
+    },
+    {
+      "id": 2563401781611424,
+      "outputModuleId": 7773245980564388,
+      "outputId": 8,
+      "inputModuleId": 8892888480146573,
+      "inputId": 8,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 4388371432756404,
+      "outputModuleId": 7773245980564388,
+      "outputId": 9,
+      "inputModuleId": 8892888480146573,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 8865066970175684,
+      "outputModuleId": 7773245980564388,
+      "outputId": 10,
+      "inputModuleId": 8892888480146573,
+      "inputId": 10,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3705689990826120,
+      "outputModuleId": 7773245980564388,
+      "outputId": 11,
+      "inputModuleId": 8892888480146573,
+      "inputId": 11,
+      "color": "#0986ad"
+    }
+  ]
+}
