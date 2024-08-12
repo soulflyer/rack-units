@@ -2,6 +2,9 @@
 :PROPERTIES:
 :ATTACH_DIR: /Users/iain/Code/vcvrack/selections/readme-images
 :END:
+
+NOTE: This doesn't work exactly. Things like clock and key signature are beter treated as the equivalent of global variables. Passing them in and out of every unit adds confusion rather than aleviates it. There is still much benefit in tidying up and making liberal use of teleport signals, but exactly how to maximise this is still in flux and the bulk of this readme does not match the actual units at the moment...
+
 Applying some coding principles to Rack patches.
 
 By making use of the *little utils* *teleport* modules, and *Submarine* panel modules it is possible to create the analogue of a pure function containing a complete synthesizer unit. This makes it really easy to assemble a complete performance from prebuilt units, and also easy to see clearly the separate parts of a performance patch. This can be made even easier by including a *MindMeld* *PatchMaster* module in each unit to control the performance parameters of the unit. For example a unit for making wind and wave noises:
