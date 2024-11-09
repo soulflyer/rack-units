@@ -1,10 +1,147 @@
 {
   "modules": [
     {
-      "id": 5054862820548416,
+      "id": 4658408660844572,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.4.0",
+      "params": [
+        {
+          "value": 1.3885713815689087,
+          "id": 0
+        },
+        {
+          "value": 0.19414305686950684,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 1.1877139806747437,
+          "id": 4
+        },
+        {
+          "value": 0.26188862323760986,
+          "id": 5
+        },
+        {
+          "value": 0.20399995148181915,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 2.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 2625739054748651,
+      "rightModuleId": 2640819087564404,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10002,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        103,
+        3
+      ]
+    },
+    {
+      "id": 2640819087564404,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTEGxVCA",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
           "value": 1.1542859077453613,
@@ -19,19 +156,19 @@
           "id": 2
         },
         {
-          "value": 0.0079999957233667374,
+          "value": 0.0,
           "id": 3
         },
         {
-          "value": 0.39200001955032349,
+          "value": 0.33399993181228638,
           "id": 4
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 5
         },
         {
-          "value": 0.32400009036064148,
+          "value": 0.35199999809265137,
           "id": 6
         },
         {
@@ -183,12 +320,12 @@
           "id": 43
         }
       ],
-      "leftModuleId": 7756052237050904,
-      "rightModuleId": 8428618403646941,
+      "leftModuleId": 4658408660844572,
+      "rightModuleId": 8157113731304146,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -201,15 +338,15 @@
         }
       },
       "pos": [
-        125,
-        5
+        115,
+        3
       ]
     },
     {
-      "id": 5806393865837371,
+      "id": 6355087922377074,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTQuadAD",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
           "value": -8.0,
@@ -468,12 +605,12 @@
           "id": 63
         }
       ],
-      "leftModuleId": 6845322013241348,
-      "rightModuleId": 3465819810314624,
+      "leftModuleId": 5312553975585382,
+      "rightModuleId": 2073959774272109,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -486,18 +623,18 @@
         }
       },
       "pos": [
-        77,
-        5
+        67,
+        3
       ]
     },
     {
-      "id": 4806805051055722,
+      "id": 2625739054748651,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTOSCModern",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
-          "value": 0.03857143223285675,
+          "value": 0.0,
           "id": 0
         },
         {
@@ -701,12 +838,12 @@
           "id": 50
         }
       ],
-      "leftModuleId": 3465819810314624,
-      "rightModuleId": 7756052237050904,
+      "leftModuleId": 2073959774272109,
+      "rightModuleId": 4658408660844572,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -759,15 +896,15 @@
         }
       },
       "pos": [
-        101,
-        5
+        91,
+        3
       ]
     },
     {
-      "id": 8035134076811734,
+      "id": 7188772811063560,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTFXReverb",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
           "value": 0.0,
@@ -1018,12 +1155,12 @@
           "id": 61
         }
       ],
-      "leftModuleId": 8428618403646941,
-      "rightModuleId": 8108188097944697,
+      "leftModuleId": 8157113731304146,
+      "rightModuleId": 4550162581529619,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -1101,15 +1238,15 @@
         }
       },
       "pos": [
-        149,
-        5
+        139,
+        3
       ]
     },
     {
-      "id": 3465819810314624,
+      "id": 2073959774272109,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTQuadLFO",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
           "value": 0.38157135248184204,
@@ -1308,12 +1445,12 @@
           "id": 48
         }
       ],
-      "leftModuleId": 5806393865837371,
-      "rightModuleId": 4806805051055722,
+      "leftModuleId": 6355087922377074,
+      "rightModuleId": 2625739054748651,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -1327,15 +1464,15 @@
         }
       },
       "pos": [
-        89,
-        5
+        79,
+        3
       ]
     },
     {
-      "id": 8428618403646941,
+      "id": 8157113731304146,
       "plugin": "SurgeXTRack",
       "model": "SurgeXTDelay",
-      "version": "2.2.3.0",
+      "version": "2.2.4.0",
       "params": [
         {
           "value": -2.1397969722747803,
@@ -1542,12 +1679,12 @@
           "id": 50
         }
       ],
-      "leftModuleId": 5054862820548416,
-      "rightModuleId": 8035134076811734,
+      "leftModuleId": 2640819087564404,
+      "rightModuleId": 7188772811063560,
       "data": {
         "xtshared": {
           "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Aug 10 2024 18:56:21",
           "isCoupledToGlobalStyle": true,
           "localStyle": 10002,
           "localDisplayRegionColor": 900001,
@@ -1560,231 +1697,141 @@
         }
       },
       "pos": [
-        137,
-        5
+        127,
+        3
       ]
     },
     {
-      "id": 7756052237050904,
-      "plugin": "SurgeXTRack",
-      "model": "SurgeXTVCF",
-      "version": "2.2.3.0",
-      "params": [
-        {
-          "value": 1.3300076723098755,
-          "id": 0
-        },
-        {
-          "value": 0.19414305686950684,
-          "id": 1
-        },
-        {
-          "value": 1.0,
-          "id": 2
-        },
-        {
-          "value": 1.0,
-          "id": 3
-        },
-        {
-          "value": 1.1877139806747437,
-          "id": 4
-        },
-        {
-          "value": 0.26188862323760986,
-          "id": 5
-        },
-        {
-          "value": 0.20399995148181915,
-          "id": 6
-        },
-        {
-          "value": 0.0,
-          "id": 7
-        },
-        {
-          "value": 0.0,
-          "id": 8
-        },
-        {
-          "value": 0.0,
-          "id": 9
-        },
-        {
-          "value": 0.0,
-          "id": 10
-        },
-        {
-          "value": 0.0,
-          "id": 11
-        },
-        {
-          "value": 0.0,
-          "id": 12
-        },
-        {
-          "value": 0.0,
-          "id": 13
-        },
-        {
-          "value": 0.0,
-          "id": 14
-        },
-        {
-          "value": 0.0,
-          "id": 15
-        },
-        {
-          "value": 0.0,
-          "id": 16
-        },
-        {
-          "value": 0.0,
-          "id": 17
-        },
-        {
-          "value": 0.0,
-          "id": 18
-        },
-        {
-          "value": 0.0,
-          "id": 19
-        },
-        {
-          "value": 0.0,
-          "id": 20
-        },
-        {
-          "value": 0.0,
-          "id": 21
-        },
-        {
-          "value": 0.0,
-          "id": 22
-        },
-        {
-          "value": 0.0,
-          "id": 23
-        },
-        {
-          "value": 0.0,
-          "id": 24
-        },
-        {
-          "value": 2.0,
-          "id": 25
-        },
-        {
-          "value": 0.0,
-          "id": 26
-        }
-      ],
-      "leftModuleId": 4806805051055722,
-      "rightModuleId": 5054862820548416,
+      "id": 575388782650533,
+      "plugin": "Venom",
+      "model": "BayOutput",
+      "version": "2.8.0",
+      "params": [],
+      "leftModuleId": 613167643858304,
+      "rightModuleId": 3447088399272766,
       "data": {
-        "xtshared": {
-          "streamingVersion": 1,
-          "buildInfo": "os:macos surge:459f8c06 buildtime=Apr 25 2024 00:34:32",
-          "isCoupledToGlobalStyle": true,
-          "localStyle": 10002,
-          "localDisplayRegionColor": 900001,
-          "localModulationColor": 900001,
-          "localControlValueColor": 900005,
-          "localPowerButtonColor": 900001
-        },
-        "modulespecific": {
-          "displayPolyChannel": 0
-        }
+        "outputName0": "Bar",
+        "outputName1": "Beat",
+        "outputName2": "Half",
+        "outputName3": "Quarter",
+        "outputName4": "Eighth",
+        "outputName5": "16th",
+        "outputName6": "Run",
+        "outputName7": "Reset",
+        "currentTheme": 0,
+        "modName": "Clock",
+        "srcId": 430484657745966,
+        "zeroChannel": false
       },
       "pos": [
-        113,
-        5
+        12,
+        3
       ]
     },
     {
-      "id": 2569401097911088,
+      "id": 4550162581529619,
+      "plugin": "Venom",
+      "model": "BayInput",
+      "version": "2.8.0",
+      "params": [],
+      "leftModuleId": 7188772811063560,
+      "rightModuleId": 5134434116482790,
+      "data": {
+        "inputName0": "Left",
+        "inputName1": "Right",
+        "inputName2": "",
+        "inputName3": "",
+        "inputName4": "",
+        "inputName5": "",
+        "inputName6": "",
+        "inputName7": "",
+        "currentTheme": 0,
+        "oldId": 4550162581529619,
+        "modName": "Channel 2"
+      },
+      "pos": [
+        151,
+        3
+      ]
+    },
+    {
+      "id": 3447088399272766,
+      "plugin": "Venom",
+      "model": "BayOutput",
+      "version": "2.8.0",
+      "params": [],
+      "leftModuleId": 575388782650533,
+      "rightModuleId": 708654894326380,
+      "data": {
+        "outputName0": "Scale",
+        "outputName1": "",
+        "outputName2": "",
+        "outputName3": "",
+        "outputName4": "",
+        "outputName5": "",
+        "outputName6": "",
+        "outputName7": "Root",
+        "currentTheme": 0,
+        "modName": "Scale",
+        "zeroChannel": false
+      },
+      "pos": [
+        17,
+        3
+      ]
+    },
+    {
+      "id": 5134434116482790,
       "plugin": "SubmarineFree",
       "model": "BP-101",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 8108188097944697,
+      "leftModuleId": 4550162581529619,
       "pos": [
-        164,
-        5
+        156,
+        3
       ]
     },
     {
-      "id": 5957825872880604,
+      "id": 613167643858304,
       "plugin": "SubmarineFree",
       "model": "BP-101",
       "version": "2.0.4",
       "params": [],
-      "rightModuleId": 4306264999895596,
+      "rightModuleId": 575388782650533,
       "pos": [
-        31,
-        5
+        11,
+        3
       ]
     },
     {
-      "id": 6845322013241348,
+      "id": 5312553975585382,
       "plugin": "Fundamental",
       "model": "Mult",
       "version": "2.6.0",
       "params": [],
-      "leftModuleId": 8570185712964390,
-      "rightModuleId": 5806393865837371,
+      "leftModuleId": 6560287513068432,
+      "rightModuleId": 6355087922377074,
       "pos": [
-        74,
-        5
+        64,
+        3
       ]
     },
     {
-      "id": 8570185712964390,
+      "id": 6560287513068432,
       "plugin": "Fundamental",
       "model": "Mult",
       "version": "2.6.0",
       "params": [],
-      "leftModuleId": 476615304343853,
-      "rightModuleId": 6845322013241348,
+      "leftModuleId": 2167993520971581,
+      "rightModuleId": 5312553975585382,
       "pos": [
-        71,
-        5
+        61,
+        3
       ]
     },
     {
-      "id": 4306264999895596,
-      "plugin": "LittleUtils",
-      "model": "TeleportOut",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 5957825872880604,
-      "rightModuleId": 476615304343853,
-      "data": {
-        "label": "clck"
-      },
-      "pos": [
-        32,
-        5
-      ]
-    },
-    {
-      "id": 8108188097944697,
-      "plugin": "LittleUtils",
-      "model": "TeleportIn",
-      "version": "2.1.0",
-      "params": [],
-      "leftModuleId": 8035134076811734,
-      "rightModuleId": 2569401097911088,
-      "data": {
-        "label": "ch1"
-      },
-      "pos": [
-        161,
-        5
-      ]
-    },
-    {
-      "id": 476615304343853,
+      "id": 2167993520971581,
       "plugin": "squinkylabs-plug1",
       "model": "squinkylabs-sequencer",
       "version": "2.1.9",
@@ -1826,104 +1873,62 @@
           "id": 8
         }
       ],
-      "leftModuleId": 4306264999895596,
-      "rightModuleId": 8570185712964390,
+      "leftModuleId": 708654894326380,
+      "rightModuleId": 6560287513068432,
       "data": {
         "song": {
           "tk0": [
             {
               "t": 1,
               "s": 0.0,
-              "p": -0.16666664183139801,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 0.5,
-              "p": 0.0,
-              "d": 0.21250000596046448
+              "p": -0.75,
+              "d": 0.82884615659713745
             },
             {
               "t": 1,
               "s": 1.0,
-              "p": 0.1666666716337204,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 1.5,
-              "p": 0.25,
-              "d": 0.21250000596046448
+              "p": -0.91666668653488159,
+              "d": 0.29038462042808533
             },
             {
               "t": 1,
               "s": 2.0,
               "p": -1.0,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 2.5,
-              "p": -0.4166666567325592,
-              "d": 0.21250000596046448
+              "d": 0.52019226551055908
             },
             {
               "t": 1,
               "s": 3.0,
-              "p": -0.75,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 3.5,
-              "p": -0.16666664183139801,
-              "d": 0.21250000596046448
+              "p": -1.0,
+              "d": 0.77115386724472046
             },
             {
               "t": 1,
               "s": 4.0,
-              "p": -0.24999997019767761,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 4.5,
-              "p": -0.16666664183139801,
-              "d": 0.21250000596046448
+              "p": -1.0,
+              "d": 0.27115386724472046
             },
             {
               "t": 1,
               "s": 5.0,
-              "p": 0.0,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 5.5,
               "p": -1.0,
-              "d": 0.21250000596046448
+              "d": 0.2519230842590332
             },
             {
               "t": 1,
               "s": 6.0,
-              "p": -0.75,
-              "d": 0.21250000596046448
-            },
-            {
-              "t": 1,
-              "s": 6.5,
               "p": -1.0,
-              "d": 0.21250000596046448
+              "d": 0.27115386724472046
             },
             {
               "t": 1,
               "s": 7.0,
-              "p": -0.75,
-              "d": 0.21250000596046448
+              "p": -1.0,
+              "d": 0.42500001192092896
             },
             {
               "t": 2,
-              "s": 7.5
+              "s": 8.0
             }
           ],
           "loop": {
@@ -1943,169 +1948,219 @@
         }
       },
       "pos": [
-        35,
-        5
+        25,
+        3
+      ]
+    },
+    {
+      "id": 708654894326380,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-Offset",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        },
+        {
+          "value": 0.31622999906539917,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 3447088399272766,
+      "rightModuleId": 2167993520971581,
+      "data": {
+        "disableOutputLimit": false,
+        "offset_first": false
+      },
+      "pos": [
+        22,
+        3
       ]
     }
   ],
   "cables": [
     {
-      "id": 8836729533106434,
-      "outputModuleId": 4806805051055722,
+      "id": 4784277744756901,
+      "outputModuleId": 2625739054748651,
       "outputId": 0,
-      "inputModuleId": 7756052237050904,
+      "inputModuleId": 4658408660844572,
       "inputId": 0,
       "color": "#c91847"
     },
     {
-      "id": 5522648817807874,
-      "outputModuleId": 4806805051055722,
+      "id": 2376060464078783,
+      "outputModuleId": 2625739054748651,
       "outputId": 1,
-      "inputModuleId": 7756052237050904,
+      "inputModuleId": 4658408660844572,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 3584669960384849,
-      "outputModuleId": 5806393865837371,
+      "id": 3094589650317607,
+      "outputModuleId": 6355087922377074,
       "outputId": 0,
-      "inputModuleId": 7756052237050904,
+      "inputModuleId": 4658408660844572,
       "inputId": 2,
       "color": "#0c8e15"
     },
     {
-      "id": 7807329291886526,
-      "outputModuleId": 5806393865837371,
+      "id": 8917550671222946,
+      "outputModuleId": 6355087922377074,
       "outputId": 1,
-      "inputModuleId": 4806805051055722,
+      "inputModuleId": 2625739054748651,
       "inputId": 2,
       "color": "#0c8e15"
     },
     {
-      "id": 8185703923030518,
-      "outputModuleId": 4306264999895596,
+      "id": 2445626733084668,
+      "outputModuleId": 5312553975585382,
       "outputId": 1,
-      "inputModuleId": 476615304343853,
-      "inputId": 0,
-      "color": "#c91847"
-    },
-    {
-      "id": 3892791588428557,
-      "outputModuleId": 4306264999895596,
-      "outputId": 6,
-      "inputModuleId": 476615304343853,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 3705370512213193,
-      "outputModuleId": 6845322013241348,
-      "outputId": 1,
-      "inputModuleId": 5806393865837371,
+      "inputModuleId": 6355087922377074,
       "inputId": 0,
       "color": "#dd6c00"
     },
     {
-      "id": 4163382223931824,
-      "outputModuleId": 6845322013241348,
+      "id": 2579590970398226,
+      "outputModuleId": 5312553975585382,
       "outputId": 2,
-      "inputModuleId": 5806393865837371,
+      "inputModuleId": 6355087922377074,
       "inputId": 1,
       "color": "#dd6c00"
     },
     {
-      "id": 1114819513328080,
-      "outputModuleId": 8035134076811734,
+      "id": 2395211773993379,
+      "outputModuleId": 2640819087564404,
       "outputId": 0,
-      "inputModuleId": 8108188097944697,
+      "inputModuleId": 8157113731304146,
       "inputId": 0,
       "color": "#c91847"
     },
     {
-      "id": 4040832761851578,
-      "outputModuleId": 8035134076811734,
+      "id": 1657687627157805,
+      "outputModuleId": 2640819087564404,
       "outputId": 1,
-      "inputModuleId": 8108188097944697,
+      "inputModuleId": 8157113731304146,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 5550784641940703,
-      "outputModuleId": 5054862820548416,
+      "id": 765900035722379,
+      "outputModuleId": 4658408660844572,
       "outputId": 0,
-      "inputModuleId": 8428618403646941,
+      "inputModuleId": 2640819087564404,
       "inputId": 0,
       "color": "#c91847"
     },
     {
-      "id": 5355863702697605,
-      "outputModuleId": 5054862820548416,
+      "id": 1542101233922868,
+      "outputModuleId": 4658408660844572,
       "outputId": 1,
-      "inputModuleId": 8428618403646941,
+      "inputModuleId": 2640819087564404,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 3223707308246780,
-      "outputModuleId": 476615304343853,
-      "outputId": 1,
-      "inputModuleId": 6845322013241348,
-      "inputId": 0,
+      "id": 5324931591220169,
+      "outputModuleId": 5312553975585382,
+      "outputId": 0,
+      "inputModuleId": 2640819087564404,
+      "inputId": 2,
       "color": "#dd6c00"
     },
     {
-      "id": 7072903550761229,
-      "outputModuleId": 476615304343853,
+      "id": 1761673110199918,
+      "outputModuleId": 8157113731304146,
       "outputId": 0,
-      "inputModuleId": 8570185712964390,
+      "inputModuleId": 7188772811063560,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 6483059919471574,
+      "outputModuleId": 8157113731304146,
+      "outputId": 1,
+      "inputModuleId": 7188772811063560,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 2194000107670247,
+      "outputModuleId": 6560287513068432,
+      "outputId": 0,
+      "inputModuleId": 2625739054748651,
       "inputId": 0,
       "color": "#0986ad"
     },
     {
-      "id": 5439411410399896,
-      "outputModuleId": 7756052237050904,
+      "id": 6055646080264273,
+      "outputModuleId": 7188772811063560,
       "outputId": 0,
-      "inputModuleId": 5054862820548416,
+      "inputModuleId": 4550162581529619,
       "inputId": 0,
       "color": "#c91847"
     },
     {
-      "id": 369120177721290,
-      "outputModuleId": 7756052237050904,
+      "id": 5211900776576959,
+      "outputModuleId": 7188772811063560,
       "outputId": 1,
-      "inputModuleId": 5054862820548416,
+      "inputModuleId": 4550162581529619,
       "inputId": 1,
       "color": "#c91847"
     },
     {
-      "id": 1470286026781686,
-      "outputModuleId": 6845322013241348,
-      "outputId": 0,
-      "inputModuleId": 5054862820548416,
-      "inputId": 2,
+      "id": 8730464585085139,
+      "outputModuleId": 575388782650533,
+      "outputId": 7,
+      "inputModuleId": 2167993520971581,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 7595372846987232,
+      "outputModuleId": 575388782650533,
+      "outputId": 3,
+      "inputModuleId": 2167993520971581,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 8465532294034439,
+      "outputModuleId": 2167993520971581,
+      "outputId": 1,
+      "inputModuleId": 5312553975585382,
+      "inputId": 0,
       "color": "#dd6c00"
     },
     {
-      "id": 3215570986127233,
-      "outputModuleId": 8428618403646941,
+      "id": 7700662927084712,
+      "outputModuleId": 2167993520971581,
       "outputId": 0,
-      "inputModuleId": 8035134076811734,
-      "inputId": 0,
-      "color": "#c91847"
+      "inputModuleId": 708654894326380,
+      "inputId": 2,
+      "color": "#0986ad"
     },
     {
-      "id": 6830479684331948,
-      "outputModuleId": 8428618403646941,
-      "outputId": 1,
-      "inputModuleId": 8035134076811734,
+      "id": 319835794528346,
+      "outputModuleId": 575388782650533,
+      "outputId": 0,
+      "inputModuleId": 2167993520971581,
       "inputId": 1,
-      "color": "#c91847"
+      "color": "#c9b70e"
     },
     {
-      "id": 1591044651296756,
-      "outputModuleId": 8570185712964390,
+      "id": 4000713139571100,
+      "outputModuleId": 3447088399272766,
+      "outputId": 7,
+      "inputModuleId": 708654894326380,
+      "inputId": 0,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 6827004521147735,
+      "outputModuleId": 708654894326380,
       "outputId": 0,
-      "inputModuleId": 4806805051055722,
+      "inputModuleId": 6560287513068432,
       "inputId": 0,
       "color": "#0986ad"
     }
