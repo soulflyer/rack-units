@@ -1,0 +1,781 @@
+{
+  "modules": [
+    {
+      "id": 7743506126339460,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.5.0",
+      "params": [
+        {
+          "value": 0.43286007642745972,
+          "id": 0
+        },
+        {
+          "value": 0.14628544449806213,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 1.5940001010894775,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 2.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 7290907455612153,
+      "rightModuleId": 8605393379356668,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Oct 21 2024 23:48:11",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10001,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        45,
+        4
+      ]
+    },
+    {
+      "id": 7290907455612153,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.5.0",
+      "params": [
+        {
+          "value": -0.18428260087966919,
+          "id": 0
+        },
+        {
+          "value": 0.1282854825258255,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 1.5940001010894775,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 5.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 3841083306774059,
+      "rightModuleId": 7743506126339460,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Oct 21 2024 23:48:11",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10001,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        33,
+        4
+      ]
+    },
+    {
+      "id": 8605393379356668,
+      "plugin": "SurgeXTRack",
+      "model": "SurgeXTVCF",
+      "version": "2.2.5.0",
+      "params": [
+        {
+          "value": -0.38714253902435303,
+          "id": 0
+        },
+        {
+          "value": 0.70842874050140381,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 1.6094286441802979,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 0.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 0.0,
+          "id": 24
+        },
+        {
+          "value": 23.0,
+          "id": 25
+        },
+        {
+          "value": 0.0,
+          "id": 26
+        }
+      ],
+      "leftModuleId": 7743506126339460,
+      "rightModuleId": 4258890802648390,
+      "data": {
+        "xtshared": {
+          "streamingVersion": 1,
+          "buildInfo": "os:macos surge:ae7c8baf buildtime=Oct 21 2024 23:48:11",
+          "isCoupledToGlobalStyle": true,
+          "localStyle": 10001,
+          "localDisplayRegionColor": 900001,
+          "localModulationColor": 900001,
+          "localControlValueColor": 900005,
+          "localPowerButtonColor": 900001
+        },
+        "modulespecific": {
+          "displayPolyChannel": 0
+        }
+      },
+      "pos": [
+        57,
+        4
+      ]
+    },
+    {
+      "id": 687928444248751,
+      "plugin": "LOGinstruments",
+      "model": "LessMess",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2364478371930675,
+      "rightModuleId": 232738279460084,
+      "data": {
+        "label0": "Audio IN",
+        "label1": "Envelope",
+        "label2": "TRIG",
+        "label3": "V/OCT",
+        "label4": "",
+        "label5": "",
+        "label6": "",
+        "label7": "",
+        "label8": ""
+      },
+      "pos": [
+        81,
+        4
+      ]
+    },
+    {
+      "id": 2364478371930675,
+      "plugin": "JW-Modules",
+      "model": "Quantizer",
+      "version": "2.0.7",
+      "params": [
+        {
+          "value": 7.0,
+          "id": 0
+        },
+        {
+          "value": 9.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 4258890802648390,
+      "rightModuleId": 687928444248751,
+      "data": {
+        "inputsOverride": false
+      },
+      "pos": [
+        77,
+        4
+      ]
+    },
+    {
+      "id": 232738279460084,
+      "plugin": "CountModula",
+      "model": "Oscilloscope",
+      "version": "2.5.0",
+      "params": [
+        {
+          "value": 4.0,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        },
+        {
+          "value": 3.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 6.987952709197998,
+          "id": 4
+        },
+        {
+          "value": -8.0722885131835938,
+          "id": 5
+        },
+        {
+          "value": 2.0120482444763184,
+          "id": 6
+        },
+        {
+          "value": -3.012047290802002,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": -6.6963820457458496,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 1.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 1.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        }
+      ],
+      "leftModuleId": 687928444248751,
+      "data": {
+        "moduleVersion": 1,
+        "theme": 0
+      },
+      "pos": [
+        97,
+        4
+      ]
+    },
+    {
+      "id": 3841083306774059,
+      "plugin": "CountModula",
+      "model": "SlopeDetector",
+      "version": "2.5.0",
+      "params": [
+        {
+          "value": 0.56385600566864014,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 3427163558193703,
+      "rightModuleId": 7290907455612153,
+      "data": {
+        "moduleVersion": 1,
+        "theme": 0
+      },
+      "pos": [
+        25,
+        4
+      ]
+    },
+    {
+      "id": 4528209708335670,
+      "plugin": "Fundamental",
+      "model": "Mult",
+      "version": "2.6.1",
+      "params": [],
+      "rightModuleId": 3427163558193703,
+      "pos": [
+        16,
+        4
+      ]
+    },
+    {
+      "id": 3427163558193703,
+      "plugin": "RPJ",
+      "model": "BlindCurve",
+      "version": "2.2.4",
+      "params": [
+        {
+          "value": 225.4384765625,
+          "id": 0
+        },
+        {
+          "value": 1.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        }
+      ],
+      "leftModuleId": 4528209708335670,
+      "rightModuleId": 3841083306774059,
+      "pos": [
+        19,
+        4
+      ]
+    },
+    {
+      "id": 4258890802648390,
+      "plugin": "Entrian-Free",
+      "model": "Follower",
+      "version": "2.2.1",
+      "params": [
+        {
+          "value": 0.64999997615814209,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.10325301438570023,
+          "id": 2
+        },
+        {
+          "value": 0.30000001192092896,
+          "id": 3
+        }
+      ],
+      "leftModuleId": 8605393379356668,
+      "rightModuleId": 2364478371930675,
+      "pos": [
+        69,
+        4
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 8131343746418653,
+      "outputModuleId": 7290907455612153,
+      "outputId": 0,
+      "inputModuleId": 7743506126339460,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 3744659756069469,
+      "outputModuleId": 4528209708335670,
+      "outputId": 1,
+      "inputModuleId": 7290907455612153,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 4164161902143804,
+      "outputModuleId": 4528209708335670,
+      "outputId": 2,
+      "inputModuleId": 3427163558193703,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 5734780407911648,
+      "outputModuleId": 3427163558193703,
+      "outputId": 0,
+      "inputModuleId": 3841083306774059,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1566108781598511,
+      "outputModuleId": 4258890802648390,
+      "outputId": 0,
+      "inputModuleId": 2364478371930675,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 4142752498429331,
+      "outputModuleId": 7743506126339460,
+      "outputId": 0,
+      "inputModuleId": 4258890802648390,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 6286237155805624,
+      "outputModuleId": 4528209708335670,
+      "outputId": 0,
+      "inputModuleId": 687928444248751,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 1036739435195541,
+      "outputModuleId": 687928444248751,
+      "outputId": 0,
+      "inputModuleId": 232738279460084,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 6507401029429225,
+      "outputModuleId": 3427163558193703,
+      "outputId": 0,
+      "inputModuleId": 687928444248751,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3907588524078577,
+      "outputModuleId": 687928444248751,
+      "outputId": 1,
+      "inputModuleId": 232738279460084,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 6617194508559814,
+      "outputModuleId": 3841083306774059,
+      "outputId": 0,
+      "inputModuleId": 687928444248751,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1769260970674770,
+      "outputModuleId": 687928444248751,
+      "outputId": 2,
+      "inputModuleId": 232738279460084,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 3256706563803337,
+      "outputModuleId": 2364478371930675,
+      "outputId": 0,
+      "inputModuleId": 687928444248751,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 6793509715122692,
+      "outputModuleId": 687928444248751,
+      "outputId": 3,
+      "inputModuleId": 232738279460084,
+      "inputId": 1,
+      "color": "#c9b70e"
+    }
+  ]
+}

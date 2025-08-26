@@ -1,0 +1,564 @@
+{
+  "modules": [
+    {
+      "id": 2276828599377132,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-PEQ14XF",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.30000001192092896,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        }
+      ],
+      "leftModuleId": 6221021205819661,
+      "rightModuleId": 4123710045015478,
+      "data": {},
+      "pos": [
+        78,
+        4
+      ]
+    },
+    {
+      "id": 6221021205819661,
+      "plugin": "Bogaudio",
+      "model": "Bogaudio-PEQ14",
+      "version": "2.4.45",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 0.10999999940395355,
+          "id": 1
+        },
+        {
+          "value": 1.0,
+          "id": 2
+        },
+        {
+          "value": 1.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 5
+        },
+        {
+          "value": 0.068920202553272247,
+          "id": 6
+        },
+        {
+          "value": 1.0,
+          "id": 7
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 8
+        },
+        {
+          "value": 0.079056903719902039,
+          "id": 9
+        },
+        {
+          "value": 1.0,
+          "id": 10
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 11
+        },
+        {
+          "value": 0.093541398644447327,
+          "id": 12
+        },
+        {
+          "value": 1.0,
+          "id": 13
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 14
+        },
+        {
+          "value": 0.11180339753627777,
+          "id": 15
+        },
+        {
+          "value": 1.0,
+          "id": 16
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 17
+        },
+        {
+          "value": 0.13228760659694672,
+          "id": 18
+        },
+        {
+          "value": 1.0,
+          "id": 19
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 20
+        },
+        {
+          "value": 0.15811389684677124,
+          "id": 21
+        },
+        {
+          "value": 1.0,
+          "id": 22
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 23
+        },
+        {
+          "value": 0.18708290159702301,
+          "id": 24
+        },
+        {
+          "value": 1.0,
+          "id": 25
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 26
+        },
+        {
+          "value": 0.22360679507255554,
+          "id": 27
+        },
+        {
+          "value": 1.0,
+          "id": 28
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 29
+        },
+        {
+          "value": 0.26457509398460388,
+          "id": 30
+        },
+        {
+          "value": 1.0,
+          "id": 31
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 32
+        },
+        {
+          "value": 0.31622779369354248,
+          "id": 33
+        },
+        {
+          "value": 1.0,
+          "id": 34
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 35
+        },
+        {
+          "value": 0.37416571378707886,
+          "id": 36
+        },
+        {
+          "value": 1.0,
+          "id": 37
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 38
+        },
+        {
+          "value": 0.44721359014511108,
+          "id": 39
+        },
+        {
+          "value": 1.0,
+          "id": 40
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 41
+        },
+        {
+          "value": 0.52915030717849731,
+          "id": 42
+        },
+        {
+          "value": 1.0,
+          "id": 43
+        },
+        {
+          "value": 0.90909093618392944,
+          "id": 44
+        },
+        {
+          "value": 0.58736699819564819,
+          "id": 45
+        },
+        {
+          "value": 1.0,
+          "id": 46
+        }
+      ],
+      "leftModuleId": 3561806029103235,
+      "rightModuleId": 2276828599377132,
+      "data": {
+        "band_exclude": false
+      },
+      "pos": [
+        32,
+        4
+      ]
+    },
+    {
+      "id": 693336749030607,
+      "plugin": "AmalgamatedHarmonics",
+      "model": "PolyScope",
+      "version": "2.0.1",
+      "params": [
+        {
+          "value": -1.0168673992156982,
+          "id": 0
+        },
+        {
+          "value": 3.0,
+          "id": 1
+        },
+        {
+          "value": 6.8433723449707031,
+          "id": 2
+        },
+        {
+          "value": 16.0,
+          "id": 3
+        }
+      ],
+      "leftModuleId": 1691058303688744,
+      "data": {
+        "cmap": 0,
+        "path": ""
+      },
+      "pos": [
+        60,
+        5
+      ]
+    },
+    {
+      "id": 7927327336292084,
+      "plugin": "AmalgamatedHarmonics",
+      "model": "PolyScope",
+      "version": "2.0.1",
+      "params": [
+        {
+          "value": 0.0,
+          "id": 0
+        },
+        {
+          "value": 1.267470121383667,
+          "id": 1
+        },
+        {
+          "value": 6.4698796272277832,
+          "id": 2
+        },
+        {
+          "value": 2.0819287300109863,
+          "id": 3
+        }
+      ],
+      "rightModuleId": 7124924417718911,
+      "data": {
+        "cmap": 3,
+        "path": ""
+      },
+      "pos": [
+        32,
+        5
+      ]
+    },
+    {
+      "id": 1691058303688744,
+      "plugin": "dbRackSequencer",
+      "model": "M16",
+      "version": "2.5.0",
+      "params": [],
+      "rightModuleId": 693336749030607,
+      "pos": [
+        58,
+        5
+      ]
+    },
+    {
+      "id": 7124924417718911,
+      "plugin": "dbRackSequencer",
+      "model": "M16",
+      "version": "2.5.0",
+      "params": [],
+      "leftModuleId": 7927327336292084,
+      "pos": [
+        55,
+        5
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 1043808212194997,
+      "outputModuleId": 2276828599377132,
+      "outputId": 0,
+      "inputModuleId": 1691058303688744,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 8148315319945862,
+      "outputModuleId": 2276828599377132,
+      "outputId": 1,
+      "inputModuleId": 1691058303688744,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 6059728163066573,
+      "outputModuleId": 2276828599377132,
+      "outputId": 2,
+      "inputModuleId": 1691058303688744,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3404540897535974,
+      "outputModuleId": 2276828599377132,
+      "outputId": 3,
+      "inputModuleId": 1691058303688744,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 2932752635526413,
+      "outputModuleId": 2276828599377132,
+      "outputId": 4,
+      "inputModuleId": 1691058303688744,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 6395936880873883,
+      "outputModuleId": 2276828599377132,
+      "outputId": 5,
+      "inputModuleId": 1691058303688744,
+      "inputId": 5,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 6205521380536411,
+      "outputModuleId": 2276828599377132,
+      "outputId": 6,
+      "inputModuleId": 1691058303688744,
+      "inputId": 6,
+      "color": "#a83289"
+    },
+    {
+      "id": 5343049408668045,
+      "outputModuleId": 2276828599377132,
+      "outputId": 7,
+      "inputModuleId": 1691058303688744,
+      "inputId": 7,
+      "color": "#f3374b"
+    },
+    {
+      "id": 8480289649872585,
+      "outputModuleId": 2276828599377132,
+      "outputId": 8,
+      "inputModuleId": 1691058303688744,
+      "inputId": 8,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 5811604699364724,
+      "outputModuleId": 2276828599377132,
+      "outputId": 9,
+      "inputModuleId": 1691058303688744,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 3962655097613462,
+      "outputModuleId": 2276828599377132,
+      "outputId": 10,
+      "inputModuleId": 1691058303688744,
+      "inputId": 10,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 956290805677805,
+      "outputModuleId": 2276828599377132,
+      "outputId": 11,
+      "inputModuleId": 1691058303688744,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5420709485943186,
+      "outputModuleId": 2276828599377132,
+      "outputId": 12,
+      "inputModuleId": 1691058303688744,
+      "inputId": 12,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 4059923964025559,
+      "outputModuleId": 2276828599377132,
+      "outputId": 13,
+      "inputModuleId": 1691058303688744,
+      "inputId": 13,
+      "color": "#a83289"
+    },
+    {
+      "id": 654156728628199,
+      "outputModuleId": 6221021205819661,
+      "outputId": 3,
+      "inputModuleId": 7124924417718911,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 8157075451956416,
+      "outputModuleId": 6221021205819661,
+      "outputId": 4,
+      "inputModuleId": 7124924417718911,
+      "inputId": 1,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 5416854510232911,
+      "outputModuleId": 6221021205819661,
+      "outputId": 5,
+      "inputModuleId": 7124924417718911,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1966675616054366,
+      "outputModuleId": 6221021205819661,
+      "outputId": 6,
+      "inputModuleId": 7124924417718911,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3096494768062015,
+      "outputModuleId": 6221021205819661,
+      "outputId": 7,
+      "inputModuleId": 7124924417718911,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1044810587951478,
+      "outputModuleId": 6221021205819661,
+      "outputId": 8,
+      "inputModuleId": 7124924417718911,
+      "inputId": 5,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 4916731112623489,
+      "outputModuleId": 6221021205819661,
+      "outputId": 9,
+      "inputModuleId": 7124924417718911,
+      "inputId": 6,
+      "color": "#a83289"
+    },
+    {
+      "id": 5513151949627301,
+      "outputModuleId": 6221021205819661,
+      "outputId": 10,
+      "inputModuleId": 7124924417718911,
+      "inputId": 7,
+      "color": "#f3374b"
+    },
+    {
+      "id": 555153279961143,
+      "outputModuleId": 6221021205819661,
+      "outputId": 11,
+      "inputModuleId": 7124924417718911,
+      "inputId": 8,
+      "color": "#dd6c00"
+    },
+    {
+      "id": 8191031653961508,
+      "outputModuleId": 6221021205819661,
+      "outputId": 12,
+      "inputModuleId": 7124924417718911,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 8706318375193982,
+      "outputModuleId": 6221021205819661,
+      "outputId": 13,
+      "inputModuleId": 7124924417718911,
+      "inputId": 10,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 6994995039963607,
+      "outputModuleId": 6221021205819661,
+      "outputId": 14,
+      "inputModuleId": 7124924417718911,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 5625217786928536,
+      "outputModuleId": 6221021205819661,
+      "outputId": 15,
+      "inputModuleId": 7124924417718911,
+      "inputId": 12,
+      "color": "#8a2be2"
+    },
+    {
+      "id": 1778454805558115,
+      "outputModuleId": 6221021205819661,
+      "outputId": 16,
+      "inputModuleId": 7124924417718911,
+      "inputId": 13,
+      "color": "#a83289"
+    },
+    {
+      "id": 2978268657575370,
+      "outputModuleId": 1691058303688744,
+      "outputId": 0,
+      "inputModuleId": 693336749030607,
+      "inputId": 0,
+      "color": "#f3374b"
+    },
+    {
+      "id": 3507689933238654,
+      "outputModuleId": 7124924417718911,
+      "outputId": 0,
+      "inputModuleId": 7927327336292084,
+      "inputId": 0,
+      "color": "#f3374b"
+    }
+  ]
+}
