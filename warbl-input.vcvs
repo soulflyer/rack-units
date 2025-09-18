@@ -49,6 +49,7 @@
           0,
           0,
           0,
+          127,
           0,
           0,
           0,
@@ -142,8 +143,7 @@
           0,
           0,
           0,
-          0,
-          0,
+          6,
           0,
           0,
           0,
@@ -167,20 +167,8 @@
         "lsbMode": false
       },
       "pos": [
-        10,
-        2
-      ]
-    },
-    {
-      "id": 7804082946781465,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 7282988875389178,
-      "pos": [
-        1,
-        2
+        68,
+        1
       ]
     },
     {
@@ -207,8 +195,21 @@
         }
       },
       "pos": [
-        2,
-        2
+        60,
+        1
+      ]
+    },
+    {
+      "id": 7804082946781465,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "leftModuleId": 2919613187874108,
+      "rightModuleId": 7282988875389178,
+      "pos": [
+        59,
+        1
       ]
     },
     {
@@ -233,33 +234,8 @@
         "modName": "Warbl"
       },
       "pos": [
-        20,
-        2
-      ]
-    },
-    {
-      "id": 8282964643402116,
-      "plugin": "Venom",
-      "model": "BayOutput",
-      "version": "2.12.3",
-      "params": [],
-      "data": {
-        "outputName0": "V/Oct",
-        "outputName1": "Gate",
-        "outputName2": "Velocity",
-        "outputName3": "Breath",
-        "outputName4": "Port 5",
-        "outputName5": "Port 6",
-        "outputName6": "Port 7",
-        "outputName7": "Port 8",
-        "currentTheme": 0,
-        "modName": "Warbl",
-        "srcId": 731676099920570,
-        "zeroChannel": false
-      },
-      "pos": [
-        30,
-        2
+        78,
+        1
       ]
     },
     {
@@ -270,8 +246,8 @@
       "params": [],
       "leftModuleId": 633884295334515,
       "pos": [
-        26,
-        2
+        84,
+        1
       ]
     },
     {
@@ -288,8 +264,8 @@
         "m_mode": 0.0
       },
       "pos": [
-        25,
-        2
+        83,
+        1
       ]
     }
   ],

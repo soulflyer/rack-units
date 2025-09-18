@@ -1,66 +1,19 @@
 {
   "modules": [
     {
-      "id": 3804071717943952,
-      "plugin": "SubmarineFree",
-      "model": "TD-316",
-      "version": "2.0.4",
-      "params": [],
-      "leftModuleId": 1160955424302461,
-      "rightModuleId": 755469932418579,
-      "data": {
-        "width": 165.0,
-        "text": "Mix of noise and pulse wave as the driver, resonance at rootnote plus a little sub, some detuned but pitch tracked and some resonance at a fixed frequency",
-        "size": 12.0,
-        "fg": "#29b2ef",
-        "bg": "#000000"
-      },
-      "pos": [
-        65,
-        2
-      ]
-    },
-    {
-      "id": 4472855165514311,
-      "plugin": "Venom",
-      "model": "BayOutput",
-      "version": "2.12.3",
-      "params": [],
-      "leftModuleId": 7323197214776777,
-      "rightModuleId": 6276262212855594,
-      "data": {
-        "outputName0": "V/Oct",
-        "outputName1": "Gate",
-        "outputName2": "Velocity",
-        "outputName3": "Aftertouch",
-        "outputName4": "Pitch Wheel",
-        "outputName5": "Mod Wheel",
-        "outputName6": "",
-        "outputName7": "",
-        "currentTheme": 0,
-        "modName": "MIDI-Keys",
-        "srcId": 5689230862730712,
-        "zeroChannel": false
-      },
-      "pos": [
-        5,
-        2
-      ]
-    },
-    {
-      "id": 4098785771217825,
+      "id": 4042488020730543,
       "plugin": "SubmarineFree",
       "model": "BP-101",
       "version": "2.0.4",
       "params": [],
-      "leftModuleId": 755469932418579,
+      "leftModuleId": 334259861908969,
       "pos": [
-        81,
+        61,
         2
       ]
     },
     {
-      "id": 1412176856521716,
+      "id": 6551612517939561,
       "plugin": "Cella",
       "model": "Resonators",
       "version": "2.9.0",
@@ -70,11 +23,11 @@
           "id": 0
         },
         {
-          "value": 0.19518071413040161,
+          "value": 0.46746939420700073,
           "id": 1
         },
         {
-          "value": 0.0,
+          "value": -4.76837158203125e-7,
           "id": 2
         },
         {
@@ -90,11 +43,11 @@
           "id": 5
         },
         {
-          "value": 14.053000450134277,
+          "value": 8.9783134460449219,
           "id": 6
         },
         {
-          "value": 0.15301206707954407,
+          "value": 0.33132514357566833,
           "id": 7
         },
         {
@@ -102,7 +55,7 @@
           "id": 8
         },
         {
-          "value": 0.81927704811096191,
+          "value": 0.59759002923965454,
           "id": 9
         },
         {
@@ -130,15 +83,15 @@
           "id": 15
         }
       ],
-      "leftModuleId": 585679446554130,
-      "rightModuleId": 1160955424302461,
+      "leftModuleId": 5811010510533381,
+      "rightModuleId": 6376694962434871,
       "pos": [
-        46,
+        37,
         2
       ]
     },
     {
-      "id": 3992616176527783,
+      "id": 2825428896345699,
       "plugin": "Fundamental",
       "model": "VCMixer",
       "version": "2.6.4",
@@ -148,11 +101,11 @@
           "id": 0
         },
         {
-          "value": 0.4666903018951416,
+          "value": 0.79195958375930786,
           "id": 1
         },
         {
-          "value": 1.0832874774932861,
+          "value": 0.85135644674301147,
           "id": 2
         },
         {
@@ -164,19 +117,19 @@
           "id": 4
         }
       ],
-      "leftModuleId": 3529929310945709,
-      "rightModuleId": 7953363119937689,
+      "leftModuleId": 8361680858897421,
+      "rightModuleId": 1645724896826672,
       "data": {
         "chExp": false,
         "mixExp": false
       },
       "pos": [
-        25,
+        16,
         2
       ]
     },
     {
-      "id": 585679446554130,
+      "id": 5811010510533381,
       "plugin": "Fundamental",
       "model": "VCA-1",
       "version": "2.6.4",
@@ -190,33 +143,21 @@
           "id": 1
         }
       ],
-      "leftModuleId": 7953363119937689,
-      "rightModuleId": 1412176856521716,
+      "leftModuleId": 1645724896826672,
+      "rightModuleId": 6551612517939561,
       "pos": [
-        43,
+        34,
         2
       ]
     },
     {
-      "id": 7323197214776777,
-      "plugin": "SubmarineFree",
-      "model": "BP-101",
-      "version": "2.0.4",
-      "params": [],
-      "rightModuleId": 4472855165514311,
-      "pos": [
-        4,
-        2
-      ]
-    },
-    {
-      "id": 1160955424302461,
+      "id": 6376694962434871,
       "plugin": "Fundamental",
       "model": "VCF",
       "version": "2.6.4",
       "params": [
         {
-          "value": 0.8721623420715332,
+          "value": 0.73542529344558716,
           "id": 0
         },
         {
@@ -224,7 +165,7 @@
           "id": 1
         },
         {
-          "value": 0.0,
+          "value": 0.50361400842666626,
           "id": 2
         },
         {
@@ -232,7 +173,7 @@
           "id": 3
         },
         {
-          "value": 0.0,
+          "value": -0.609638512134552,
           "id": 4
         },
         {
@@ -240,25 +181,25 @@
           "id": 5
         },
         {
-          "value": 0.0,
+          "value": 1.0,
           "id": 6
         }
       ],
-      "leftModuleId": 1412176856521716,
-      "rightModuleId": 3804071717943952,
+      "leftModuleId": 6551612517939561,
+      "rightModuleId": 334259861908969,
       "pos": [
-        58,
+        49,
         2
       ]
     },
     {
-      "id": 755469932418579,
+      "id": 334259861908969,
       "plugin": "Venom",
       "model": "BayInput",
       "version": "2.12.3",
       "params": [],
-      "leftModuleId": 3804071717943952,
-      "rightModuleId": 4098785771217825,
+      "leftModuleId": 6376694962434871,
+      "rightModuleId": 4042488020730543,
       "data": {
         "inputName0": "Left",
         "inputName1": "Right",
@@ -269,29 +210,29 @@
         "inputName6": "",
         "inputName7": "",
         "currentTheme": 0,
-        "oldId": 755469932418579,
-        "modName": "Channel-1"
+        "oldId": 334259861908969,
+        "modName": "Channel-2"
       },
       "pos": [
-        76,
+        56,
         2
       ]
     },
     {
-      "id": 4439283909158838,
+      "id": 2707305875229191,
       "plugin": "Fundamental",
       "model": "Noise",
       "version": "2.6.4",
       "params": [],
-      "leftModuleId": 6276262212855594,
-      "rightModuleId": 3529929310945709,
+      "leftModuleId": 930414026375491,
+      "rightModuleId": 8361680858897421,
       "pos": [
-        13,
+        4,
         2
       ]
     },
     {
-      "id": 3529929310945709,
+      "id": 8361680858897421,
       "plugin": "Fundamental",
       "model": "VCO",
       "version": "2.6.4",
@@ -329,15 +270,15 @@
           "id": 7
         }
       ],
-      "leftModuleId": 4439283909158838,
-      "rightModuleId": 3992616176527783,
+      "leftModuleId": 2707305875229191,
+      "rightModuleId": 2825428896345699,
       "pos": [
-        16,
+        7,
         2
       ]
     },
     {
-      "id": 7953363119937689,
+      "id": 1645724896826672,
       "plugin": "Fundamental",
       "model": "ADSR",
       "version": "2.6.4",
@@ -379,21 +320,21 @@
           "id": 8
         }
       ],
-      "leftModuleId": 3992616176527783,
-      "rightModuleId": 585679446554130,
+      "leftModuleId": 2825428896345699,
+      "rightModuleId": 5811010510533381,
       "pos": [
-        34,
+        25,
         2
       ]
     },
     {
-      "id": 6276262212855594,
+      "id": 930414026375491,
       "plugin": "Bogaudio",
       "model": "Bogaudio-Slew",
       "version": "2.6.47",
       "params": [
         {
-          "value": 0.092133671045303345,
+          "value": 0.075903728604316711,
           "id": 0
         },
         {
@@ -413,143 +354,190 @@
           "id": 4
         }
       ],
-      "leftModuleId": 4472855165514311,
-      "rightModuleId": 4439283909158838,
+      "leftModuleId": 6641726008549362,
+      "rightModuleId": 2707305875229191,
       "data": {},
       "pos": [
-        10,
+        1,
+        2
+      ]
+    },
+    {
+      "id": 6641726008549362,
+      "plugin": "Venom",
+      "model": "BayOutput",
+      "version": "2.12.3",
+      "params": [],
+      "leftModuleId": 6938963183726668,
+      "rightModuleId": 930414026375491,
+      "data": {
+        "outputName0": "V/Oct",
+        "outputName1": "Gate",
+        "outputName2": "Velocity",
+        "outputName3": "Breath",
+        "outputName4": "Port 5",
+        "outputName5": "Port 6",
+        "outputName6": "Port 7",
+        "outputName7": "Port 8",
+        "currentTheme": 0,
+        "modName": "Warbl",
+        "srcId": 731676099920570,
+        "zeroChannel": false
+      },
+      "pos": [
+        -4,
+        2
+      ]
+    },
+    {
+      "id": 6938963183726668,
+      "plugin": "SubmarineFree",
+      "model": "BP-101",
+      "version": "2.0.4",
+      "params": [],
+      "rightModuleId": 6641726008549362,
+      "pos": [
+        -5,
         2
       ]
     }
   ],
   "cables": [
     {
-      "id": 7970510705145005,
-      "outputModuleId": 6276262212855594,
+      "id": 3346417849020868,
+      "outputModuleId": 6551612517939561,
       "outputId": 0,
-      "inputModuleId": 3529929310945709,
-      "inputId": 0,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 7603459016508283,
-      "outputModuleId": 1160955424302461,
-      "outputId": 0,
-      "inputModuleId": 755469932418579,
-      "inputId": 0,
-      "color": "#a83289"
-    },
-    {
-      "id": 4120816133315817,
-      "outputModuleId": 1160955424302461,
-      "outputId": 0,
-      "inputModuleId": 755469932418579,
-      "inputId": 1,
-      "color": "#a83289"
-    },
-    {
-      "id": 4092748224179071,
-      "outputModuleId": 585679446554130,
-      "outputId": 0,
-      "inputModuleId": 1412176856521716,
-      "inputId": 0,
-      "color": "#a83289"
-    },
-    {
-      "id": 2885269301702061,
-      "outputModuleId": 6276262212855594,
-      "outputId": 0,
-      "inputModuleId": 1412176856521716,
-      "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 6260840414535947,
-      "outputModuleId": 6276262212855594,
-      "outputId": 0,
-      "inputModuleId": 1412176856521716,
-      "inputId": 2,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 1452174742603365,
-      "outputModuleId": 6276262212855594,
-      "outputId": 0,
-      "inputModuleId": 1412176856521716,
+      "inputModuleId": 6376694962434871,
       "inputId": 3,
-      "color": "#c9b70e"
+      "color": "#a83289"
     },
     {
-      "id": 2835555030852463,
-      "outputModuleId": 7953363119937689,
+      "id": 1582177045136036,
+      "outputModuleId": 6376694962434871,
       "outputId": 0,
-      "inputModuleId": 585679446554130,
+      "inputModuleId": 334259861908969,
       "inputId": 0,
-      "color": "#0c8e15"
+      "color": "#a83289"
     },
     {
-      "id": 3339907423263344,
-      "outputModuleId": 3992616176527783,
+      "id": 5372953485371933,
+      "outputModuleId": 6376694962434871,
       "outputId": 0,
-      "inputModuleId": 585679446554130,
+      "inputModuleId": 334259861908969,
       "inputId": 1,
       "color": "#a83289"
     },
     {
-      "id": 7836432859397016,
-      "outputModuleId": 4472855165514311,
+      "id": 8281513504206493,
+      "outputModuleId": 6641726008549362,
       "outputId": 1,
-      "inputModuleId": 7953363119937689,
+      "inputModuleId": 1645724896826672,
       "inputId": 4,
       "color": "#0c8e15"
     },
     {
-      "id": 3407529612765589,
-      "outputModuleId": 1412176856521716,
+      "id": 1020005803013543,
+      "outputModuleId": 5811010510533381,
       "outputId": 0,
-      "inputModuleId": 1160955424302461,
-      "inputId": 3,
+      "inputModuleId": 6551612517939561,
+      "inputId": 0,
       "color": "#a83289"
     },
     {
-      "id": 3894884557452739,
-      "outputModuleId": 4439283909158838,
+      "id": 7244208049590119,
+      "outputModuleId": 930414026375491,
+      "outputId": 0,
+      "inputModuleId": 6551612517939561,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 7417620819317429,
+      "outputModuleId": 930414026375491,
+      "outputId": 0,
+      "inputModuleId": 6551612517939561,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1745771107038999,
+      "outputModuleId": 930414026375491,
+      "outputId": 0,
+      "inputModuleId": 6551612517939561,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 6489776450727051,
+      "outputModuleId": 2707305875229191,
       "outputId": 1,
-      "inputModuleId": 3992616176527783,
+      "inputModuleId": 2825428896345699,
       "inputId": 1,
       "color": "#a83289"
     },
     {
-      "id": 5350905059504086,
-      "outputModuleId": 3529929310945709,
+      "id": 7680412004226758,
+      "outputModuleId": 8361680858897421,
       "outputId": 3,
-      "inputModuleId": 3992616176527783,
+      "inputModuleId": 2825428896345699,
       "inputId": 2,
       "color": "#a83289"
     },
     {
-      "id": 4749132836145435,
-      "outputModuleId": 4472855165514311,
-      "outputId": 1,
-      "inputModuleId": 6276262212855594,
+      "id": 8932851587882504,
+      "outputModuleId": 1645724896826672,
+      "outputId": 0,
+      "inputModuleId": 5811010510533381,
       "inputId": 0,
       "color": "#0c8e15"
     },
     {
-      "id": 2931190877985275,
-      "outputModuleId": 4472855165514311,
+      "id": 3738254621877207,
+      "outputModuleId": 2825428896345699,
+      "outputId": 0,
+      "inputModuleId": 5811010510533381,
+      "inputId": 1,
+      "color": "#a83289"
+    },
+    {
+      "id": 1210179625288718,
+      "outputModuleId": 930414026375491,
+      "outputId": 0,
+      "inputModuleId": 8361680858897421,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 784933890589183,
+      "outputModuleId": 6641726008549362,
       "outputId": 1,
-      "inputModuleId": 6276262212855594,
+      "inputModuleId": 930414026375491,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 3729504082222248,
+      "outputModuleId": 6641726008549362,
+      "outputId": 1,
+      "inputModuleId": 930414026375491,
       "inputId": 1,
       "color": "#0c8e15"
     },
     {
-      "id": 2448873820029644,
-      "outputModuleId": 4472855165514311,
+      "id": 8649623947125188,
+      "outputModuleId": 6641726008549362,
       "outputId": 0,
-      "inputModuleId": 6276262212855594,
+      "inputModuleId": 930414026375491,
       "inputId": 2,
       "color": "#c9b70e"
+    },
+    {
+      "id": 7525275756800405,
+      "outputModuleId": 6641726008549362,
+      "outputId": 3,
+      "inputModuleId": 6376694962434871,
+      "inputId": 2,
+      "color": "#de7000"
     }
   ]
 }
